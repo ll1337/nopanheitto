@@ -30,9 +30,15 @@ const puppeteer = require('puppeteer');
   //      return elements.map((element) => element.textContent);
   //  });
 
-//   console.log(links);
   const lamaSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
-	await page.waitForSelector(lamaSelector);
+  await page.waitForSelector(lamaSelector);
+
+      const elements = await page.$$eval('.sc-bdVaJa.sc-1t7n2sp-2.laxuH', (elements) => {
+        return elements.map((element) => element.textContent);
+    });
+
+    console.log(elements);
+//   console.log(links);
 	console.log(lamaSelector);
 	console.log(lamaSelector.textContent);
 
