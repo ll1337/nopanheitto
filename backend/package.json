@@ -1,0 +1,19 @@
+{
+  "name": "nopanheitto-backend",
+  "version": "1.0.0",
+  "description": "backend for scraping TUNI courses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ll1337/nopanheitto/backend"
+  },
+  "author": "ll1337",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.3"
+  }
+}
