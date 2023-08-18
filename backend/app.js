@@ -17,6 +17,8 @@ const puppeteer = require('puppeteer');
 
 
 (async () => {
+
+  const defaultTimeout = 5000;
   // Launch the browser and open a new blank page
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
@@ -25,22 +27,45 @@ const puppeteer = require('puppeteer');
   await page.goto('https://www.tuni.fi/opiskelijanopas/opintotiedot/opintojaksot/?year=2023');
 
   // Set screen size
-  //await page.setViewport({width: 1080, height: 1024});
-  //const links = await page.$$eval('a[href^="/opiskelijanopas/opintotiedot/opintojaksot/otm-acbfc47e-10dc-450f-9580-7152e90acc70?year=2023"]', (elements) => {
-  //      return elements.map((element) => element.textContent);
-  //  });
+  await page.setViewport({width: 1080, height: 1024});
 
-  const lamaSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
-  await page.waitForSelector(lamaSelector);
 
-      const elements = await page.$$eval('.sc-bdVaJa.sc-1t7n2sp-2.laxuH', (elements) => {
+  //const displayFiftySelector = 'page-size-50';
+  //await page.waitForSelector(displayFiftySelector);
+  //await page.click(displayFiftySelector);
+  
+  await page.waitForTimeout(defaultTimeout);
+  const radioSelector = 'input#page-size-50';
+  console.log(radioSelector);
+  await page.waitForSelector(radioSelector, {visible:true, timeout:5000});
+  //await page.click('input#page-size-50');
+  //await page.waitForTimeout(3000);
+
+
+  const moreSelector ='.sc-bdVaJa.sc-EHOje.sc-13iuobc-0.bgjxSN';
+
+  const courseSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
+
+  for (let i = 0; i < 7; i++) {
+  	await page.waitForTimeout(defaultTimeout);
+	await page.waitForSelector(moreSelector, {visible:true, timeout:5000});
+  	await page.click(moreSelector);
+	console.log(i);
+  	await page.waitForSelector(courseSelector);
+
+	const elements = await page.$$eval(courseSelector, (elements) => {
+        	return elements.map((element) => element.textContent);
+  	});
+
+  	console.log(elements);
+  }
+
+
+  const elements = await page.$$eval(courseSelector, (elements) => {
         return elements.map((element) => element.textContent);
-    });
+  });
 
-    console.log(elements);
-//   console.log(links);
-	console.log(lamaSelector);
-	console.log(lamaSelector.textContent);
+  console.log(elements);
 
   // Type into search box
   //await page.type('.search-box__input', 'automate beyond recorder');
