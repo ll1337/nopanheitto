@@ -3,13 +3,19 @@ import { StrictMode } from 'react';
 import { motion } from "framer-motion";
 import {useState} from 'react';
 
+
 function App() {
 
   const [diePosition, setDiePosition] = useState(0);
+  const [DisplayResults, setDisplayResults] = useState(true);
 
   const dieOn = () => {
-    setDiePosition(diePosition === 0 ? 270 : 0)
-    console.log("on");
+    setDiePosition(diePosition + 270);
+    setDiePosition(diePosition - 270);
+    console.log(DisplayResults);
+    setTimeout(() => {
+      setDisplayResults(false);
+    }, 900);
   }
 
   return (
@@ -17,19 +23,33 @@ function App() {
       <div className="App">
         <header className="App-header">
 
-            Nopanheitto
+            💫 Nopanheitto ✨
           
         </header>
 
-        <motion.div
-          className='motiondiv'
-          onTap={dieOn}
-          animate={{
-            scale: [1, 2, 2, 1, 1],
-            rotate: [0, 0, diePosition, diePosition, 0],
-            borderRadius: ["20%", "20%", "50%", "50%", "20%"],
-          }}
-        />
+        <div className='flex'>
+
+        {/* <motion.div
+            className='motiondivtwo'
+            onTap={dieOn}
+            animate={{
+              rotate: [0, 0, diePosition, diePosition, 0]
+            }}
+          >
+            <div hidden={DisplayResults} className="centerDiv">periodi</div>
+          </motion.div> */}
+
+          <motion.div
+            className='motiondiv'
+            onTap={dieOn}
+            animate={{
+              rotate: [0, 0, diePosition, diePosition, 0]
+            }}
+          >
+            <div className="centerDiv" >{DisplayResults? "heitä noppaa!!" : "ongelmalapset 2"}</div>
+          </motion.div>
+
+        </div>
         
       </div>
     </StrictMode>
