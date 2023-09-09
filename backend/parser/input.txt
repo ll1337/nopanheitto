@@ -1,0 +1,6270 @@
+DPHKP.041
+2. Tieteelliset kirja- ja artikkelipaketit
+1–10 op
+COMP.SGN.320
+3D and Virtual Reality
+5 op
+ARK.ME.031
+3D-mallinnus I
+2 op
+ARK.ME.032
+3D-mallinnus II
+3 op
+COMM.SYS.700
+5G Mobile Communications
+5 op
+LÄÄK.402
+Abdominal complaints
+7 op
+TAU.TRI.406
+Academic Presentations
+2 op
+DPHS.230
+Academic Writing
+2 op
+TAU.TRI.401
+Academic Writing
+2 op
+LANG.ENG.011
+Academic Writing A (C1)
+3 op
+LANG.ENG.012
+Academic Writing B (C1)
+2 op
+ACC.060
+Accessibility and user experience
+1 op
+ACC.310
+Accessibility in AR and VR
+1 op
+ACC.210
+Accessible AI
+1 op
+ACC.230
+Accessible Documents
+1 op
+ACC.320
+Accessible Information Visualization
+1 op
+ACC.270
+Accessible Lectures
+1 op
+ACC.240
+Accessible Media
+1 op
+ACC.250
+Accessible Social Media
+1 op
+DPSS.SPS.830
+Addiktioseminaari
+5 op
+STY.210
+Addiktiot, yksilö ja yhteiskunta
+5 op
+KONE.411
+Additive Manufacturing
+5 op
+MSE.440
+Adhesion and Surface Modifications
+5 op
+STY.403
+Adoptio ja sosiaalityö
+5 op
+MATH.APP.820
+Advanced Applied Logics
+5 op
+COMP.SGN.220
+Advanced Audio Processing
+5 op
+LANG.ENG.013
+Advanced Business English (B2)
+4 op
+MSE.462
+Advanced Ceramics
+5 op
+MSE.438
+Advanced Composites
+5 op
+KAT.LASK.322
+Advanced Course in Corporate Finance
+5 op
+COMM.SYS.900
+Advanced Course in Digital Communication
+5 op
+COMM.SYS.750
+Advanced Course on Wireless Communications
+5 op
+COMP.SGN.300
+Advanced Image Processing
+5 op
+MAB.330
+Advanced introduction to Research methods, Argumentation and Philosophy of science
+5–10 op
+FYS.502
+Advanced laser technology
+5 op
+MSE.510
+Advanced Materials Characterization
+5 op
+MATH.APP.740
+Advanced mathematical modelling: Discrete modelling
+5 op
+BBT.CT.409
+Advanced Microscopy
+5 op
+KONE.970
+Advanced Project Work
+5 op
+DATA.STAT.790
+Advanced Regression Methods
+5 op
+AUT.720
+Advanced Robotics
+5 op
+COMP.SGN.200
+Advanced Signal Processing
+5 op
+COMP.SGN.240
+Advanced Signal Processing Laboratory
+5 op
+MSE.472
+Advanced Surface Engineering
+5 op
+KAS.KAY.506
+Advanced theme studies in education: Educational and multidisciplinary perspectives on learners’ agency
+10 op
+KAS.KAY.503
+Advanced theme studies in education: Socio-cultural diversity and transnational perspectives in education
+10 op
+COMM.910
+Advanced Topics in Communications Engineering
+3–6 op
+MSE.482
+Advanced Tribology
+5 op
+COMP.CS.520
+Advanced Web Front-ends
+5 op
+KONE.780
+Aerodynamic modeling
+5 op
+KONE.730
+Aerodynamics and Flight Mechanics
+5 op
+FYS.406
+Aerosol Emissions and Air Quality
+5 op
+FYS.407
+Aerosol Generation, Nanoparticles and Nanomaterials
+5 op
+FYS.401
+Aerosol Measurement Techniques
+5 op
+FYS.403
+Aerosol Modelling
+5 op
+FYS.400
+Aerosol Physics
+5 op
+YKT.SUT.312
+Affektit, tunteet ja ruumiillisuus
+5 op
+KAS.KAY.010
+Aikuis- ja ammattikasvatuksen kehittämisasiantuntijuus
+5 op
+LOG.322
+Aikuisen puhe/kielihäiriön kuntoutus
+5 op
+KAS.KAA.140
+Aikuiskasvatus, kansalaisuus ja työelämä
+5 op
+STY.405
+Aikuissosiaalityö ja sosiaalinen kuntoutus
+5 op
+LOG.232
+Aikuisten kielihäiriöt
+7 op
+PSY.305
+Aikuisten neuropsykologinen arviointi
+10 op
+PSY.311
+Aikuisten neuropsykologinen kuntoutus
+10 op
+PSY.307
+Aikuisten psykologiset interventiot
+5 op
+KAS.PED.010
+Ainedidaktiikan perusteet
+5 op
+KAS.PED.020
+Ainedidaktiikan syventävät ja laajentavat näkökulmat
+5 op
+KAS.PED.030
+Ainedidaktinen tutkimus
+5 op
+FYS.232
+Aineen rakenne
+5 op
+LÄÄK.108
+Aineenvaihdunta
+6 op
+BBT.008
+Aineenvaihdunta
+8 op
+KONE.760
+Aircraft Computer Systems and Situational Awareness
+5 op
+HAL.HATI.350
+Ajankohtainen hallinnon tutkimus
+5 op
+YKT.SPY.313
+Ajankohtaiset sosiaalipsykologiset ilmiöt
+5 op
+TUTA.280
+Ajankohtaisia kiertotalouden haasteita ja ratkaisuja
+1–5 op
+VIM.JO.220
+Ajankohtaisjournalismi
+5 op
+HIS.HIA.304
+Ajasta ikuisuuteen - kulttuuri ja yhteiskunta antiikista uuden ajan alkuun
+5 op
+LANG.TIE.001
+Akateeminen kirjoittaminen
+2 op
+KIE.RA.220
+Akateemiset tekstitaidot
+5 op
+LANG.TIE.002
+Akateemisten tekstien yleistajuistaminen
+2 op
+MATH.MA.450
+Algebra
+5 op
+COMP.CS.370
+Algorithmic Problem Solving
+5 op
+KAT.TAL.326
+Aluetalous ja kaupunkitalous
+5 op
+RAK.RS.390
+Alumiini – materiaali ja rakenne
+5 op
+TIJO.626
+Alustatalous
+5 op
+MVK.MY.360
+Ammatillinen projekti
+5 op
+SOTE.013
+Ammatillisen vuorovaikutuksen perusteet
+5 op
+MVK.MY.340
+Ammattimaisessa käännöstiimissä toimiminen
+5 op
+PGH.303
+An Introduction to Ethics in Health Research
+3–5 op
+RUST.020
+An Overview of Ukrainian Literature and Its Screen Adaptations
+5 op
+TUTA.387
+Analysing and Communicating Value
+10 op
+COMM.RF.300
+Analysis of Electromagnetic Systems
+5 op
+DPIP.EPI.430
+Analysis, Validity and Inference of Observational Epidemiology
+2 op
+KEM.350
+Analytical Chemistry 1
+5 op
+KEM.360
+Analytical Chemistry 2
+5 op
+FYS.422
+Analytical Mechanics
+5 op
+MATH.MA.420
+Analyysi A: raja-arvo ja jatkuvuus
+5 op
+MATH.MA.430
+Analyysi B: derivaatta ja integraali
+5 op
+MATH.MA.440
+Analyysi C: epäoleellinen integraali ja sarjat
+5 op
+MATH.APP.111
+Analyysin peruskurssi
+5 op
+MATH.MA.540
+Analyyttinen geometria aineenopettajille
+5 op
+LÄÄK.709
+Anatomian apuohjaajakoulutus
+3 op
+BBT.022
+Anatomian ja fysiologian perusteet, bioteknologia ja biolääketieteen tekniikka
+5 op
+LÄÄK.114
+Anatomian ja fysiologian perusteet, lääketiede
+5 op
+LÄÄK.616
+Anestesiologian kliininen jakso
+3 op
+COMM.RF.420
+Antennas I
+5 op
+COMM.RF.710
+Antennas II
+5 op
+KIR.231
+Antiikin ja keskiajan kirjallisuus
+5 op
+YKT.SOA.305
+Antropologian nykykeskustelut ja käytännöt
+5 op
+BBT.036
+Anturifysiikka ja signaalit
+5 op
+FYS.503
+Applications of Laser Technologies
+5 op
+GS.140
+Applying Game Studies Methods
+5 op
+SAFER.SG.330
+Approaches to International Security Studies
+5 op
+FIL.FIA.003
+Argumentaatio ja tieteenfilosofia
+5 op
+TAU.TRI.207
+Argumentaation ja tieteellisen päättelyn perusteet
+3 op
+ARK.RH.440
+Arkkitehti johtajana
+5 op
+ARK.501
+Arkkitehtuurikirjoittaminen
+3 op
+ARK.ME.001
+Arkkitehtuurimedia I
+1 op
+ARK.ME.002
+Arkkitehtuurimedia II
+2 op
+ARK.ME.003
+Arkkitehtuurimedia III
+1 op
+ARK.ME.004
+Arkkitehtuurimedia IV
+1 op
+ARK.ME.005
+Arkkitehtuurimedia V
+1 op
+ARK.ME.006
+Arkkitehtuurimedia VI
+1 op
+ARK.450
+Arkkitehtuurin ammattiharjoittelu
+5 op
+ARK.550
+Arkkitehtuurin diplomityöseminaari
+0 op
+ARK.RH.101
+Arkkitehtuurin historia I
+5 op
+ARK.RH.201
+Arkkitehtuurin historia II
+10 op
+ARK.RH.301
+Arkkitehtuurin historia III
+5 op
+ARK.300
+Arkkitehtuurin kandidaatintyöseminaari
+0 op
+ARK.YS.430
+Arkkitehtuurin seminaari
+5 op
+ARK.AD.430
+Arkkitehtuurin teoria
+5 op
+DATA.ML.310
+Artificial Intelligence
+5 op
+DPEDU.232
+Artikkelinkirjoitustaitojen kehittäminen
+1–5 op
+HAL.214
+Arviointi ja hallinnon kehittäminen
+5 op
+KAT.YRVE.342
+Arvonlisäverotuksen syventävä opintojakso
+5 op
+KAT.YRVE.260
+Arvonlisäverotus
+5 op
+MAB.COOP.202
+Arvopohjainen liiketoiminta ja osuustoiminnan idea
+6 op
+KAT.MARK.304
+Asiakaskokemuksen johtaminen
+10 op
+KAT.MARK.208
+Asiakaslähtöisen liiketoiminnan johtaminen ja organisointi
+5 op
+KAT.MARK.210
+Asiakaslähtöisen liiketoiminnan mittarit ja kannattavuus
+5 op
+LOG.312
+Asiakastyön menetelmät
+2 op
+PSY.208
+Asiakastyön teoriat ja menetelmät
+5 op
+STY.205
+Asiakastyön teoriat ja menetelmät
+5 op
+IT.190
+Asiakirjahallinnan teoria ja tutkimus
+5 op
+IT.310
+Asiakirjahallinta
+5 op
+IT.180
+Asiakirjatiedon hallinta ja sen suunnittelu
+5 op
+HAL.YPAT.203
+Asiantuntemus ja arjen ympäristöpolitiikka
+5 op
+KAT.EKO.001
+Asiantuntijan ja esihenkilön työelämätaidot
+2 op
+HIS.HIY.600
+Asiantuntijaopinnot tai työharjoittelu
+5 op
+HAL.101
+Asiantuntijatyön valmiudet: Ajankohtaiset ilmiöt hallintotieteissä
+5 op
+HAL.212
+Asiantuntijatyön valmiudet: Tutkimuspraktikum
+10 op
+HAL.011
+Asiantuntijatyön valmiudet: Tutkimusprosessin hallinta
+5 op
+KIE.AV.310
+Asiantuntijaviestijän työkalupakki
+5 op
+KIE.AV.330
+Asiantuntijaviestinnän itsenäinen projekti
+5 op
+HAL.KAJO.317
+Asiantuntijuus alue- ja kuntakehittämisessä
+5 op
+EDU.300
+Asiantuntijuus tässä ja nyt. Kasvatustieteilijänä yhteiskuntaan.
+1 op
+MVK.ETU.320
+Asioimistulkkaus englanti-suomi-englanti
+5 op
+MVK.STU.320
+Asioimistulkkaus saksa-suomi-saksa
+5 op
+MVK.VTU.320
+Asioimistulkkaus venäjä-suomi-venäjä
+5 op
+ACC.330
+Assistive Technology in Gaming
+1 op
+TAU.TRI.308
+ATLAS.ti laadullisen analyysin tukena
+2 op
+ACC.150
+Audio description of art
+1 op
+MVK.ER.360
+Auktorisoitu kääntäminen I (ammattitietous)
+2 op
+MVK.RER.370
+Auktorisoitu kääntäminen II (ruotsi-suomi)
+4 op
+MVK.SER.370
+Auktorisoitu kääntäminen II (saksa-suomi)
+4 op
+EE.REE.210
+Aurinkosähkön perusteet
+5 op
+AUT.110
+Automaatio
+5 op
+AUT.540
+Automaatio työkoneissa
+5 op
+AUT.430
+Automaation ohjelmistot ja verkot
+5 op
+AUT.420
+Automaation reaaliaikajärjestelmät
+5 op
+AUT.440
+Automaation turvallisuus
+5 op
+AUT.010
+Automaatiotekniikan kandidaatintyöseminaari
+0 op
+COMP.CS.330
+Automaatit ja formaalit kielet
+5 op
+KONE.710
+Avioniikka
+5 op
+TUTA.220
+B2B-Markkinointi
+5 op
+SUD.290
+Bachelor's Thesis and Seminar in Sustainable Urban Development
+10 op
+ENS.330
+Bachelor's Thesis Seminar in Science and Engineering
+0 op
+PGH.202
+Basic Biostatistics
+5 op
+BBT.073
+Basic Course in Pharmacology
+5 op
+PGH.201
+Basic Epidemiology
+5 op
+BBT.071
+Basic Laboratory Skills
+5 op
+COMM.RF.410
+Basic RF Measurements
+5 op
+TIJO.220
+Basics for Business Data Analytics
+5 op
+FYS.405
+Basics of Atmospheric Chemistry
+5 op
+TUTA.015
+Basics of Industrial Management
+5 op
+DPHS.410
+Basics of qualitative Health Research - why, how and when?
+2 op
+COMM.RF.400
+Basics of RF Engineering
+5 op
+KAT.TAL.224
+Behavioraalinen ja psykologinen taloustiede
+5 op
+KAT.TAL.324
+Behavioraalisen ja psykologisen taloustieteen teemoja
+5 op
+BBT.HTI.511
+Behavioral Health Informatics
+5 op
+RAK.RS.400
+Betonirakenteet
+5 op
+RAK.RS.210
+Betonirakenteiden perusteet
+5 op
+RAK.RS.440
+Betonisillat
+5 op
+RAK.RS.200
+Betonitekniikka
+5 op
+BBT.MND.712
+Bio-Optoelectronic Instrumentation
+5 op
+YEB.740
+Biocatalysis and Enzymology
+3 op
+BBT.BTE.303
+Bioceramics and Their Clinical Applications
+5 op
+BBT.BTE.301
+Biodegradable Polymers
+5 op
+BBT.BTE.302
+Biodegradable Polymers Laboratory Course
+5 op
+BBT.MND.711
+Bioelectronics
+5 op
+BBT.003
+Bioetiikan perusteet
+2 op
+YEB.142
+Biogas Technology for Material Flow Management and Energy Production
+5 op
+BBT.021
+Bioinformatics
+5 op
+BBT.BI.206
+Bioinformatics Project
+5 op
+BBT.BI.204
+Bioinformatics Work Course
+5 op
+YEB.444
+Biojalostamon mitoitus
+5 op
+YEB.441
+Biojalostuksen konversioprosessit ja toteutettavuus
+5 op
+YEB.720
+Biokemia
+5 op
+BBT.013
+Biokemian menetelmät ja työt
+7 op
+BBT.BI.202
+Biological Data Analysis
+5 op
+DPMBBE.005
+Biolääketieteellinen patentointi
+1 op
+BBT.041
+Biolääketieteen tekniikan kandidaatintyöseminaari
+0 op
+BBT.029
+Biomedical Engineering Principles
+5 op
+BBT.037
+Biomedical Instrumentation
+5 op
+KEM.400
+Bioorganic Chemistry
+5 op
+BBT.MND.709
+Biosensors
+5 op
+DPHS.BIO.410
+Biostatistiikka ja tilastollinen tietojenkäsittely
+5 op
+YEB.022
+Biotekniikan perusteet
+5 op
+BBT.004
+Bioteknologia nyt ja tulevaisuudessa
+5 op
+KAT.MARK.310
+Bisnesantropologia ja kulutusyhteisöjen johtaminen
+5 op
+KAT.KAU.005
+Brand experience in retailing
+5 op
+KAT.MARK.202
+Brand Management & Communication
+5 op
+RAK.TA.120
+Building Information Modeling and Surveying
+5 op
+TUTA.384
+Business Development in Sales and Sourcing
+5 op
+TUTA.302
+Business Management Cases
+5 op
+TIJO.262
+Business to Business -markkinointi
+5 op
+KAT.VAST.206
+Business, society and nature
+5 op
+ARK.ME.011
+CAAD I
+4 op
+EE.ELE.230
+CAE elektroniikassa
+5 op
+BBT.CT.407
+Cancer Biology
+5 op
+DPIP.EPI.640
+Cancer Epidemiology
+4 op
+RAK.TA.500
+Carbon Neutral Energy Solutions for Buildings
+5 op
+TAU.TRI.109
+Career Course for Doctoral Researchers
+1 op
+ENS.320
+Career Planning
+1 op
+LFC.340
+Case Study: Examining Leadership and Sustainability Challenges
+5 op
+BBT.INT.809
+Cell Imaging and Signal Processing
+5 op
+BBT.CT.403
+Cell Technology and Stem Cells
+5 op
+BBT.CT.404
+Cell Technology Laboratory
+5 op
+BBT.INT.807
+Cellular Biophysics
+5 op
+BBT.MB.606
+Cellular Processes and Signals
+5 op
+KEM.150
+Chemistry for Engineers 1
+5 op
+KEM.160
+Chemistry for Engineers 2
+5 op
+DPIP.EPI.650
+Chronic Disease and Nutritional epidemiology
+4 op
+LÄÄK.514
+CIV-CV integroidut seminaarit, osio II
+3 op
+COMP.SE.152
+Cloud Technologies
+3–5 op
+COMM.RF.600
+CMOS Integrated Circuits I
+5 op
+COMM.RF.610
+CMOS Integrated Circuits II
+5 op
+MSE.470
+Coatings and Surface Treatments
+5 op
+PSY.402
+Cognitive neuroscience I
+5 op
+KONE.531
+Collaborative Robotics
+5 op
+COMM.SYS.800
+Communication Systems Laboratory Course
+5–9 op
+COMM.SYS.300
+Communication Theory
+5 op
+DATA.ML.430
+Complex Networks
+5 op
+DATA.ML.390
+Computational Diagnostics of Data
+5 op
+RAK.IN.510
+Computational Geotechnics
+5 op
+RAK.IN.530
+Computational Geotechnics II
+5 op
+COMP.SGN.330
+Computational Imaging and Digital Holography
+0–5 op
+TAU.TRI.311
+Computational methods in research on social, political, and economic issues
+2–3 op
+FYS.420
+Computational Physics 1
+5 op
+FYS.421
+Computational Physics 2
+5 op
+COMP.CE.260
+Computer Arithmetic
+5 op
+COMP.CE.430
+Computer Graphics
+5 op
+COMM.NET.400
+Computer Networking II
+5 op
+DATA.ML.300
+Computer Vision
+5 op
+VIM.VI.220
+Computer-mediated communication
+5 op
+COMP.510
+Computing Sciences Colloquium
+1–10 op
+GS.120
+Concepts of Game Studies
+5 op
+TAU.TRI.403
+Conducting a Systematic Literature Review
+2 op
+RAK.TA.270
+Construction Management
+5 op
+KAT.MARK.206
+Consumer Behaviour
+5 op
+TEA.742
+Contemporary Commedia dell'arte
+2–4 op
+PGH.310
+Contemporary Global and Public Health Issues
+3–5 op
+SSR.PEACE.010
+Contemporary Peace and Conflict Studies
+5 op
+COMP.SE.140
+Continuous Development and Deployment - DevOps
+5 op
+YKT.CRI.200
+Control
+5 op
+EE.PEE.300
+Control of Electrical Drive Systems
+5 op
+AUT.560
+Control of Hydraulic Actuators
+5 op
+KONE.830
+Control of Mechatronic Systems
+5 op
+MSE.542
+Converting and Packaging Processes
+5 op
+KAT.YRVE.326
+Corporate Governance and Compliance
+5 op
+KAT.VAST.204
+Corporate social responsibility reporting
+5 op
+MSE.420
+Corrosion and Wear of Materials
+5 op
+YKT.CRI.400
+Criminal Policy
+5 op
+YKT.CRI.100
+Criminological Theories and Methodology
+5 op
+SAFER.SG.350
+Crisis Management and Leadership
+5 op
+SSR.PEACE.040
+Critical Approaches to Peacemaking
+5 op
+KAT.VAST.320
+Critical Perspectives on Accounting
+5 op
+HTI.400
+Cross-Cultural Design
+5 op
+COMP.SEC.200
+Cryptography Engineering I
+5 op
+COMP.SEC.210
+Cryptography Engineering II
+5 op
+SAFER.SG.340
+Current Themes in International Security
+5 op
+LFC.350
+Current Trends in Leadership and Change
+5 op
+SAFER.330
+Current Trends in Security and Safety Management
+5 op
+KAS.TELM.200
+Curriculum Studies
+5 op
+LÄÄK.624
+CV-CVI integroidut seminaarit osio II
+3 op
+LÄÄK.621
+CV-CVI Integroitu kliininen loppukuulustelu, osio I
+4 op
+LÄÄK.623
+CV-CVI Kliininen integroitu loppukuulustelu, osio II
+4 op
+COMP.SEC.110
+Cyber Security II: Specialisation
+5 op
+TIJO.412
+Data and Software Business
+5 op
+DATA.ML.370
+Data Mining for Business Analytics
+5 op
+DATA.ML.340
+Data Mining: Preprocessing and Modelling
+5 op
+TIJO.324
+Data-analytiikka päätöksenteossa
+5 op
+COMP.CS.320
+Data-Intensive Programming
+5 op
+JO.217
+Datajournalismi ja ohjelmointi
+5 op
+JO.221
+Datajournalismin työprojektit
+5 op
+TIJO.414
+Datan ja informaation hallinta
+5 op
+JO.220
+Datavisualisointi journalismissa
+5 op
+BBT.HTI.509
+Decision Support in Healthcare
+5 op
+SSR.PEACE.020
+Decolonizing Global Order
+5 op
+ACC.030
+Defining and discussing accessibility in society
+1 op
+BBT.MJS.108
+Demola Project Work
+5 op
+KONE.416
+Design for Manufacturing
+5 op
+BBT.MND.704
+Design of Microsensors
+5 op
+YEB.140
+Design of Water Treatment Processes
+5 op
+EE.PEE.310
+Design Project in Power Electronics
+5 op
+KONE.380
+Design Thinking ja teollinen muotoilu
+5 op
+RAK.LI.390
+Designing Automated Transport Systems
+10 op
+LANG.ICC.001
+Developing Internationalization Through Intercultural Communication (B2)
+2 op
+YKT.CRI.300
+Deviant Behaviour
+5 op
+BBT.HTI.591
+Diagnostic X-ray Imaging Techniques
+5 op
+FYS.270
+Didaktisen fysiikan työt
+5 op
+MATH.APP.160
+Differentiaali- ja integraalilaskenta
+5 op
+MATH.APP.420
+Differentiaaliyhtälöt
+5 op
+HIS.HIA.802
+Digitaalinen historia: lähestymistavat ja menetelmät 1800- ja 1900-lukujen tutkimuksessa
+5 op
+KAT.KAU.006
+Digitaalinen kauppa käytännössä
+6 op
+VIM.IT.310
+Digitaaliset kirjastot ja avoin tiede
+5 op
+COMP.CS.011
+Digitaaliset yleistaidot, teema 1: Yliopiston tietotekninen ympäristö
+1 op
+COMP.CS.012
+Digitaaliset yleistaidot, teema 2: Taulukkomuotoisen tiedon käsittely ja tiedon visualisointi
+1 op
+COMP.CS.013
+Digitaaliset yleistaidot, teema 3: Tekstimuotoisen tiedon käsittely sekä kuvankäsittelyn ja verkossa julkaisemisen periaatteet
+1 op
+COMP.CS.014
+Digitaaliset yleistaidot, teema 4: Ohjelmoinnin alkeet
+1 op
+COMP.CS.015
+Digitaaliset yleistaidot, teema 5: Kyberturvallisuuden perusteet
+1 op
+COMM.SYS.400
+Digital Communication
+5 op
+COMP.CE.200
+Digital Design
+5 op
+SDL.550
+Digital Dismodernity – Inclusion and the Diagnostic Society
+5 op
+VIM.MT.327
+Digital Geographies of Hope
+5 op
+AUT.570
+Digital Hydraulics
+5 op
+KONE.413
+Digital Manufacturing
+5 op
+KAT.MARK.204
+Digital marketing
+5 op
+COMP.SEC.400
+Digital Shadow: Privacy and Anonymity
+5 op
+TIJO.420
+Digitalisaation johtaminen
+5 op
+KAT.KAU.003
+Digitalisoituva kauppa
+5 op
+STY.401
+Digitalisoituvat ja verkostoituvat sosiaali- ja terveyspalvelut
+5 op
+RAK.150
+Diplomityön tiedonhankinta
+0 op
+ENS.420
+Diplomityön tiedonhankinta
+0 op
+KONE.020
+Diplomityöseminaari
+0 op
+TST-01908
+Diplomityöseminaari
+0 op
+HIS.HIA.408
+Disability Histories of Britain and the Atlantic World
+5 op
+MATH.MA.210
+Diskreetti matematiikka
+5 op
+KIE.KM.363
+Diskurssianalyysi
+5 op
+KIE.RA.266
+Diskurssianalyysi ja käsitehistoria
+5 op
+AUT.842
+Distributed and Intelligent Automation Systems
+5 op
+AUT.360
+Distributed Control and Optimization of Cyber-Physical Systems
+5 op
+EE.EES.450
+Distributed Energy Resources in Electricity Networks
+5 op
+COMP.CS.340
+Distributed Systems
+5 op
+EE.EES.440
+Distribution Automation
+5 op
+AUT.930
+Doctor course in Fluid Power Automation
+5 op
+COMM.900
+Doctoral Assignment in Communications Engineering
+3–8 op
+DPHS.STP.61024
+Doctoral course on health policy
+3 op
+DPBTM.510
+Doctoral Course on Research Methods
+5 op
+KONE.960
+Doctoral Seminar
+5 op
+JO.212
+Dokumenttikurssi
+5 op
+TEA.754
+Dubbaus ja ääninäytteleminen
+2 op
+EE.PEE.320
+Dynamic Analysis of Power Electronic Converters
+5 op
+KONE.130
+Dynamiikka
+5 op
+ACC.090
+Easy language
+1 op
+ACC.100
+Easy spoken interaction
+1 op
+HAL.KAJO.214
+Economic renewal of cities and regions
+5 op
+MVK.ED.310
+Editointi ja korjausluku A-työkielellä
+5 op
+MVK.ED.320
+Editointi ja kääntäminen, englanti
+5 op
+KAT.VAST.306
+Eettinen johtajuus
+5 op
+STY.321
+Eettinen lastensuojelu
+5 op
+KAT.TAL.210
+Ekonometria
+5 op
+KAT.TAL.310
+Ekonometrian jatkokurssi
+5 op
+MSE.434
+Elastomers
+5 op
+EE.EES.420
+Electric Power Quality
+5 op
+EE.EES.430
+Electric Power Systems
+5 op
+EE.EES.500
+Electrical Energy Engineering Project Work
+2–10 op
+EE.EES.460
+Electrical Energy Storages and Electric Vehicles
+5 op
+EE.130
+Electromagnetics
+5 op
+EE.PEE.220
+Electromechanics and Electric Drives
+5 op
+MSE.410
+Electron Microscopy
+5 op
+FYS.441
+Electron Spectroscopy
+5 op
+EE.050
+Electronics and Circuit Theory
+5 op
+EE.ELE.440
+Electronics Materials
+5 op
+EE.ELE.220
+Elektroniikan ja sulautettujen järjestelmien työkurssi
+5 op
+EE.020
+Elektroniikan perusteet
+5 op
+EE.ELE.410
+Elektroniikan tuotesuunnittelun työkurssi
+5–8 op
+EE.ELE.260
+Elektroniikan uudet materiaalit ja valmistusmenetelmät
+5 op
+EE.ELE.200
+Elektroniikkalaitteen tuotesuunnittelu
+5 op
+RAK.RS.380
+Elementtimenetelmän jatkokurssi
+5 op
+RAK.RS.230
+Elementtimenetelmän perusteet
+5 op
+SOTE.021
+Eletty hyvinvointivaltio: yksilö ja palvelujärjestelmä ennen ja nyt
+5 op
+STY.102
+Elämänkulku, paikka ja sosiaalityö
+5 op
+EE.ELE.510
+Embedded Systems and Electronics Productization
+5 op
+BBT.CT.401
+Embryology
+5 op
+EE.ELE.420
+EMC-suunnittelu
+5 op
+TIJO.416
+Emerging Technology Adoption and Use
+5 op
+HTI.220
+Emotions and Sociality in Human-Technology Interaction
+5 op
+DATA.STAT.210
+Empiirinen projekti
+5 op
+YKT.103
+Empiirinen yhteiskuntatutkimus
+5 op
+POL.VO.332
+Empiiristen tutkimusmenetelmien yleisesitykset
+5 op
+EE.040
+Energiamurroksen johdantokurssi
+5 op
+YEB.443
+Energiatalous
+5 op
+YEB.021
+Energiatekniikan perusteet
+5 op
+MSE.530
+Energy-saving lightweight materials systems
+5 op
+LANG.ICC.003
+Engaging Interculturally in Exchange Studies (B2)
+3 op
+RAK.IN.110
+Engineering Geology
+5 op
+KIE.ENY.385
+Englannin aksentit
+5 op
+KIE.ENY.320
+Englannin kielen historia
+5 op
+KIE.ENY.375
+Englannin sananmuodostus
+5 op
+KIE.EN.001
+Englannin valinnaisten opintojen lähtötasokoe
+0 op
+KIE.KK.322
+Englanninkielisen kirjallisuuden lukulista
+5 op
+KIE.ENY.390
+Englanti lingua francana
+5 op
+LÄÄK.300
+Ennaltaehkäisy
+6 op
+LANG.ICC.002
+Entering the Global Workplace: Interculturality and Communication (B2)
+2 op
+SAFER.SME.320
+Enterprise HSEQ management
+5 op
+ACC.160
+Entertainment and accessibility
+1 op
+YEB.240
+Environmental Engineering for Sustainability
+5 op
+DPHS.EPI.810
+Epidemiologian tohtorikoulutusseminaari
+3 op
+KAN.363
+Epidemiologian tutkimusmenetelmät
+5 op
+DPIP.EPI.420
+Epidemiologic data analysis using R
+2 op
+DPIP.EPI.410
+Epidemiologic methods
+10 op
+DPIP.EPI.610
+Epidemiology and prevention of vaccine preventable diseases
+2 op
+FIL.FIA.090
+Epistemologia
+5 op
+FIL.FIY.401
+Epistemologia ja tieteenfilosofia
+15 op
+FIL.FIY.402
+Epistemologia ja tieteenfilosofia
+5 op
+KAT.TAL.230
+Eriarvoisuus ja hyvinvointi
+5 op
+MVK.SER.320
+Erikoisalojen käännösviestinnän seminaari I saksa-suomi
+5 op
+MVK.SER.330
+Erikoisalojen käännösviestinnän seminaari I suomi-saksa
+5 op
+MVK.VER.320
+Erikoisalojen käännösviestinnän seminaari I venäjä-suomi
+5 op
+EDU.MER.010
+Erityispedagogiikan perusteet
+5 op
+LANG.PUH.003
+Esiintyjänä työelämässä
+2 op
+VIM.VI.230
+Esiintyminen, vaikuttaminen ja argumentointi
+5 op
+TEA.100
+Esiintyvän ruumiin harjoittaminen
+20 op
+TEA.700
+Esiintyvän ruumiin syventävä harjoittaminen
+5–10 op
+HIS.HIA.020
+Esimoderni Eurooppa
+5 op
+LATK.500
+Esimodernin ajan tutkimusmenetelmät
+5 op
+LANG.ESP.001
+Espanja 1 (A1)
+4 op
+LANG.ESP.002
+Espanja 2 (A1)
+4 op
+LANG.ESP.003
+Espanja 3 (A2)
+4 op
+LANG.ESP.004
+Espanja 4 (A2)
+4 op
+LANG.ESP.005
+Espanja 5 – Opiskelijaelämää espanjaksi (B1)
+4 op
+LANG.ESP.006
+Espanja 6 – Työskentele espanjaksi (B1)
+4 op
+KIE.ES.261
+Espanja vieraana kielenä
+5 op
+KIE.ES.140
+Espanjan historia ja kirjallisuus
+5 op
+KIE.ES.001
+Espanjan kielen valinnaisten opintojen lähtötasokoe
+0 op
+KIE.ES.220
+Espanjan kielioppi II
+5 op
+KIE.ES.230
+Espanjan lähihistoria ja kirjallisuus
+5 op
+HIS.HIY.500
+Essee oman tutkimusaiheen kirjallisuudesta
+5 op
+DPIP.EPI.620
+Essentials of Infectious disease epidemiology
+2 op
+FIL.FIA.130
+Etiikka III
+5 op
+FIL.FIA.004
+Etiikka ja yhteiskuntafilosofia I
+5 op
+FIL.FIA.060
+Etiikka ja yhteiskuntafilosofia II
+5 op
+FIL.FIY.502
+Etiikka ja yhteiskuntafilosofia IV
+5 op
+FIL.FIY.501
+Etiikka ja yhteiskuntafilosofia IV
+15 op
+YKT.SOA.306
+Etnografinen tutkimusprosessi A
+5 op
+YKT.SOA.307
+Etnografinen tutkimusprosessi B
+5 op
+POL.KV.222
+EU:n ulkosuhteet ja alueellinen yhteistyö
+5 op
+MATH.MA.620
+Euklidiset avaruudet
+5 op
+POL.KV.332
+Euroopan integraatio ja disintegraatio
+5 op
+POL.KV.221
+Euroopan integraation teoria ja käytäntö
+5 op
+POL.VO.234
+Euroopan ja Pohjoismaiden poliittiset järjestelmät
+5 op
+POL.VO.235
+Euroopan ulkopuoliset poliittiset järjestelmät I
+5 op
+POL.VO.321
+Euroopan ulkopuoliset poliittiset järjestelmät II
+10 op
+POL.VO.322
+Euroopan unioni
+10 op
+HAL.JOIK.314
+Euroopan unionin finanssihallinto-oikeus
+5 op
+KAT.YRVE.346
+Eurooppa-vero-oikeus
+5 op
+HAL.JOIK.216
+European Union Law
+5 op
+HAL.HATI.305
+Evaluation research and Practices
+5 op
+BBT.MJS.103
+Experimental Animal Course
+5 op
+SSR.PPA.020
+Experimental Methods
+5 op
+NAM.060
+Experimental Methods
+5 op
+KEM.440
+Experimental Optical Spectroscopy
+5 op
+HTI.350
+Experimental Research in Human-Technology Interaction
+5 op
+KAS.KAA.196
+Exploring Adults' Learning in Various Settings
+5 op
+BBT.HTI.504
+External Ecourse in Biomedical Engineering
+1–8 op
+DATA.ML.381
+Fairness in Big Data Management
+5 op
+BBT.023
+Farmakologisen biologian perusteet
+5 op
+SSR.GEN.030
+Feminist Classics
+5 op
+SSR.GEN.050
+Feminist Methodology
+5 op
+SSR.GEN.060
+Feminist Methodology and Research Design
+5 op
+SSR.PEACE.060
+Feminist Peace Research
+5 op
+SSR.GEN.040
+Feminist Theory
+5 op
+YKT.SUT.304
+Feministinen metodologia
+5 op
+YKT.SUT.302
+Feministinen teoria
+5 op
+YKT.SUT.301
+Feministisen ajattelun klassikot
+5 op
+FIL.ET.500
+Filosofia ja koulutus
+5 op
+FIL.FIY.904
+Filosofian gradupiiri
+0 op
+FIL.FIA.020
+Filosofian historia: 1500-1800-lukujen filosofia
+4 op
+FIL.FIA.010
+Filosofian historia: antiikin ja keskiajan filosofia
+3 op
+DPPH.FIL.810
+Filosofian jatkoseminaari
+15 op
+FIL.FIA.030
+Filosofian klassikot
+3 op
+DPPH.FIL.60123
+Filosofian valtakunnallinen jatko-opiskelijakonferenssi
+1–5 op
+FIL.FIY.700
+Filosofinen argumentaatio, tulkinta ja kirjoittaminen
+5 op
+FIL.FIA.070
+Filosofinen logiikka
+5 op
+KAT.VRH.310
+Finanssilaitosten sijoitustoiminta
+5 op
+KIE.FONE.110
+Fonetiikan ja kielitieteen perusteet
+5 op
+KIE.ES.110
+Fonetiikka, ääntäminen ja suullinen esitys
+5 op
+KIE.ENY.388
+Forensinen kielentutkimus
+5 op
+KAS.KAA.191
+Foundations of game-based learning
+5 op
+LANG.ENG.001
+Foundations of Professional and Academic Communication in English (B2)
+3 op
+KAS.TELM.100
+Foundations of Teaching, Learning and Media Education
+10 op
+FYS.507
+Fourier Optics
+5 op
+MATH.APP.240
+Fourier'n menetelmät
+5 op
+SSR.GTS.020
+From Social Constructionism to the Construction of the Social
+5 op
+BBT.MB.602
+Functional Genomics
+5 op
+COMP.CS.130
+Functional programming 1
+5 op
+COMP.CS.150
+Functional programming 2
+5 op
+ACC.010
+Fundamentals of Accessibility
+5 op
+EE.EES.300
+Fundamentals of Electrical and Power Engineering
+5 op
+RAK.600
+Fundamentals of Geographic Information Systems, GIS
+5 op
+AUT.710
+Fundamentals of Mobile Robots
+5 op
+FYS.504
+Fundamentals of Nonlinear Optics
+5 op
+EE.ELE.460
+Fundamentals of Organic Electronics
+5 op
+FYS.320
+Fysiikan diplomityöseminaari
+0 op
+FYS.340
+Fysiikan erikoistyö
+1–5 op
+FYS.260
+Fysiikan kandidaatintyöseminaari
+0 op
+FYS.272
+Fysiikan käsitteenmuodostus
+5 op
+FYS.210
+Fysiikan menetelmät
+5 op
+KEM.240
+Fysikaalinen kemia 1
+5 op
+KEM.250
+Fysikaalinen kemia 2
+5 op
+KEM.300
+Fysikaalisen kemian työt
+5 op
+VIM.MT.310
+Game Project
+10 op
+GS.200
+Game Studies Learning Circle
+1 op
+SSR.PPA.010
+Game Theory
+5 op
+VIM.MT.316
+Games Now! (Autumn)
+1 op
+VIM.MT.317
+Games Now! (Spring)
+1–3 op
+ACC.120
+Games, gamification, serious games and accessibility
+1 op
+SDL.610
+Gamification: A Walkthrough of How Games Are Shaping Our Lives
+5 op
+SDL.650
+Gamification: Theory, Practice and Design
+5 op
+SSR.COSOP.120
+Gender and Society
+5 op
+SSR.GEN.070
+Gender Equality as Work
+5 op
+SSR.GEN.020
+Gendered and Sexualized Society
+5 op
+BBT.007
+Genetiikka
+3 op
+LÄÄK.104
+Genetiikka
+3 op
+KIE.ENA.140
+Genrestä kontekstiin: johdatusta kirjallisuus- ja kulttuurianalyysiin 2
+5 op
+RAK.IN.100
+Geotekniikan perusteet
+5 op
+RAK.IN.620
+Geoympäristötekniikka
+5 op
+DPHS.GER.810
+Gerontologian tohtorikoulutusseminaari
+3 op
+COMP.CS.060
+GIT Open
+1–3 op
+POL.KV.231
+Globaali hallinta ja globaalit ongelmat
+5 op
+HIS.HIA.040
+Globaali maailma
+5 op
+YKT.220
+Globaalit ilmiöt ja paikalliset käytännöt
+5 op
+YKT.SOA.304
+Globaalit ilmiöt ja paikalliset käytännöt II
+5 op
+HALYEP12
+Globaalit riskit ja ympäristöturvallisuus
+5 op
+PGH.102
+Global Health Policy, Governance and Issues
+5 op
+RUST.016
+Global Media and Female Resistance in Belarus and Russia
+5 op
+PGH.309
+Global Mental Health
+5 op
+STY.404
+Global Perspectives in Social Work
+5 op
+PGH.107
+Global Social Policy, Poverty and Social Determinants of Health (C1)
+5 op
+YKT.YKE.401
+Global Youth Work and Youth Research
+5 op
+HIS.HIA.500
+Globalisoitumisen historia
+5–10 op
+COMM.SYS.620
+GNSS-technologies
+5 op
+SAFER.SG.320
+Governance of Security
+5 op
+HAL.HATI.321
+Governing Hybrid Organizations
+5 op
+MATH.APP.270
+Graafialgoritmit
+5 op
+MATH.MA.610
+Graafiteoria
+5 op
+COMM.950
+Graduate Research Seminar in Communications Engineering
+3–6 op
+HIS.HIY.400
+Graduseminaari
+10 op
+COMP.810
+Graduseminaari, tietojenkäsittelytieteet
+5 op
+DPHS.120
+Growing to Academic Agency
+2 op
+VI.140
+Haastavien vuorovaikutustilanteiden hallinta
+5 op
+HAL.JOIK.223
+Hallinto-oikeuden harjoituskurssi
+5 op
+HAL.JOIK.311
+Hallinto-oikeuden syventävä jakso
+10 op
+HAL.JOIK.211
+Hallinto-oikeus
+5 op
+HAL.HATI.310
+Hallintotieteen teoriat ja käsitteet
+5 op
+HAL.HATI.309
+Hallintotieteen vaihtuvasisältöinen erikoiskurssi
+5 op
+BBT.014
+Hands-on Genetics
+2 op
+KAT.KAU.001
+Hankintatoimen ja toimittajasuhteiden johtaminen kaupan alalla
+6 op
+LÄÄK.112
+Hapen saanti
+11 op
+HTI.520
+Haptic Interaction
+5–10 op
+ACC.130
+Haptics and gestures (gesture-based interfaces)
+1 op
+KAN.330
+Harjoittelu
+10 op
+VI.180
+Harjoittelu
+10 op
+LÄÄK.920
+Harjoittelu
+1–24 op
+KIR.372
+Harjoittelu ja raportti
+5 op
+HAL.201
+Harjoittelu ja työelämävalmiudet
+10 op
+HAL.102
+Harjoittelu ja työelämävalmiudet (kandidaattiohjelman vapaaehtoinen harjoittelu)
+10 op
+FIL.FIY.800
+Harjoittelu tai essee omasta tutkimusaiheesta
+5 op
+COMP.800
+Harjoittelu, tietojenkäsittelytieteet
+2–10 op
+KAS.KAY.220
+Harjoittelu: elinikäinen oppiminen ja kasvatus
+10 op
+KAS.KAY.230
+Harjoittelu: varhaiskasvatus
+10 op
+BBT.038
+Health Care Processes and Information Systems
+5 op
+PGH.312
+Health Promotion Intervention Research
+5 op
+BBT.HTI.508
+Health Software Development Project
+5 op
+PGH.105
+Health Systems (C1)
+5 op
+BBT.MJS.141
+Health Technology and Life Science Business
+5 op
+BBT.MJS.147
+Health Technology and Life Science R&D
+5 op
+SSR.PPA.050
+Healthcare: Problems and Potential
+5 op
+NAM.030
+Healthcare: Problems and Potential
+5 op
+VIM.MT.324
+Henkilöbrändäys ja populaari feminismi mediatyössä
+5 op
+EE.ELE.900
+Henkilökohtaisen elektroniikan tohtoriseminaari
+5 op
+PSY.001
+Henkilökohtaiset työskentelyvalmiudet
+3 op
+HAL.HATI.213
+Henkilöstöjohtaminen
+5 op
+KAT.JOHT.310
+Henkilöstöjohtamisen ajankohtaisia teemoja
+5 op
+MOJOPP2
+Henkilöstön voimavarojen johtaminen
+2 op
+KAT.YRVE.208
+Henkilöverotus
+5 op
+LÄÄK.204
+Hermoston rakenne ja toiminta
+11 op
+LÄÄK.308
+Hermoston toimintahäiriöt
+7 op
+DPHS.2002024
+HesDoc Annual Meeting 2024
+1 op
+DPHS.110
+HesDoc väitöskirjatutkijasta tohtoriksi
+3 op
+COMP.CE.320
+High-level Synthesis
+5 op
+BBT.BI.203
+High-throughput Sequencing Data Analysis
+5 op
+KAT.LASK.318
+Hiililaskenta
+5 op
+KAS.LOM.020
+Historia ja yhteiskuntaoppi
+5 op
+HIS.HIA.050
+Historian esitys ja asiantuntijuus
+5 op
+HIS.HIA.100
+Historian pitkät linjat ja murrokset
+5 op
+HIS.HIA.200
+Historian tutkimusprosessi
+5 op
+HIS.HIY.200
+Historiankirjoituksen historia
+5 op
+HIS.HIA.800
+Historiantutkimuksen työkaluja
+5 op
+HIS.HIY.100
+Historiateoria
+5 op
+HIS.HIA.611
+History of Ukraine: Statehood and Identity
+5 op
+BBT.027
+Histoteknologian ja valomikroskopian perusteet
+5 op
+HOI.300
+Hoitotiede ja näytön ohjaama toiminta
+5 op
+HOI-P01
+Hoitotieteen perusopinnot
+25 op
+HOI.340
+Hoitotieteen pro gradu -tutkielma ja seminaari (vaiheet I-IV)
+40 op
+DPHS.HOI.810
+Hoitotieteen tohtorikoulutusseminaari
+3 op
+HOI.JS.300
+Hoitotyön johtamisen harjoittelu
+10 op
+LÄÄK.206
+Hormonitoimintaan perustuva säätely
+6 op
+ACC.260
+How to face disabled person?
+1 op
+DPSOC.220
+How to finish your dissertation: writing integrative chapter
+1–3 op
+SSR.PEACE.030
+Human Mobilities
+5 op
+HAL.JOIK.218
+Human Rights Law
+5 op
+HTI.230
+Human-Centered Product Development
+5 op
+HTI.800
+Human-Technology Interaction Research and Innovation Project
+5–10 op
+AUT.250
+Hydraulic Machines
+5 op
+YEB.050
+Hydraulic Network Modeling
+5 op
+AUT.240
+Hydrauliikan ja koneautomaation perusteet
+5 op
+AUT.550
+Hydraulikomponenttien mallintaminen ja simulointi
+5 op
+YEB.031
+Hydromekaniikka
+5 op
+YKT.221
+Hyvinvointi ja hyvinvoinnin politiikat
+5 op
+YKT.SPY.310
+Hyvinvointi ja terveys
+5 op
+LÄÄK.208
+Hyökkäys ja puolustus
+13 op
+LÄÄK.406
+Hätätilanteet
+7 op
+YEB.430
+Höyrytekniikka
+5 op
+FIL.ET.400
+Identiteetti ja toiseus
+5 op
+HIS.HIA.600
+Identiteettien historia
+5–10 op
+ARK.AD.130
+Ihminen ja ympäristö
+5 op
+KEKE.100
+Ihminen ratkaisee
+5 op
+HIS.HIA.300
+Ihminen, ympäristö ja kulttuurin rakenteet
+5–10 op
+HTI.100
+Ihmisen ja teknologian vuorovaikutus 1: Perusteet
+5 op
+HTI.110
+Ihmisen ja teknologian vuorovaikutus 2: Suunnittelu
+5 op
+LÄÄK.602
+Iho- ja sukupuolitautien kliininen jakso
+3 op
+LOG.651
+Ikääntyminen, kieli ja viestintä 1
+5 op
+LOG.652
+Ikääntyminen, kieli ja viestintä 2
+5 op
+YEB.032
+Ilmansuojelu
+5 op
+FYS.402
+Ilmasto.nyt
+5 op
+KIE.KK.367
+Ilmastonmuutoskertomukset
+5 op
+KAT.YRVE.246
+Immateriaalioikeus
+5 op
+BBT.009
+Immunologian perusteet
+5 op
+LFC.BUS.310
+Imperfect markets and public sector
+5 op
+LANG.ENG.005
+In the News: Viewpoints and Values Represented in International Media (B2)
+2 op
+BBT.CT.412
+In Vitro Models
+5 op
+KAS.TELM.500
+Inclusiveness in Finnish Education
+5 op
+ACC.020
+Independent Accessibility Project Work
+5 op
+PGH.301
+Individual Project Course (C1)
+5 op
+AUT.843
+Industrial Communication Systems
+5 op
+AUT.840
+Industrial Informatics
+5 op
+YEB.744
+Industrial Microbiology
+5 op
+KEM.330
+Industrial Organic Chemistry
+3 op
+TUTA.342
+Industrial Service Systems
+5 op
+LÄÄK.304
+Infektio
+8 op
+IT.260
+Infodemic Management for Diverse Communities
+5 op
+IT.160
+Informaatio ja päätöksenteko
+5 op
+VIM.130
+Informaatio- ja mediajärjestelmät
+5 op
+VIM.IT.240
+Informaatioalan asiantuntijuus
+5 op
+TIJO.422
+Informaatioanalytiikan työkurssi
+2–8 op
+VIM.IT.200
+Informaatiotutkimuksen opintopiiri
+1 op
+IT.250
+Informaatiotutkimuksen tutkimusmenetelmiä
+5 op
+HTI.550
+Information Analytics and Visualisation
+5–10 op
+TIJO.424
+Information Analytics Seminar
+5 op
+TIJO.410
+Information Security Management
+5 op
+COMP.IS.200
+Information Strategy
+5 op
+RAK.TA.250
+Infrahankkeen tuotannon hallinta
+5 op
+RAK.IN.630
+Infrarakenteiden materiaalien tutkimusmenetelmät
+5 op
+RAK.IN.300
+Infrarakenteiden tekninen suunnittelu
+5 op
+KAS.KAY.200
+Inklusiivinen koulu
+5 op
+TIJO.620
+Innovaatiojohtamisen teoria ja käytäntö
+5 op
+ARK.AD.510
+Innovatiiviset strategiat rakennussuunnittelussa
+10 op
+COMP.SE.600
+Innovation project
+1–10 op
+KEM.120
+Insinöörikemia
+5 op
+KIE.POY.340
+Institutionaalinen vuorovaikutus
+5 op
+HAL.KAJO.312
+Institutions and Innovation in Urban and Regional Development
+5 op
+KONE.320
+Integroitu tuotekehitys ja tuotanto
+5 op
+ITC.KIE.030
+Intercultural Communication (C1)
+3 op
+KAT.YRVE.248
+International Business Law
+5 op
+EDU.020
+International Work Experience
+2–8 op
+COMP.CE.450
+Internet of Things
+5 op
+COMM.SYS.710
+Internet-of-Things Wireless Communications
+5 op
+VIM.IT.320
+Internetin historiat
+5 op
+SSR.COSOP.170
+Internship
+5 op
+MARIH.313
+Internship
+10 op
+SSR.PEACE.100
+Internship
+10 op
+SSR.030
+Internship
+10 op
+PGH.401
+Internship (C1)
+10 op
+KAS.KAY.430
+Intervention research and analysis
+5 op
+ENS.310
+Introduction to Academic Studies
+2 op
+KONE.700
+Introduction to Aircraft Engineering
+5 op
+TIJO.630
+Introduction to API Economy
+1 op
+COMP.SGN.120
+Introduction to Audio and Speech Processing
+5 op
+DATA.STAT.720
+Introduction to Bayesian Analysis 1
+5 op
+BBT.072
+Introduction to Biomedical Engineering
+5 op
+BBT.INT.806
+Introduction to Biomedical Sciences and Engineering
+1 op
+KAT.YRVE.270
+Introduction to Business Law and Tax Law
+5 op
+BBT.INT.803
+Introduction to Cell and Molecular Biology
+5 op
+RAK.250
+Introduction to Civil Engineering Studies
+2–3 op
+AUT.130
+Introduction to Control
+5–7 op
+KAS.TELM.020
+Introduction to Degree Studies
+2 op
+KAS.TELM.010
+Introduction to Education in Finland
+5 op
+MAB.201
+Introduction to Energy System and Society
+5 op
+HIS.M.001
+Introduction to Finnish History
+5 op
+acc.300
+Introduction to Finnish Sign Language
+1 op
+ITC.KIE.010
+Introduction to Finnish Society and Culture
+2–3 op
+COMP.CS.420
+Introduction to Formal Specification
+5 op
+MATH.MA.810
+Introduction to Functional Analysis
+5 op
+VIM.MT.315
+Introduction to Game Studies
+5 op
+GS.130
+Introduction to Game Studies Methodologies
+5 op
+ITC.CEE.200
+Introduction to Graduate Studies
+3 op
+SAFER.320
+Introduction to Graduate Studies
+2 op
+ENS.410
+Introduction to Graduate Studies for Environmental Engineering and Photonics Technologies
+2 op
+ENS.610
+Introduction to Graduate Studies, Automation and Materials Engineering
+1 op
+BBT.INT.804
+Introduction to Graduate Studies, Biomedical Sciences and Engineering
+2 op
+BBT.BI.201
+Introduction to High-throughput Data Analysis
+5 op
+KONE.620
+Introduction to Industrial Internet
+5 op
+LFC.310
+Introduction to Leadership for Change
+5 op
+BBT.HTI.502
+Introduction to Medical Image Processing
+5 op
+BBT.031
+Introduction to Microsystem Technology
+5 op
+BBT.HTI.503
+Introduction to Neuroinformatics
+5 op
+NAM.010
+Introduction to North American Studies
+5 op
+LFC.GOV.310
+Introduction to Public Administration Research, Reforms and Trends
+5 op
+BBT.MJS.142
+Introduction to Quality and Regulation for Medical Product Development
+5 op
+KAT.VRH.102
+Introduction to Risk Management and Insurance
+5 op
+COMM.SYS.600
+Introduction to Satellite Positioning
+5 op
+SAFER.310
+Introduction to Security Studies, Governance and Safety Management
+3 op
+EE.EES.310
+Introduction to Smart Grids and Renewable Energy
+5 op
+ACC.290
+Introduction to speech-to-text interpreting
+1 op
+SSR.GEN.010
+Introduction to studying Gender Studies
+5 op
+FYS.440
+Introduction to Surface Science
+5 op
+SDL.510
+Introduction to Sustainable Digital Life
+1–5 op
+JO.222
+Introduction to Sustainable Journalism
+5 op
+SUD.001
+Introduction to Sustainable Urban Development
+5 op
+DATA.STAT.650
+Introduction to Time Series Analysis
+5 op
+RAK.LI.210
+Introduction to Transport Systems
+5 op
+MSE.480
+Introduction to Tribology
+5 op
+TIJO.632
+IoT teollisessa liiketoiminnassa
+5 op
+KIE.KK.368
+Iran ja USA: Kirjallisia ja elokuvallisia muuttoliikkeitä
+5 op
+LANG.ITA.001
+Italia 1 (A1)
+4 op
+LANG.ITA.002
+Italia 2 (A1)
+4 op
+STY.326
+Itsemääräämisoikeus ja integroiva työote monialaisissa sosiaalityön konteksteissa
+5 op
+KAT.KAU.004
+Jakelukanavat ja kaupan ketjuliiketoiminta
+5 op
+LÄÄK.400
+Jaksaminen
+5 op
+GS.185
+Japanese Video Games
+5 op
+LANG.JAP.001
+Japani 1 (A1)
+4 op
+LANG.JAP.002
+Japani 2 (A1)
+4 op
+LANG.JAP.003
+Japani 3 (A2)
+4 op
+LANG.JAP.004
+Japani 4 (A2)
+4 op
+HIS.HIA.505
+Japanin modernisaatio
+5 op
+TIJO.222
+Johdanto datatieteeseen
+5 op
+DATA.ML.100
+Johdanto hahmontunnistukseen ja koneoppimiseen
+5 op
+LÄÄK.100
+Johdanto lääketieteen opintoihin
+4 op
+KIE.KM.380
+Johdanto monikulttuurisuuteen ja monikielisyyteen
+5 op
+MUS.010
+Johdanto museologiaan
+5 op
+KAT.VRH.101
+Johdanto riskienhallintaan ja vakuuttamiseen
+5 op
+ITC.CEE.010
+Johdanto tekniikan opintoihin
+5 op
+KONE.150
+Johdanto tuotantotekniikkaan
+5 op
+ARK.101
+Johdatus arkkitehtuurin opiskeluun I
+2 op
+ARK.401
+Johdatus arkkitehtuurin opiskeluun II
+2 op
+IT.170
+Johdatus asiakirjahallintaan
+5 op
+AUT.400
+Johdatus automaation tietotekniikkaan
+5 op
+VIM.JO.620
+Johdatus datajournalismiin
+5 op
+MVK.ER.310
+Johdatus erikoisalojen käännösviestintään
+5 op
+FIL.FIA.001
+Johdatus filosofiaan ja sen historiaan
+5 op
+HAL.HATI.101
+Johdatus hallintotieteeseen
+5 op
+HIS.HIA.010
+Johdatus historiantutkimukseen
+5 op
+HOI.200
+Johdatus hoitotieteelliseen ajatteluun
+8 op
+VIM.JO.260
+Johdatus journalismin tutkimukseen
+5 op
+KIE.KA.120
+Johdatus kielten tutkinto-ohjelman tieteenaloihin
+5 op
+KIR.110
+Johdatus kirjallisuuden poetiikkaan
+5 op
+HAL.KAJO.101
+Johdatus kunta- ja aluejohtamiseen
+5 op
+COMP.SGN.110
+Johdatus kuvan- ja videonkäsittelyyn
+5 op
+MVK.KT.310
+Johdatus käännösteknologiaan
+5 op
+MVK.MY.310
+Johdatus käännöstieteeseen ja ammattimaiseen käännöstoimintaan
+5 op
+MVK.KL.310
+Johdatus kääntämiseen luovilla aloilla
+5 op
+LATK.100
+Johdatus latinankieliseen kulttuuriin
+5 op
+LOG.101
+Johdatus logopediaan
+5 op
+KIR.140
+Johdatus länsimaiseen kirjallisuushistoriaan
+5 op
+MATH.MA.250
+Johdatus matemaattiseen päättelyyn ja lukuteoriaan
+5 op
+RAK.RS.300
+Johdatus materiaalimalleihin
+5 op
+MSE.220
+Johdatus materiaaliopin laboratoriotöihin
+5 op
+MSE.050
+Johdatus materiaalitekniikan DI-opintoihin
+0 op
+LOG.104
+Johdatus ohjattuun asiakastyöskentelyyn
+5 op
+COMP.SE.100
+Johdatus ohjelmistotuotantoon
+5 op
+KAT.YRVE.101
+Johdatus oikeusjärjestykseen
+5 op
+KIE.POA.250
+Johdatus pohjoismaiseen kielentutkimukseen ja työelämään
+5 op
+COMM.RF.200
+Johdatus RF-elektroniikkaan
+5 op
+COMP.CE.100
+Johdatus sulautettuihin järjestelmiin
+5 op
+KIR.130
+Johdatus Suomen kirjallisuushistoriaan
+5 op
+AUT.300
+Johdatus systeemien hallintaan
+5 op
+MAB.LITO.001
+Johdatus taloushallintoon
+5 op
+VIM.JO.640
+Johdatus talousjournalismiin
+5 op
+COMP.CS.050
+Johdatus tietojenkäsittelytieteisiin
+3 op
+MATH.APP.210
+Johdatus todennäköisyyslaskentaan ja tilastolliseen päättelyyn
+5 op
+MVK.TU.310
+Johdatus tulkkausprosessiin ja tulkin työkaluihin
+5 op
+EE.REE.200
+Johdatus uusiutuviin energialähteisiin
+5 op
+VIM.JO.230
+Johdatus visuaaliseen kulttuuriin
+5 op
+HIS.100
+Johdatus yhteiskuntahistoriaan
+5 op
+YKT.101
+Johdatus yhteiskuntatutkimukseen
+5 op
+MATH.APP.010
+Johdatus yliopistomatematiikkaan
+5 op
+MAB.LITO.004
+Johdatus yrittäjyyteen
+5 op
+MAB.LITO.006
+Johdatus yritysjuridiikkaan
+5 op
+MAB.LITO.007
+Johdatus yritysvastuuseen
+5 op
+AUT.500
+Johdatus älykkäisiin työkoneisiin
+5 op
+KAT.LASK.208
+Johdon laskentatoimen jatkokurssi
+5 op
+KAT.LASK.206
+Johdon laskentatoimen perusteet
+5 op
+TUTA.212
+Johdon laskentatoimi
+5 op
+KAT.LASK.306
+Johdon laskentatoimi ja inhimillinen käyttäytyminen
+10 op
+SOTE.034
+Johtaminen ja moniammatillisuus
+5 op
+KAT.JOHT.208
+Johtaminen ja organisaatiokäyttäytyminen
+5 op
+MAB.LITO.003
+Johtamisen ja organisaatioiden perusteet
+5 op
+TIJO.650
+Johtamisen ja tietotekniikan erityiskysymyksiä
+2–8 op
+MOJOPP3
+Johtamisen vuorovaikutus ja organisaatioviestintä
+2 op
+MSE.452
+Joining Methods for Metals
+5 op
+MATH.MA.760
+Joukko-oppi
+10 op
+RAK.LI.340
+Joukkoliikenne ja liikenteen palvelut
+5 op
+VIM.JO.250
+Journalismi ammattina
+5–10 op
+VIM.140
+Journalismi ja julkisuus
+5 op
+VIM.JO.320
+Journalismin monet muodot
+10 op
+VIM.JO.330
+Journalistiikan teemakurssi
+5 op
+JO.120
+Journalistiikan tutkimus: metodologia
+5 op
+VIM.JO.240
+Journalistin suomi: kielenhuolto
+5 op
+VIM.JO.310
+Journalistin suomi: tekstinhuolto
+5 op
+VJ.210
+Journalistisen henkilökuvan työpaja
+5 op
+VJ.230
+Julkaisun visuaalisuus, suunnittelu ja johtaminen
+10 op
+HAL.JOIK.315
+Julkinen eurooppaoikeus
+5 op
+HAL.HATI.212
+Julkinen hallinto ja politiikka
+5 op
+VI.160
+Julkinen keskustelu
+5 op
+HAL.HATI.308
+Julkisen hallinnon reformit ja muutos
+5 op
+HAL.JUTA.308
+Julkisen talousjohtamisen klassikkoteokset
+5 op
+HAL.JUTA.101
+Julkisen talousjohtamisen perusteet
+5 op
+HAL.JUTA.213
+Julkisen talousjohtamisen tietojärjestelmät
+5 op
+HAL.JUTA.307
+Julkisen talousjohtamisen tutkimusotteet
+5 op
+HAL.JUTA.202
+Julkisen toiminnan rahoitus ja talouden suunnittelu
+5 op
+HAL.JUTA.203
+Julkisen toiminnan tuloksellisuustieto
+5 op
+HAL.JOIK.220
+Julkiset hankinnat
+5 op
+COMP.530-04
+Julkiset ICT-hankinnat
+5 op
+HAL.JOIK.210
+Julkisoikeuden perusteet
+5 op
+HAL.JOIK.399
+Julkisoikeuden pro gradu -seminaari ja -tutkielma
+40 op
+HAL.JOIK.317
+Julkisoikeuden syventävä tutkimusjakso
+5 op
+HAL.JOIK.214
+Julkisoikeuden tutkimuspraktikum
+5 op
+KAT.TAL.320
+Julkistalouden teemoja
+5 op
+KAT.TAL.220
+Julkistalous
+5 op
+HAL.JOIK.217
+Julkistalousoikeus
+5 op
+HAL.HATI.216
+Julkisten palvelujen johtaminen
+5 op
+HAL.JUTA.206
+Julkisyhteisöjen kirjanpito ja tilinpäätös
+5 op
+KIE.ENA.250
+Jälkikoloniaalinen kulttuuri ja globaali englanninkielinen kirjallisuus
+5 op
+RAK.RS.410
+Jännitetyt betonirakenteet
+5 op
+RAK.IN.250
+Kalliorakennustekniikan perusteet
+5 op
+RAK.IN.400
+Kalliorakenteiden suunnittelu
+5 op
+TEA.370
+Kandidaatin opinnäyte
+8 op
+TEA.362
+Kandidaatin taiteellinen työ
+7 op
+TER.230
+Kandidaatin tutkielma ja seminaari
+10 op
+PSY.290
+Kandidaatintutkielma
+10 op
+STY.209
+Kandidaatintutkielma
+10 op
+YKT.260
+Kandidaatintutkielma ja seminaari, yhteiskuntatutkimus
+10 op
+KAS.KAA.330
+Kandidaatintutkielma, kasvatustieteet
+10 op
+KONE.010
+Kandidaatintyökurssi
+0 op
+YEB.035
+Kandidaatintyöseminaari
+0 op
+HAL.HATI.299
+Kandidaattiseminaari ja -tutkielma (hallintotiede)
+10 op
+VIM.IT.510
+Kandidaattiseminaari ja -tutkielma (informaatiotutkimus)
+10 op
+HAL.JUTA.299
+Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen)
+10 op
+HAL.JOIK.299
+Kandidaattiseminaari ja -tutkielma (julkisoikeus)
+10 op
+HAL.KAJO.299
+Kandidaattiseminaari ja -tutkielma (kunta- ja aluejohtaminen)
+10 op
+HAL.YPAT.299
+Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede)
+10 op
+HIS.HIA.251
+Kandidaattiseminaari ja aineopintojen tutkielma
+10 op
+TAU.OPN.220
+Kandidaattiseminaari ja kandidaatin tutkielma
+10 op
+FIL.FIA.160
+Kandidaattiseminaari ja kandidaatintutkielma
+10 op
+HIS.HIA.250
+Kandidaattiseminaari ja kandidaatintutkielma
+10 op
+KIE.KA.220
+Kandidaattiseminaari ja kandidaatintutkielma
+10 op
+LOG.400
+Kandidaattiseminaari ja tutkielma
+10 op
+KAT.LASK.299
+Kandidaattiseminaari ja tutkielma (laskentatoimi)
+10 op
+KAT.MARK.299
+Kandidaattiseminaari ja tutkielma (markkinointi)
+10 op
+KAT.TAL.299
+Kandidaattiseminaari ja tutkielma (taloustiede)
+10 op
+KAT.VRH.299
+Kandidaattiseminaari ja tutkielma (vakuutustiede)
+10 op
+KAT.JOHT.299
+Kandidaattiseminaari ja tutkielma (yrityksen johtaminen)
+10 op
+KAT.YRVE.299
+Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)
+10 op
+MATH.600
+Kandidaattitutkielma ja seminaari, matematiikka ja tilastollinen data-analyysi
+10 op
+COMP.900
+Kandidaattitutkielma, tietojenkäsittelytieteet
+10 op
+KAT.JOHT.320
+Kansainvälinen liiketoiminta
+5 op
+TAU.M.210
+Kansainvälinen opiskelijatuutorointi
+2 op
+POL.KV.233
+Kansainvälinen poliittinen talous
+5 op
+DPHS.GHD.810
+Kansainvälinen terveys ja sosiaalipolitiikka seminaari
+3 op
+KAT.YRVE.264
+Kansainvälinen verotus
+5 op
+POL.KV.232
+Kansainvälinen yhteisö, ulkopolitiikka ja diplomatia
+5 op
+DPHI.820
+Kansainvälisen historian tutkijaseminaari
+15 op
+HAL.JOIK.219
+Kansainvälisen oikeuden peruskurssi
+5 op
+POL.KV.330
+Kansainvälisen politiikan ajankohtaiskeskustelut
+5 op
+POL.101
+Kansainvälisen politiikan johdantokurssi
+5 op
+POL.KV.212
+Kansainvälisen politiikan menetelmäseminaari
+5 op
+POL.KV.321
+Kansainvälisen politiikan menetelmätyöpaja
+5 op
+POL.KV.322
+Kansainvälisen politiikan syventävä menetelmäkurssi
+5 op
+POL.KV.211
+Kansainvälisen politiikan teoria ja menetelmät
+5 op
+POL.KV.310
+Kansainvälisen politiikan teoria ja metateoria
+10 op
+POL.KV.340
+Kansainvälisen politiikan työseminaari
+10 op
+POL.KV.351
+Kansainvälisen politiikan vaihtuvasisältöiset teemaopinnot
+0–10 op
+KAT.YRVE.344
+Kansainvälisen verotuksen syventävä opintojakso
+5 op
+POL.KV.242
+Kansainväliset instituutiot, ihmisoikeudet ja konfliktinratkaisu
+5 op
+KAT.VRH.304
+Kansainväliset vakuutusmarkkinat ja jälleenvakuutus
+5 op
+YKT.SPO.303
+Kansalaisuus, osallisuus, eriarvoisuus
+5 op
+POL.VO.323
+Kansalaisyhteiskunta ja poliittinen osallistuminen
+10 op
+POL.VO.243
+Kansalaisyhteiskunta ja vaikuttamiskeinot
+5 op
+POL.KV.223
+Kansallinen, eurooppalainen ja globaali energiapolitiikka
+5 op
+POL.VO.222
+Kansallisen ja Euroopan tason vuorovaikutus
+5 op
+KAN.100
+Kansanterveystieteen perusteet
+5 op
+DPHS.KAN.820
+Kansanterveystieteen tohtorikoulutusseminaari
+3 op
+KAN.360
+Kansanterveystieteen tutkimusotteet
+5 op
+KAS.KAA.010
+Kasvatuksen ja koulutuksen filosofiset ja historialliset lähtökohdat
+5 op
+KAS.KAA.020
+Kasvatus ja koulutus yhteiskunnassa
+5 op
+KAS.KAY.020
+Kasvatusajattelu
+5 op
+FIL.FIA.120
+Kasvatusfilosofia ja filosofinen ihmistutkimus
+5 op
+KAS.KAA.150
+Kasvatusfilosofia: asiantuntijuus, valta ja vastuu
+5 op
+KAS.KAA.050
+Kasvatustieteellinen tutkimus
+5 op
+DPEDU.210
+Kasvatustieteellisen tutkimuksen painopistealueet ja suuntaukset
+10 op
+DPEDU.212
+Kasvatustieteen opinnot
+5–10 op
+KAS.KAY.505
+Kasvatustieteiden syventävä teemajakso: Autenttisuus, induktiivisuus ja ilmiölähtöisyys opetuksen lähtökohtana
+10 op
+KAS.KAY.501
+Kasvatustieteiden syventävä teemajakso: Johtajuus ja kehittämisasiantuntijuus
+10 op
+KAS.KAY.504
+Kasvatustieteiden syventävä teemajakso: Sukupuolitietoinen kasvatus
+10 op
+KAS.KAY.509
+Kasvatustieteiden syventävä teemajakso: Yhdenvertaisuus ja oppimisen tuki aikuiskoulutuksessa
+10 op
+KAS.KAY.510
+Kasvatustieteiden syventävä teemajakso: Ympäristökasvatuskokeilut
+10 op
+KAS.KAY.400
+Kasvatustieteiden syventävä tutkimusprosessi
+5 op
+KAS.KAA.120
+Kasvatusyhteisöt ja yhdenvertaisuus
+5 op
+TUTA.366
+Kasvuyritysten ekosysteemit
+5 op
+KAS.LOM.030
+Katsomusaineet
+5 op
+RAK.LI.440
+Kaupan ja teollisuuden logistinen analyysi
+5 op
+KAT.003
+Kauppatieteellisen tutkimuksen menetelmät
+5 op
+ARK.700
+Kaupunkiekskursio
+5 op
+ARK.YS.010
+Kaupunkien suunnittelu
+5 op
+RAK.LI.320
+Kaupunkiliikenteen suunnittelu
+5 op
+HOI.JS.100
+Kehittyminen johtajaksi terveydenhuollossa
+10 op
+HPED.100
+Kehittyminen terveystieteiden opettajaksi ja kouluttajaksi
+10 op
+STY.351
+Kehittämis- ja vaikuttavuuslähtöinen tutkimus
+5 op
+HAL.HATI.304
+Kehittävä asiantuntijatyö organisaatioissa
+10 op
+KAS.KAA.030
+Kehitys ja oppiminen elämänkulussa
+5 op
+PSY.101
+Kehityspsykologia I
+5 op
+PSY.201
+Kehityspsykologia II
+5 op
+KEM.500
+Kemian diplomityöseminaari
+0 op
+KEM.470
+Kemian erikoistyö
+2–8 op
+KEM.210
+Kemian lyhyet perustyöt
+3 op
+KEM.380
+Kemian opettamisen erityiskysymyksiä
+2–5 op
+KEM.100
+Kemian perusteet
+3 op
+KEM.200
+Kemian perustyöt
+5 op
+STY.353
+Kerrotut kokemukset ja havainnot sosiaalityön tutkimuksessa
+5 op
+HIS.HIA.807
+Keskiajan tutkimuksen menetelmät
+5 op
+LANG.RUO.003
+Keskustele ja vaikuta mediassa (B1)
+2 op
+LANG.RUO.002
+Keskustele työroolissa (B1)
+2 op
+KIE.KM.360
+Keskusteluntutkimus
+5 op
+ARK.AD.440
+Kestävä arkkitehtuuri
+5 op
+KEKE.300
+Kestävä hyvinvointi
+5 op
+RAK.LI.300
+Kestävä ja turvallinen liikennejärjestelmä
+5 op
+KONE.510
+Kestävä tuotanto
+5 op
+HAL.JUTA.301
+Kestävän kaupunkitalouden informaatio
+5 op
+KEKE.000
+Kestävän kehityksen johdantojakso
+5 op
+KEKE.500
+Kestävän kehityksen käytännöt
+5 op
+YEB.010
+Kestävän kehityksen perusteet
+5 op
+LÄÄK.604
+Keuhkosairauksien kliininen jakso
+3 op
+PGH.101
+Key concepts and competences in public health
+5 op
+BBT.INT.801
+Kick-start to Biomedical Technology
+3 op
+KIE.ENA.110
+Kielen analyysi 1
+5 op
+KIE.ENA.120
+Kielen analyysi 2
+5 op
+LOG.631
+Kielen ja vuorovaikutuksen tutkimus ja kuntoutus 1
+5 op
+LOG.632
+Kielen ja vuorovaikutuksen tutkimus ja kuntoutus 2
+5 op
+KIE.SUKK.130
+Kielen käyttö I (B2)
+5 op
+KIE.SUKK.140
+Kielen käyttö II (B2)
+5 op
+KIE.ENY.373
+Kielen muutos: Kohti nykyenglantia
+5 op
+KIE.DM.390
+Kielen tarkastelu korpusten avulla
+5 op
+KIE.ENA.230
+Kielen vaihtelu nykyenglannissa
+5 op
+KIE.SUA.150
+Kielen variaatio
+5 op
+KIE.SUA.130
+Kielen- ja tekstinhuolto
+5 op
+KIE.POA.150
+Kieli käyttöön
+5 op
+KIE.SAA.220
+Kieli- ja kulttuuriharjoittelu
+5 op
+FIL.FIA.050
+Kieli- ja mielenfilosofia
+5 op
+KAS.VAR.080
+Kieli, kirjallisuus ja draama
+5 op
+POL.KV.243
+Kieli, käytännöt ja identiteetti konflikteissa
+5 op
+KIE.SAA.140
+Kieli, merkitys ja sanasto 1
+5 op
+KIE.SAA.240
+Kieli, merkitys ja sanasto 2
+5 op
+KIE.KM.362
+Kieliasenteet ja kieli-ideologiat tutkimuskohteena
+5 op
+KIE.ES.265
+Kieliharjoittelu
+5 op
+KIE.POA.230
+Kieliharjoittelu
+5 op
+KIE.ENA.290
+Kieliharjoittelu
+5 op
+KIE.RA.260
+Kieliharjoittelu
+5 op
+KAS.LOM.040
+Kielikasvatus
+5 op
+KIE.RA.110
+Kielioppi
+5 op
+KIE.SAA.110
+Kielioppi 1
+5 op
+KIE.SAA.210
+Kielioppi 2
+5 op
+KIE.ES.130
+Kielioppi I
+5 op
+KIE.SUKK.110
+Kielioppi I (B2)
+5 op
+KIE.POA.110
+Kielioppi I
+5 op
+KIE.SUKK.120
+Kielioppi II (B2)
+5 op
+KIE.POA.210
+Kielioppi II
+5 op
+KIE.ENA.210
+Kielioppi ja konteksti
+5 op
+KIE.VEA.002
+Kielioppiharjoitukset
+5 op
+KIE.SUYS2.320
+Kielitaito ja kielitaidon arviointi
+5 op
+KIE.RA.230
+Kielitiede
+5 op
+KIE.ENA.220
+Kielitiede 2: merkitys, kommunikaatio ja yhteiskunta
+5 op
+KIE.SUY.372
+Kielitieteellinen diskurssianalyysi
+5 op
+KIE.KM.410
+Kielitieteen historia ja tutkimussuunnat
+5 op
+KIE.ENY.353
+Kielitieteen laadulliset ja määrälliset menetelmät
+5 op
+KIE.ENY.391
+Kielitieteestä kieltenopetukseen
+5 op
+TEA.341
+Kielitietoisuus ja suomen murteet
+2 op
+DPLA.100
+Kielten tohtoriohjelman tutkijaseminaari
+10 op
+KIE.KA.110
+Kielten tutkinto-ohjelman orientoivat opinnot ja HOPS
+2 op
+ARK.RH.530
+Kiertotalous arkkitehtuurissa
+5 op
+RAK.IN.800
+Kiertotalous infrarakentamisessa
+5 op
+RAK.RS.830
+Kiertotalous kiinteistökehittämisessä ja talonrakentamisessa
+5 op
+LANG.KII.001
+Kiina 1 (A1)
+4 op
+LANG.KII.002
+Kiina 2 (A1)
+4 op
+RAK.TA.420
+Kiinteistökehittäminen
+5 op
+VIM.IT.340
+Kirja- ja kirjastohistoria
+5 op
+KIE.ES.120
+Kirjallinen esitys ja käännös suomi – espanja
+5 op
+KIR.321
+Kirjallinen ilmiö ja sen tutkimus 1
+5 op
+KIR.322
+Kirjallinen ilmiö ja sen tutkimus 2
+5 op
+KIE.SAA.130
+Kirjallinen viestintä 1
+5 op
+KIE.SAA.230
+Kirjallinen viestintä 2
+5 op
+KIE.POA.120
+Kirjallinen viestintä I
+5 op
+KIE.POA.220
+Kirjallinen viestintä II
+5 op
+KIE.RA.130
+Kirjallinen viestintä ja tekstintuntemus
+5 op
+KIE.ENA.240
+Kirjallisia kumouksia: Amerikkalaisia liikkuvuuksia
+5 op
+KIE.ENA.241
+Kirjallisia kumouksia: Britannian uudelleenkirjoittaminen
+5 op
+KIE.KK.369
+Kirjallista maantiedettä käytännössä: matka Englannin järviseudulle
+5 op
+KIR.243
+Kirjallisuuden ja taiteen filosofia
+5 op
+KIR.210
+Kirjallisuuden teoria
+5 op
+KIR.220
+Kirjallisuudentutkimuksen menetelmät
+5 op
+KIE.ENY.352
+Kirjallisuudentutkimuksen teoria ja metodit
+5 op
+AUT.950
+Kirjallisuus
+1–10 op
+HIS.HIA.809
+Kirjallisuus ja kirjallinen kulttuuri varhaismodernissa Suomessa: historian ja kirjallisuudentutkimuksen näkökulmia
+5 op
+KIR.244
+Kirjallisuus ja muu media
+5 op
+KIR.120
+Kirjallisuus, kulttuuri ja yhteiskunta
+5 op
+KIE.RA.150
+Kirjallisuushistoria
+5 op
+KIR.241
+Kirjallisuusinstituutio, kulttuuri ja yhteiskunta
+5 op
+DPLS.810
+Kirjallisuustieteen tohtoriohjelman tutkijaseminaari
+15 op
+VIM.IT.230
+Kirjasto- ja tietopalvelujen kehittäminen
+5 op
+MOJOPV6C-1
+KIRJATENTTI 3: ASIAKKUUDET - ASIAKASLÄHTÖISYYS SOTE-PALVELUISSA
+2 op
+KIE.ENY.360
+Kirjatentti: Kielenopetus/Kielen omaksuminen
+5 op
+KIE.KK.320
+Kirjatentti: Kirjallisuus ja maantiede
+5 op
+LÄÄK.500
+Kirurgian ja sisätautien integroitu kliininen jakso
+18 op
+LÄÄK.508
+Kirurgian ja sisätautien integroitu lopputentti
+4 op
+KIR.232
+Klassinen länsimainen kertomakirjallisuus
+5 op
+PSY.207
+Kliinisen neuropsykologian perusteet
+5 op
+LÄÄK.316
+Kliinisten taitojen evaluaatio I
+0 op
+LÄÄK.410
+Kliinisten taitojen evaluaatio II
+0 op
+LOG.710
+Klinikkaharjoittelu 1
+5 op
+LOG.720
+Klinikkaharjoittelu 2
+5 op
+TIJO.302
+Knowledge Management
+5 op
+DATA.ML.320
+Knowledge Mining and Big Data
+5 op
+PSY.102
+Kognitiivinen neurotiede I
+5 op
+PSY.202
+Kognitiivinen neurotiede II
+5 op
+TEA.361
+Kohtaus- ja roolityö
+3 op
+MATH.APP.560
+Kohti matematiikan opettajuutta: monipuolinen koulumatematiikka
+5 op
+KIR.371
+Kohti tutkielman jälkeistä elämää
+5 op
+ARK.AD.520
+Kokeellinen rakennussuunnittelu
+10 op
+VIM.MT.210
+Kokemus, tulkinta ja analyysi
+5 op
+MUS.020
+Kokoelmat ja kulttuuriympäristö
+5 op
+IT.140
+Kokoelmatyö
+5 op
+MATH.MA.730
+Kompleksianalyysi
+10 op
+MATH.APP.440
+Kompleksimuuttujan funktiot
+5 op
+KONE.750
+Komposiittirakenteet
+5 op
+KONE.160
+Koneensuunnittelu ja CAD-mallinnuksen perusteet
+5 op
+KONE.650
+Konejärjestelmien kunnonvalvonta
+5 op
+KONE.660
+Konejärjestelmien monitorointi ja diagnostiikka
+5 op
+KONE.230
+Konejärjestelmien simulointi
+5 op
+MVK.KT.320
+Konekääntäminen ja jälkieditointi
+5 op
+KONE.170
+Koneosaoppi
+5 op
+KONE.220
+Konerakenteiden suunnittelu
+5 op
+KONE.115
+Konetekniikan johdantokurssi
+5 op
+KONE.030
+Konetekniikan työelämäyhteistyö- ja harjoittelukurssi
+5 op
+MVK.ETU.330
+Konsekutiivitulkkaus I englanti-suomi-englanti
+5 op
+MVK.STU.330
+Konsekutiivitulkkaus I saksa-suomi-saksa
+5 op
+MVK.VTU.330
+Konsekutiivitulkkaus I venäjä-suomi-venäjä
+5 op
+KAT.LASK.310
+Konsernitilinpäätös
+5 op
+LANG.KOR.001
+Korea 1 (A1)
+4 op
+LANG.KOR.002
+Korea 2
+4 op
+HAL.KOHA.326
+Korkeakouluhallinnon juridiikka
+10 op
+HAL.KOHA.324
+Korkeakoulujen rahoitus ja talous
+5 op
+HAL.KOHA.322
+Korkeakoulujärjestelmät ja niiden ohjaus
+5 op
+HAL.KOHA.321
+Korkeakoulut ja korkeakoulutus tutkimuksen kohteena
+5 op
+LÄÄK.606
+Korva-, nenä- ja kurkkutautiopin kliininen jakso
+4 op
+KAN.300
+Kriittisiä kysymyksiä kansanterveystieteessä
+5 op
+LÄÄK.900
+KT-testi
+0 op
+RAK.LI.400
+Kuljetusjärjestelmät
+5 op
+FIL.FIA.110
+Kulttuuri- ja taiteenfilosofia I
+5 op
+FIL.FIY.601
+Kulttuuri- ja taiteenfilosofia II
+15 op
+FIL.FIY.601
+Kulttuuri- ja taiteenfilosofia II
+15 op
+KIE.AV.511
+Kulttuurienvälinen talousviestintä
+5 op
+HAL.JUTA.313
+Kunnallisen rahoituksen laskentatoimen erityiskysymyksiä
+5 op
+HAL.JOIK.313
+Kunnallisoikeuden syventävä jakso
+5 op
+HAL.JOIK.215
+Kunnallisoikeus
+5 op
+HAL.JUTA.212
+Kunnallistalouden kirjanpito
+5 op
+HAL.KAJO.399
+Kunta- ja aluejohtamisen pro gradu -tutkielma ja -seminaari
+40 op
+HAL.KAJO.315
+Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi
+5 op
+HAL.KAJO.313
+Kuntien ja alueiden kansainväliset hallintasuhteet
+5 op
+RAK.RS.820
+Kuntotutkimukset
+2 op
+KONE.740
+Kuormitukset ja rakenneratkaisut
+5 op
+VIM.VI.290
+Kuunteleminen ja sanoman rakentaminen
+5 op
+EDU.MKU.010
+Kuva-analyysi
+5 op
+MVK.KL.364
+Kuvailutulkkauksen perusteet
+5 op
+VIM.JO.410
+Kuvajournalistin taidot
+5 op
+EDU.MKU.040
+Kuvanveisto ja installaatio
+5 op
+KAS.LOM.110
+Kuvataide
+5 op
+KAS.VAR.020
+Kuvataidekasvatus
+5 op
+POL.VO.333
+Kvalitatiiviset tutkimusmenetelmät
+5 op
+POL.VO.334
+Kvantitatiiviset tutkimusmenetelmät
+5 op
+FYS.230
+Kvanttimekaniikan perusteet
+5 op
+COMP.SEC.100
+Kyberturvallisuus I: perusteet
+5 op
+TAU.KN.031
+Kypsyysnäyte englanniksi alemmassa korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.131
+Kypsyysnäyte englanniksi ylemmässä korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.041
+Kypsyysnäyte ranskaksi alemmassa korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.141
+Kypsyysnäyte ranskaksi ylemmässä korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.020
+Kypsyysnäyte ruotsiksi alemmassa korkeakoulututkinnossa, sisällön ja kielen tarkistus
+0 op
+TAU.KN.021
+Kypsyysnäyte ruotsiksi alemmassa korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.120
+Kypsyysnäyte ruotsiksi ylemmässä korkeakoulututkinnossa, sisällön ja kielen tarkistus
+0 op
+TAU.KN.121
+Kypsyysnäyte ruotsiksi ylemmässä korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.051
+Kypsyysnäyte saksaksi alemmassa korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.151
+Kypsyysnäyte saksaksi ylemmässä korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.010
+Kypsyysnäyte suomeksi alemmassa korkeakoulututkinnossa, sisällön ja kielen tarkistus
+0 op
+TAU.KN.011
+Kypsyysnäyte suomeksi alemmassa korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.110
+Kypsyysnäyte suomeksi ylemmässä korkeakoulututkinnossa, sisällön ja kielen tarkistus
+0 op
+TAU.KN.111
+Kypsyysnäyte suomeksi ylemmässä korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.061
+Kypsyysnäyte venäjäksi alemmassa korkeakoulututkinnossa, sisällön tarkistus
+0 op
+TAU.KN.161
+Kypsyysnäyte venäjäksi ylemmässä korkeakoulututkinnossa, sisällön tarkistus
+0 op
+POL.VO.331
+Käsiteanalyysi ja filosofiset tutkimusmenetelmät
+5 op
+DATA.DB.400
+Käsitteellinen mallintaminen
+5 op
+KAS.LOM.080
+Käsityö
+5 op
+EDU.MKS.010
+Käsityö ja kestävä tulevaisuus
+5 op
+EDU.MKS.040
+Käsityöilmaisu
+5 op
+EDU.MKS.030
+Käsityömuotoilu
+5 op
+EDU.MKS.020
+Käsityön taitopedagogiikka
+5 op
+COMP.CS.410
+Käyttöjärjestelmät
+5 op
+AUT.100
+Käytännön systeemiajattelu
+5 op
+STY.103
+Käytäntö I: Arvot, etiikka ja vapaaehtoistyö
+5 op
+STY.206
+Käytäntö II: Asiakastyön käytäntö
+15 op
+STY.304
+Käytäntö III: Sosiaalityön harjoittelu
+15 op
+KIE.ES.260
+Käännös espanja – suomi
+5 op
+MVK.MY.330
+Käännösalan projektinhallinta ja työelämätaidot
+5 op
+MVK.EN.330
+Käännösviestintä englanti-suomi ja käännösten kielenhuolto
+5 op
+KIE.RA.263
+Käännösviestintä ranska-suomi
+5 op
+MVK.RU.330
+Käännösviestintä ruotsi-suomi ja käännösten kielenhuolto
+5 op
+MVK.SA.330
+Käännösviestintä saksa-suomi ja käännösten kielenhuolto
+5 op
+MVK.EN.320
+Käännösviestintä suomi-englanti
+5 op
+MVK.RU.320
+Käännösviestintä suomi-ruotsi
+5 op
+MVK.SA.320
+Käännösviestintä suomi-saksa
+5 op
+MVK.VE.320
+Käännösviestintä suomi-venäjä
+5 op
+MVK.VE.330
+Käännösviestintä venäjä-suomi ja käännösten kielenhuolto
+5 op
+MVK.MY.320
+Kääntäjän suomen perusteet
+5 op
+KIE.ENA.260
+Kääntäminen englanti-suomi
+5 op
+KIE.POA.292
+Kääntäminen ruotsi-suomi
+5 op
+KIE.SAA.260
+Kääntäminen saksa - suomi
+5 op
+KIE.SAA.270
+Kääntäminen suomi - saksa
+5 op
+KIE.ENA.270
+Kääntäminen suomi-englanti
+5 op
+KIE.VEA.272
+Kääntäminen suomi-venäjä
+5 op
+KIE.VEA.271
+Kääntäminen venäjä-suomi
+5 op
+MVK.MY.380
+Kääntämisen tai tulkkauksen erityiskysymyksiä
+4–5 op
+KAN.362
+Laadullinen terveystutkimus: aineisto ja analyysimenetelmät
+5 op
+KAS.KAY.410
+Laadullinen tutkimus ja analyysi
+5 op
+TAU.TRI.310
+Laadullisen tutkimuksen ytimessä
+3 op
+STY.207
+Laadulliset tutkimusmenetelmät
+5 op
+KAS.KAA.310
+Laadulliset tutkimusmenetelmät
+5 op
+YKT.241
+Laadulliset tutkimusmenetelmät
+5 op
+HOI.310
+Laadullisten tutkimusmenetelmien soveltaminen hoitotieteessä
+5 op
+FYS.111
+Laaja fysiikka 1
+5 op
+FYS.112
+Laaja fysiikka 2
+5 op
+FYS.113
+Laaja fysiikka 3
+5 op
+FYS.114
+Laaja fysiikka 4
+5 op
+KEM.130
+Laaja kemia 1
+5 op
+KEM.140
+Laaja kemia 2
+5 op
+KAS.PED.060
+Laajentava harjoittelu, aineenopettaja
+5 op
+KAS.PEL.030
+Laajentava harjoittelu, luokanopettaja
+5 op
+KAS.KAY.030
+Laatu ja arviointi koulutuksessa
+5 op
+HAL.KOHA.325
+Laatu, arviointi ja kehittäminen korkeakouluissa
+5 op
+TUTA.250
+Laatujohtaminen
+5 op
+KEM.170
+Laboratoriotyöturvallisuus ja -työtavat
+2 op
+YEB.043
+Laboratory Course in Bio and Environmental Engineering
+5 op
+BBT.INT.808
+Laboratory Course in Computational Biology
+5 op
+MSE.400
+Laboratory Exercises in Materials Science
+5 op
+KONE.840
+Laboratory Work in Mechatronics
+5 op
+BBT.002
+Laboroinnin perusteet
+5 op
+HAL.JOIK.318
+Lainvalmistelu ja vaikutusten arviointi
+5 op
+YEB.150
+Laitossuunnittelu
+5 op
+COMM.SYS.200
+Langattoman tietoliikenteen perusteet
+5 op
+KIE.SUY.373
+Lapsen kielenomaksuminen
+5 op
+LOG.321
+Lapsen puhe/kielihäiriön kuntoutus
+5 op
+STY.211
+Lapset ja lastensuojelu
+5 op
+YKT.YKE.204
+Lapsuuden ja perhe-elämän käytännöt 1
+5 op
+YKT.YKE.205
+Lapsuuden ja perhe-elämän käytännöt 2
+5 op
+YKT.YKE.206
+Lapsuuden ja perhe-elämän käytännöt 3
+5 op
+YKT.M.410
+Lapsuuden ja perheen tutkimuksen ydinkysymyksiä
+5 op
+YKT.YKE.200
+Lapsuuden ja perheen tutkimus traditioina ja käsitteinä 1
+5 op
+YKT.YKE.201
+Lapsuuden ja perheen tutkimus traditioina ja käsitteinä 2
+5 op
+VIM.MT.325
+Lapsuus ja nuoruus muuttuvassa mediaympäristössä
+5 op
+YKT.YKE.202
+Lapsuus- ja perhetutkimuksen nykykeskusteluja 1
+5 op
+YKT.YKE.203
+Lapsuus- ja perhetutkimuksen nykykeskusteluja 2
+5 op
+KAS.VAR.010
+Lapsuus, lasten arki ja osallisuus yhteiskunnassa
+5 op
+YKT.222
+Lapsuus, nuoruus ja perhe
+5 op
+COMP.SE.210
+Large Scale Software Design
+5 op
+GS.191
+Larp Design in Theory and Practise
+3 op
+FYS.501
+Laser Physics
+5 op
+MATH.MA.890
+Laskennallinen topologia
+10 op
+DATA.STAT.430
+Laskennalliset menetelmät ja bayesilaisyyden perusteet
+5 op
+KAT.LASK.234
+Laskentatoimen Excel-harjoitukset
+5 op
+KAT.LASK.101
+Laskentatoimen perusteet
+5 op
+KAT.LASK.304
+Laskentatoimen teoria ja IFRS
+5 op
+KAT.LASK.210
+Laskentatoimi ja talousjohtaminen
+5 op
+TUTA.310
+Laskentatoimi johtamisen tukena
+5 op
+PSY.320
+Lasten ja aikuisten kriisit ja traumat
+5 op
+PSY.302
+Lasten ja nuorten arviointi
+10 op
+PSY.310
+Lasten ja nuorten neuropsykologinen kuntoutus
+10 op
+PSY.306
+Lasten ja nuorten psykologiset interventiot
+5 op
+LOG.231
+Lasten kielihäiriöt
+8 op
+LÄÄK.612
+Lastenpsykiatrian kliininen jakso
+2 op
+STY.417
+Lastensuojelu II
+5 op
+LÄÄK.510
+Lastentautien, synnytys- ja naistentautien ja psykiatrian integroitu loppukuulustelu
+4 op
+LÄÄK.506
+Lastentautiopin kliininen jakso
+6 op
+KIE.ES.150
+Latinalaisen Amerikan historia ja kirjallisuus
+5 op
+KIE.ES.240
+Latinalaisen Amerikan lähihistoria ja kirjallisuus
+5 op
+LANG.LAT.001
+Latinan alkeet
+4 op
+LATK.200
+Latinan kielen jatkokurssi
+5 op
+LATK.300
+Latinan kieliopin ja tekstinymmärtämisen harjoitukset
+5 op
+MATH.MA.510
+Lauselogiikka
+5 op
+KIE.SUA.120
+Lauserakenne
+5 op
+YEB.144
+LCA in Energy and Environmental Engineering
+5 op
+HAL.KAJO.316
+Leadership in Urban and Regional Development
+5 op
+RAK.TA.410
+LEAN-kehittäminen rakennustuotannossa
+5 op
+DATA.STAT.760
+Learning from Multiple Sources
+5 op
+LANG.ENG.014
+Legal Issues in English (B2)
+2 op
+KAS.VAR.060
+Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä
+5 op
+KONE.770
+Lennon ja lentokonejärjestelmien simulointi
+5 op
+KONE.790
+Lentomekaniikan jatkokurssi
+5 op
+KONE.720
+Lentomoottorit ja lentokoneen järjestelmät
+5 op
+PSY.401
+Life-span developmental psychology I
+5 op
+KAT.YRVE.240
+Liike- ja työsopimukset
+5 op
+KAT.LASK.202
+Liikekirjanpito ja tilinpäätös
+5 op
+RAK.LI.200
+Liikennejärjestelmän analyysi
+5 op
+RAK.LI.540
+Liikennejärjestelmän erikoistyö
+2–10 op
+RAK.LI.520
+Liikennetutkimukset
+5 op
+TIJO.400
+Liiketoiminnan ja tietojärjestelmien yhteensovittaminen
+5 op
+TUTA.322
+Liiketoiminnan päätöksenteko ja markkina-analytiikka
+5 op
+MAB.LITO.008
+Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - yrityssimulaatio
+5 op
+TIJO.314
+Liiketoimintatiedon analyysi
+5 op
+TIJO.214
+Liiketoimintatiedon hallinta
+5 op
+KAT.JOHT.230
+Liiketoimintaympäristön ja liiketoiminnan analysointi
+5 op
+MAB.LITO.005
+Liiketoimintaympäristön taloustiede
+5 op
+EDU.MLI.010
+Liikunnan projektityö
+5 op
+EDU.MLI.050
+Liikunnan terveydelliset ja yhteiskunnalliset ulottuvuudet
+5 op
+EDU.MLI.040
+Liikunnan vaihtelevat ympäristöt
+5 op
+KAS.LOM.090
+Liikunta
+5 op
+EDU.MLI.020
+Liikunta pedagogisena ilmiönä
+5 op
+KAS.VAR.030
+Liikuntakasvatus
+5 op
+LÄÄK.703
+Liikuntalääketiede
+3 op
+TAU.M.230
+Liikuntatuutorina toimiminen
+2 op
+MATH.MA.410
+Lineaarialgebra
+5 op
+MATH.MA.740
+Lineaarialgebra 2
+10 op
+ACC.200
+Linguistic accessibility and machine translation
+1 op
+LÄÄK.106
+Lisääntyminen, kasvu ja kehitys
+8 op
+KONE.950
+Literature
+1–15 op
+TUTA.308
+Literature Study in Business and Technology
+5 op
+COMP.CE.240
+Logic Synthesis
+5 op
+FIL.FIY.201
+Logiikan historia, filosofinen logiikka ja kielifilosofia
+15 op
+FIL.FIY.202
+Logiikan historia, filosofinen logiikka ja kielifilosofia
+5 op
+FIL.FIA.002
+Logiikka
+5 op
+RAK.LI.460
+Logistiikan erikoistyö
+2–10 op
+DPPL.LOG.810
+Logopedian jatkokoulutusseminaari
+2 op
+YKT.NUT.304
+Lokaali ja globaali nuorisopolitiikka
+5 op
+DPIP.BIO.410
+Longitudinal data analysis
+5 op
+AUT.350
+LQG Control with Matlab
+5–7 op
+VOK.103
+Luentateatteri
+5 op
+RAK.RS.110
+Lujuusoppi
+5 op
+IT.150
+Lukeminen kulttuurisesta ja yhteiskunnallisesta näkökulmasta
+5 op
+IT.320
+Lukemisen tutkimus
+5 op
+EDU.MER.020
+Lukemisen, kirjoittamisen ja matematiikan oppimisen tukeminen
+5 op
+ENS.150
+Luonnontieteiden ja matematiikan historia
+5 op
+KONE.640
+Luotettavuuskeskeinen huolto (RCM)
+5 op
+KONE.195
+Luotettavuustekniikan ja kunnossapidon perusteet
+5 op
+HAL.KAJO.215
+Luova kaupunkikehittäminen
+5 op
+MVK.KL.320
+Luova kirjoittaminen ja ekspressiiviset tekstit
+5 op
+ENS.510
+Luova ongelmanratkaisu ja järjestelmäsuunnittelu
+5 op
+MVK.KL.360
+Luovilla aloilla kääntämisen erityiskysymyksiä
+5 op
+STY.406
+Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen
+5 op
+YEB.421
+Lämmönsiirto
+5 op
+YEB.420
+Lämpötekniikka
+5 op
+LÄÄK.200
+Lääketieteellinen tieto ja tutkimus
+5 op
+LÄÄK.714
+Lääketieteellisen tutkimuksen etiikka
+3 op
+LÄÄK.707
+Lääketieteen filosofiaa
+3–5 op
+POL.KV.331
+Maailmanpolitiikan muutos
+5 op
+RAK.IN.200
+Maamekaniikka
+5 op
+KIE.KK.363
+Maan alla: myytti, metafora, fiktio
+5 op
+RAK.IN.210
+Maaperägeologia
+5 op
+RAK.IN.220
+Maarakennustekniikka
+5 op
+DATA.ML.210
+Machine Learning Algorithms
+5 op
+KONE.522
+Machine Vision
+5 op
+ARK.YS.520
+Maisemasuunnittelu
+5 op
+TEA.820
+Maisterin opinnäyte
+35 op
+KIE.POY.360
+Maisteriseminaari
+10 op
+KIE.SAY.360
+Maisteriseminaari
+10 op
+KIE.VEY.380
+Maisteriseminaari
+10 op
+KIE.SUY.420
+Maisteriseminaari
+5 op
+KAT.TAL.206
+Makrotalousteoria I
+5 op
+KAT.TAL.208
+Makrotalousteoria II
+5 op
+KAT.TAL.306
+Makrotalousteorian jatkokurssi I
+5 op
+KAT.TAL.308
+Makrotalousteorian jatkokurssi II
+5 op
+KONE.110
+Mallinnus ja dokumentointi
+5 op
+MATH.MA.780
+Mallit ja predikaattilogiikka
+5 op
+TUTA.340
+Management of Project Business
+5 op
+TUTA.382
+Managerial Finance for Sales and Sourcing
+5 op
+COMP.IS.220
+Managing e-commerce; Consumers and Community Perspective
+5 op
+COMP.IS.230
+Managing industrial e-business and B2B
+5 op
+TUTA.380
+Managing Operative Sales
+5 op
+TAU.TRI.106
+Managing Research Information (online course)
+3 op
+HAL.KAJO.314
+Managing Urban Complexities
+5 op
+KAT.YRVE.244
+Markkina- ja kilpailuoikeus
+5 op
+TUTA.320
+Markkinoinnin ja asiakastyön johtaminen
+5 op
+MAB.LITO.002
+Markkinoinnin ja myynnin perusteet
+5 op
+KAT.MARK.212
+Markkinoinnin kvalitatiiviset menetelmät
+5 op
+KAT.MARK.214
+Markkinoinnin kvantitatiiviset menetelmät
+5 op
+KAT.MARK.101
+Markkinoinnin perusteet
+5 op
+KAT.MARK.308
+Markkinoinnin teoria
+5 op
+BBT.MJS.111
+Master's Seminar, Biomedical Sciences and Engineering
+1–2 op
+TAU.OPN.320
+Master's Thesis
+40 op
+PGH.501
+Master's Thesis (C1)
+25 op
+SAFER.399
+Master's Thesis
+30 op
+SSR.COSOP.180
+Master's Thesis and Thesis Seminar
+40 op
+SDL.580
+Master's Thesis Seminar
+5 op
+MSE.020
+Master's Thesis Seminar
+0 op
+PGH.502
+Master's Thesis Seminar (C1)
+5 op
+SAFER.398
+Master's Thesis Seminar
+5 op
+SSR.PEACE.130
+Master's Thesis Seminar and Master's Thesis
+40 op
+SSR.GTS.060
+Master's Thesis Seminar and Master's Thesis
+40 op
+SSR.PPA.080
+Master's Thesis Seminar and Master's Thesis
+40 op
+AUT.020
+Master's Thesis Seminar in Automation
+0 op
+DATA.810
+Master's Thesis Seminar, Data Science & Statistical Data Analytics
+5 op
+DATA.STAT.910
+Master's Thesis, Computational and Statistical Data Analytics
+30 op
+LFC.POL.399
+Master’s Seminar and Thesis, European and Global Politics
+40 op
+LFC.GOV.399
+Master’s Seminar and Thesis, Governance for Sustainable Change
+40 op
+LFC.BUS.399
+Master’s Seminar and Thesis, Sustainable Business Management
+40 op
+GS.160
+Master’s Thesis Continuation Seminar
+5 op
+GS.150
+Master’s Thesis Process Seminar
+5 op
+MATH.APP.450
+Matemaattisen mallinnuksen peruskurssi
+5 op
+DATA.STAT.420
+Matemaattisen tilastotieteen perusteet
+5 op
+DATA.STAT.510
+Matemaattiset ja tilastolliset ohjelmistot
+5 op
+EDU.MMA.010
+Matematiikan erityispiirteitä
+5 op
+EDU.MMA.020
+Matematiikan oppiminen
+5 op
+KAS.LOM.050
+Matematiikka
+5 op
+MSE.240
+Materiaalien mekaaninen käyttäytyminen
+5 op
+MSE.100
+Materiaaliopin perusteet 1
+5 op
+MSE.110
+Materiaaliopin perusteet 2
+5 op
+BBT.033
+Materiaaliopin perusteet biolääketieteen tekniikan opiskelijoille
+5 op
+MSE.310
+Materiaalit ja ympäristö
+5 op
+MSE.010
+Materiaalitekniikan kandidaatintyöseminaari
+0 op
+MSE.200
+Materiaalitieteen tutkimusmenetelmät
+5 op
+YEB.120
+Materiaalivirtojen hallinta
+5 op
+MSE.560
+Materials for Energy Technologies
+5 op
+MATH.APP.810
+Mathematical Control Theory
+5 op
+MATH.MA.850
+Mathematics Literature
+0–10 op
+MATH.APP.410
+Matriisilaskenta
+5 op
+MATH.MA.840
+Measure and Integration
+5 op
+KONE.415
+Measurement and Analysis Methods in Manufacturing
+5 op
+BBT.HTI.506
+Measurements of Physiological Systems
+5 op
+KONE.800
+Mechatronic Systems and Components
+5 op
+AUT.700
+Mechatronics and Robot Programming
+5 op
+DATA.ML.330
+Media Analysis
+5 op
+KAS.TELM.600
+Media Education
+5 op
+JO.110
+Media yhteiskunnassa
+10 op
+VIM.110
+Media, arki ja yhteiskunta
+5 op
+KIE.DM.420
+Mediadiskurssi ja multimodaalisuus
+5 op
+KAS.KAA.130
+Medialukutaito digiyhteiskunnassa
+5 op
+MT.110
+Mediatutkimuksen vaeltavat teoriat
+10 op
+BBT.034
+Medical Biomaterials
+5 op
+BBT.HTI.592
+Medical Imaging Methods
+5 op
+KONE.190
+Mekaaniset ja mekatroniset rakenteet
+5 op
+KONE.240
+Mekaanisten tehonsiirtolaitteiden mitoitus
+5 op
+KIE.KM.310
+Merkityksen erityiskysymyksiä
+5 op
+KIE.SUA.140
+Merkitys
+5 op
+FIL.FIA.100
+Metafysiikka
+5 op
+FIL.FIY.301
+Metafysiikka ja mielenfilosofia
+15 op
+FIL.FIY.302
+Metafysiikka ja mielenfilosofia
+5 op
+MSE.300
+Metallien ja keraamien valmistusmenetelmät
+5 op
+MSE.550
+Metals Technology
+5 op
+NAM.040
+Methodology Studies: Game Theory
+5 op
+HTI.310
+Methods in Human-Centered Design
+5 op
+BBT.INT.812
+Methods in Single Cell Biology
+5 op
+BBT.HTI.593
+Methods of Radiotherapy
+5 op
+POL.VO.211
+Metodikurssi I: Kvalitatiiviset menetelmät
+5 op
+POL.VO.212
+Metodikurssi II: Kvantitatiiviset menetelmät
+5 op
+KIE.POY.310
+Metodologia
+5 op
+MT.120
+Metodologia ja metodit
+10 op
+EE.ELE.270
+Micro Electronics I
+5 op
+EE.ELE.280
+Micro Electronics II
+5 op
+BBT.MND.703
+Microactuators and Active Actuator Materials
+5 op
+BBT.MND.702
+Microfluidics
+5 op
+BBT.MND.701
+Microsensors
+5 op
+YKT.YKE.503
+Miehet ja maskuliinisuudet
+5 op
+PSY.304
+Mielenterveyden arviointi
+5 op
+DPHS.SOP.810
+Mielenterveyden ja sosiaalipsykiatrian tohtorikoulutusseminaari, MST
+3 op
+KAN.110
+Mielenterveys ilmiönä
+5 op
+PSY.313
+Mielenterveysinterventiot
+10 op
+YEB.721
+Mikrobiologia
+5 op
+YEB.730
+Mikrobiologian laboratoriotyöt
+5 op
+KAT.TAL.314
+Mikroekonometria
+5 op
+EE.ELE.500
+Mikrokontrollerijärjestelmät
+5 op
+EE.ELE.250
+Mikrokontrollerit
+5 op
+KAT.TAL.202
+Mikrotalousteoria I
+5 op
+KAT.TAL.204
+Mikrotalousteoria II
+5 op
+KAT.TAL.302
+Mikrotalousteorian jatkokurssi I
+5 op
+KAT.TAL.304
+Mikrotalousteorian jatkokurssi II
+5 op
+YKT.223
+Minuus ja identiteetti
+5 op
+BBT.MB.609
+Mitochondria
+5 op
+AUT.120
+Mittaus A
+5 op
+BBT.028
+Mittaus B
+5 op
+KONE.140
+Mittaus K
+5 op
+MSE.230
+Mittaus M
+5 op
+RAK.TA.110
+Mittaustekniikan ja tietomallintamisen perusteet
+5 op
+COMP.CS.220
+Mobiiliohjelmointi
+5 op
+AUT.530
+Mobilehydraulics
+5 op
+MATH.MA.520
+Modaali- ja predikaattilogiikka
+5 op
+BBT.CT.411
+Model Organisms
+3 op
+EE.PEE.330
+Model Predictive Control of Power Electronic Systems
+5 op
+AUT.580
+Model-based Design and Rapid Prototyping
+5 op
+BBT.HTI.507
+Modelling of Physiological Systems
+5 op
+HIS.HIA.030
+Moderni yhteiskunta
+5 op
+HIS.HIA.409
+Modernisoituvan Suomen marginaalit
+5 op
+KONE.390
+Modulaaristen tuotteiden suunnittelu
+5 op
+YEB.742
+Molecular and Synthetic Biology I
+5 op
+YEB.743
+Molecular and Synthetic Biology II
+5 op
+BBT.MB.601
+Molecular Genetics
+5 op
+BBT.018
+Molekulaarinen solubiologia
+10 op
+BBT.017
+Molekyylibiologia
+5 op
+BBT.011
+Molekyylibiologian työt
+5 op
+KAS.VAR.090
+Moniammatillinen ja monialainen yhteistyö ja vuorovaikutus varhaiskasvatuksessa
+5 op
+EDU.MER.050
+Moniammatillinen yhteistyö
+5 op
+LANG.001
+Monikielinen johdanto akateemisiin viestintä- ja kieliopintoihin 1
+1 op
+LANG.002
+Monikielinen johdanto akateemisiin viestintä- ja kieliopintoihin 2
+2 op
+KIE.RA.250
+Monikielisyys
+5 op
+KIE.VEY.350
+Monikielisyys ja -kulttuurisuus
+5 op
+LOG.641
+Monikielisyys ja -kulttuurisuus 1
+5 op
+STY.407
+Monikulttuurisen sosiaalityön erityiskysymykset
+5 op
+DATA.STAT.450
+Monimuuttujamenetelmät
+5 op
+KAS.VAR.110
+Moninaisuus ja inklusiivinen varhaiskasvatus
+5 op
+JO.130
+MoreeniLab - kokeilevan journalismin työpajat
+10 op
+KIE.SUY.370
+Morfologian erityiskysymyksiä
+5 op
+EDU.MLI.030
+Motorisen oppimisen ja fysiologian perusteet
+5 op
+HIS.HIA.609
+Muistamisen ja unohtamisen historiaa – muistin politiikka ja kulttuurinen muisti
+5 op
+COMM.SYS.450
+Multicarrier and Multiantenna Techniques
+5 op
+GS.110
+Multidisciplinary Game Studies
+5 op
+VIM.JO.430
+Multimedian perusteet
+5 op
+KIE.DM.430
+Multimodaalinen analyysi
+5 op
+HTI.500
+Multimodal Interaction
+5 op
+KIE.KK.354
+Murha ja representaatio
+5 op
+RAK.RS.370
+Murtumismekaniikka ja väsyminen
+5 op
+MUS.050
+Museologian harjoittelu
+5 op
+MUS.040
+Museot ja yhteiskunta
+5 op
+KAS.VARLO.100
+Musiikki
+5 op
+EDU.MMU.010
+Musiikki kulttuurisina siltoina globaalissa maailmassa
+5 op
+EDU.MMU.040
+Musiikkipedagogiikka
+5 op
+TEA.753
+Musikaalinäyttelemisen mestarikurssi
+3–4 op
+YKT.224
+Muuttoliike ja kulttuurinen moninaisuus
+5 op
+KAS.KAY.420
+Määrällinen tutkimus ja analyysi
+5 op
+YKT.240
+Määrälliset tutkimusmenetelmät
+5 op
+STY.208
+Määrälliset tutkimusmenetelmät
+5 op
+KAS.KAA.320
+Määrälliset tutkimusmenetelmät
+5 op
+KEM.430
+Nanochemistry
+5 op
+BBT.BTE.306
+Nanomedicine and Advanced Drug Delivery Technologies
+5 op
+VJ.220
+Narratiivinen video
+5 op
+LÄÄK.717
+Natiivikuvia päivystävälle lääkärille
+4 op
+DPHS.KAN.810
+NEDIS tohtorikoulutusseminaari (lasten ja nuorten terveyden edistämisen tutkimus)
+3 op
+TUTA.306
+Negotiation in Sales and Sourcing
+5 op
+YKT.NUT.301
+Neljä näkökulmaa nuorisokysymykseen
+5 op
+LÄÄK.302
+Neste- ja elektrolyyttitasapaino
+8 op
+COMM.NET.700
+Network Analysis and Dimensioning
+5 op
+COMM.NET.410
+Networking Laboratory II
+3–5 op
+LÄÄK.608
+Neuroalojen kliininen jakso
+5 op
+LOG.510
+Neurologia
+5 op
+LOG.530
+Neuropsykiatria
+3 op
+EE.EES.510
+New Applications in Electrical Energy Engineering
+5 op
+TIJO.310
+New Knowledge - Creation and Tools
+5 op
+LOG.212
+Nieleminen ja sen häiriöt
+4 op
+KIE.KM.312
+Nimistöntutkimus
+5 op
+LÄÄK.404
+Nivelkipu
+5 op
+HIS.HIA.311
+Noitavainot Euroopassa
+5 op
+MSE.422
+Non-Destructive Testing and Failure Analysis
+5 op
+SSR.COSOP.050
+Nordic Welfare Societies
+5 op
+STY.408
+Nordic Welfare State Models
+5 op
+MT.213
+Normaalin loppu
+5 op
+MATH.APP.460
+Numeerinen analyysi
+5 op
+EE.PEE.400
+Numerical Modeling of Electrical Machines
+5 op
+YKT.NUT.305
+Nuorisokasvatus, yksilö ja yhteiskunta
+5 op
+LÄÄK.614
+Nuorisopsykiatrian kliininen jakso
+1 op
+YKT.NUT.302
+Nuorisotutkimuksen ajankohtaisia kysymyksiä
+5 op
+DPSS.NUT.810
+Nuorisotutkimuksen jatkokoulutusseminaari
+5 op
+YKT.YKE.400
+Nuorisotyö professiona
+5 op
+YKT.210
+Nuorisotyön ja nuorisotutkimuksen keskeiset suuntaukset
+5 op
+YKT.YKE.402
+Nuorisotyön ja nuorisotutkimuksen teemallinen opintojakso 1
+Vähintään 5 op
+YKT.YKE.403
+Nuorisotyön ja nuorisotutkimuksen teemallinen opintojakso 2
+Vähintään 5 op
+YKT.YKE.404
+Nuorisotyön ja nuorisotutkimuksen teemallinen opintojakso 3
+Vähintään 5 op
+YKT.NUT.303
+Nuorisotyön nykykeskusteluja ja käytäntöjä
+5 op
+FIL.FIA.080
+Nykyajan filosofia
+5 op
+KIE.ES.250
+Nykyespanja ja variaatio ajallisesti ja maantieteellisesti
+5 op
+TEA.784
+Näkyviin - Nätyn ja ELOn syventävä elokuvatyöpaja
+8 op
+HIS.HIA.700
+Näkökulmia historiaan ja historiantutkimukseen
+5 op
+KAT.VRH.306
+Näkökulmia sosiaaliturvan teemoihin ja teoriaan
+5 op
+KIE.VEY.320
+Näkökulmia venäjänkieliseen mediaan
+5 op
+YKT.102
+Näkökulmia yhteiskuntaan
+5 op
+TEA.705
+Näyttelijän syventävät työelämäopinnot
+5 op
+TEA.110
+Näyttelijän tiedot ja taidot taiteilija-ammatissa ja yhteiskunnassa
+Vähintään 10 op
+TEA.783
+Näyttelijäntaide kameratyössä
+4 op
+MUS.030
+Näyttelyt ja museopedagogiikka
+5 op
+TEA.353
+Näyttämömusiikki
+2 op
+TEA.741
+Näyttämön tyylikaudet ja oma tyyli
+4–6 op
+HPED.400
+Näyttöön perustuvaa opetusta kehittävä projektityö
+10 op
+VIM.MT.313
+OASIS Key Masters 1
+5 op
+VIM.MT.314
+OASIS Key Masters 2
+5 op
+VIM.MT.318
+Oasis Talks (Autumn)
+1 op
+VIM.MT.319
+Oasis Talks (Spring)
+1 op
+KAS.PEY.030
+Ohjaus yliopistossa
+5 op
+AUT.230
+Ohjaus- ja automaatiojärjestelmät
+5 op
+COMP.SE.110
+Ohjelmistojen suunnittelu
+5 op
+COMP.SE.200
+Ohjelmistojen testaus
+5 op
+COMP.CS.120
+Ohjelmoinnin tekniikka C
+5 op
+COMP.CS.100
+Ohjelmointi 1: Johdatus ohjelmointiin
+5 op
+COMP.CS.110
+Ohjelmointi 2: Rakenteet
+5 op
+COMP.CS.140
+Ohjelmointi 3: Rajapinnat ja tekniikat
+5 op
+HAL.JOIK.213
+Oikeudellisen tutkimuksen perusteet
+5 op
+MAB.211
+Oikeus ja politiikka
+5 op
+LANG.RUO.006
+Oikeusalan ruotsi (B1)
+2 op
+KAT.YRVE.318
+Oikeustaloustiede
+5 op
+HAL.JOIK.316
+Oikeustieteellinen tutkimus
+5 op
+MVK.EOT.330
+Oikeustulkkaus I englanti-suomi-englanti
+5 op
+MVK.SOT.330
+Oikeustulkkaus I saksa-suomi-saksa
+5 op
+MVK.VOT.330
+Oikeustulkkaus I venäjä-suomi-venäjä
+5 op
+MVK.OT.340
+Oikeustulkkaus II
+5 op
+MOJOPP7
+Oman johtajuuden kehittymisen portfolio
+0 op
+VOK.102
+Oman äänen analyysi ja harjoittaminen
+5 op
+LOG.103
+Oman äänen ja puheen harjoitukset ja analyysi
+5 op
+KIR.245
+Omavalintaiset työelämätaidot
+5 op
+LÄÄK.618
+Onkologian kliininen jakso
+3 op
+LANG.ENG.003
+Online Working Life Interactions in English (B2)
+2 op
+MATH.APP.260
+Operaatiotutkimus
+5 op
+EE.ELE.400
+Operaatiovahvistinkytkennät
+5 op
+TIJO.610
+Operations Management
+5 op
+KIE.SUY.331
+Opettajan ammatillisen vuorovaikutusosaamisen kehittäminen
+5 op
+EDU.MMU.030
+Opettajan musiikilliset taidot
+5 op
+KIE.AV.342
+Opetuksen kehittäminen monikulttuurisissa oppimisympäristöissä
+5 op
+KAS.KAA.040
+Opetus ja ohjaus
+5 op
+HPED.300
+Opetusharjoittelu
+15 op
+KAS.PEY.020
+Opetussuunnitelma ja koulutuksen yhteisöllinen kehittäminen
+5 op
+KAS.KAA.160
+Opetussuunnitelma, arviointi ja koulutuksen kehittäminen
+5 op
+ENS.110
+Opinnot ja työelämä 1
+3 op
+ENS.120
+Opinnot ja työelämä 2
+2 op
+DPEDU.230
+Opinnäyte lukemis- ja kirjoittamisprosessina
+2–5 op
+DPEDU.211
+Opinnäytteen aiheeseen liittyvä systemaattinen kirjallisuuskatsaus
+5–10 op
+ENS.210
+Opintojen suunnittelu ja ohjaus 1
+3 op
+ENS.220
+Opintojen suunnittelu ja ohjaus 2
+2 op
+VIM.MT.322
+Opintopiiri
+1 op
+TAU.M.009
+Opiskelijalähettiläänä toimiminen Tampereen yliopistossa
+2 op
+TAU.PSY.000
+Opiskelijan hyvinvointi ja elämäntaidot
+1–2 op
+EDU.MER.040
+Oppimisen tuen suunnittelu, toteutus ja arviointi
+5 op
+KAS.KAA.170
+Oppimisyhteisöt, toimijuus ja asiantuntijuus
+5 op
+FYS.514
+Optical Design
+5 op
+FYS.500
+Optical Spectroscopy
+5 op
+FYS.506
+Optical Systems and Beam Propagation
+5 op
+FYS.510
+Optical Thin Films and Waveguides
+5 op
+FYS.240
+Optiikka
+5 op
+MATH.APP.720
+Optimization Methods
+5 op
+LFC.360
+Optional specialisation course
+5 op
+FYS.509
+Optoelectronics Devices and Technology
+5 op
+KEM.220
+Orgaaninen kemia 1
+5 op
+KEM.230
+Orgaanisen kemian työt 1
+5 op
+BBT.MB.604
+Organelles and their Interactions
+5 op
+KEM.340
+Organic Chemistry 2
+5 op
+HAL.KOHA.323
+Organisaatio, hallinto ja johtaminen
+10 op
+TIJO.210
+Organisaation oppiminen ja uudistuminen
+5 op
+MOJOPP1
+Organisaation toiminnan ja johtamisen lähtökohtia
+1 op
+TIJO.218
+Organisaatiot ja ihmisten johtaminen
+5 op
+KAT.JOHT.308
+Organisaatioteoria
+5 op
+VIM.VI.260
+Organisaatioviestintä
+5 op
+LFC.330
+Organisation Theory and Analysis
+5 op
+HAL.HATI.215
+Organisational Change Dynamics and Management
+5 op
+STY.361
+Orientaatio tutkielman tekemiseen
+5 op
+TAU.TRI.101
+Orientaatiopäivä väitöskirjatutkijoille
+0 op
+COMP.CS.006
+Orientation
+3 op
+SDL.670
+Orientation and Personal Study Planning
+2 op
+SSR.010
+Orientation and Personal Study Planning
+2 op
+GS.100
+Orientation and Personal Study Planning
+2 op
+BBT.INT.802
+Orientation and Study Planning
+2 op
+PGH.001
+Orientation and Study Planning
+2 op
+TAU.TRI.102
+Orientation to Doctoral Studies
+4 op
+KAS.ORIE.010
+Orientoituminen kasvatustieteiden opiskeluun (KK)
+4 op
+EDU.ORIE.020
+Orientoituminen kasvatustieteiden opiskeluun (KM)
+1 op
+VIM.010
+Orientoivat opinnot
+2 op
+ITC.NS.010
+Orientoivat opinnot
+2 op
+HAL.001
+Orientoivat opinnot (hallintotieteet)
+2 op
+KAT.001
+Orientoivat opinnot (kauppatieteet)
+2 op
+SOC.001
+Orientoivat opinnot ja HOPS
+2–3 op
+TER.001
+Orientoivat opinnot terveystieteiden opiskelijoille, HOPS
+Vähintään 2 op
+BBT.001
+Orientoivat opinnot, Bioteknologia ja biolääketieteen tekniikka
+3 op
+VIM.MT.240
+Osallistuminen ja toimijuus
+5 op
+STY.322
+Osallisuudet, oikeudet ja vastuut aikuissosiaalityössä
+5 op
+MAB.COOP.102
+Osuuskuntaoikeus
+5 op
+MAB.COOP.204
+Osuuskuntien kilpailuetujen kehittäminen
+5 op
+MAB.COOP.104
+Osuuskuntien liiketoiminta ja johtaminen
+5 op
+MAB.COOP.105
+Osuustoiminta ja kestävä kehitys
+5 op
+COMM.NET.500
+P2P Systems and Blockchain Technologies
+5 op
+MSE.540
+Packaging Materials
+5 op
+HAL.KAJO.311
+Paikallisen hallinnan teoriat
+10 op
+RAK.TA.220
+Paikkatietoanalyysi
+5 op
+PSY.322
+Pakolaisten mielenterveys ja hyvinvointi
+5 op
+KAN.320
+Palvelujen johtaminen terveydenhuollossa
+5 op
+VIM.IT.250
+Palvelumuotoilua informaatioaloille
+5 op
+SOTE.022
+Palvelut, arki ja elämänkulku
+5 op
+DPHS.GHD.610
+Pandemics and global health security
+1 op
+KAT.YRVE.232
+Pankkioikeus
+5 op
+COMP.CE.350
+Parallel Computing
+5 op
+DATA.ML.200
+Pattern Recognition and Machine Learning
+5 op
+SSR.PEACE.120
+Peace Research Design
+5 op
+KAS.VAR.040
+Pedagogiikka ja opetussuunnitelmatyö varhaiskasvatuksessa ja esiopetuksessa
+5 op
+KAS.VAR.120
+Pedagoginen kehittäminen ja johtaminen
+5 op
+KIE.SUY.341
+Pedagoginen kielitieto
+5 op
+KAS.PEA.010
+Pedagoginen seminaari ja harjoittelu (elinikäinen oppiminen ja kasvatus ja varhaiskasvatus)
+15 op
+EDU.050
+Pedagogisten opintojen tuutorina toimiminen
+2 op
+HIS.HIA.313
+Pelko ja ahdistus antiikissa, keskiajalla ja uuden ajan alussa
+5 op
+MATH.110
+Perehdyttäminen matematiikan alkeisiin
+1–3 op
+TIJO.060
+Perehdytys yliopisto-opiskeluun
+0 op
+HAL.JUTA.306
+Performance management in public organizations
+5 op
+STY.324
+Perhe, koti ja perheiden ongelmat
+5 op
+HOI.330
+Perhehoitotieteellisen tiedon syventäminen
+5 op
+LÄÄK.720
+Perinnöllisyyslääketiede
+3 op
+ARK.RH.420
+Perinteisten ja modernien rakenteiden korjaus
+5 op
+KAT.YRVE.266
+Perintö-, lahja- ja varainsiirtoverotus
+5 op
+PSY.103
+Persoonallisuuspsykologia I
+5 op
+PSY.203
+Persoonallisuuspsykologia II
+5 op
+KAS.PEL.010
+Perusharjoittelu A, luokanopettaja
+5 op
+KAS.PEL.020
+Perusharjoittelu B, luokanopettaja
+5 op
+KAS.PED.040
+Perusharjoittelu, aineenopettaja
+5 op
+KIE.TS.100
+Peruskurssi I
+5–10 op
+KIE.TS.110
+Peruskurssi II
+5 op
+LÄÄK.605
+Perusterveydenhuollon jakso
+10 op
+RAK.IN.520
+Perustusten vahvistaminen
+5 op
+MSE.450
+Phase Transformations and Heat Treatments of Metals
+5 op
+TAU.TRI.404
+PhD by publication: writing your integrative chapter
+2 op
+TAU.TRI.202
+Philosophy of Science (online course)
+3 op
+FYS.511
+Photonic Materials
+5 op
+FYS.508
+Physics of Optoelectronics
+5 op
+ACC.040
+Picture communication
+1 op
+EE.030
+Piiriteoria
+5 op
+LOG.730
+Pitkä harjoittelu
+25 op
+TAU.TRI.103
+Planning, Managing and Completing Your Doctoral Thesis
+2 op
+KAT.JOHT.306
+Platform Business
+5 op
+GS.189
+Playboy, Play, and Leisure
+3 op
+SDL.660
+Player and User Studies
+5 op
+VIM.MT.311
+PlayLab! Game Journalism Project 1
+5–10 op
+VIM.MT.312
+PlayLab! Game Journalism Project 2
+5 op
+RAK.IN.120
+Pohjarakentamisen perusteet
+5 op
+RAK.IN.500
+Pohjarakenteet
+5 op
+KIE.POA.290
+Pohjoismainen kirjallisuus
+5 op
+ARK.AD.530
+Pohjoismainen nykyarkkitehtuuri
+5 op
+KIE.POA.001
+Pohjoismaisten kielten lähtötasokoe
+0 op
+POL.VO.324
+Poliittinen filosofia
+10 op
+POL.VO.326
+Poliittinen johtaminen ja poliittiset prosessit
+10 op
+VIM.VI.250
+Poliittinen viestintä
+5 op
+POL.VO.244
+Poliittinen viestintä I
+5 op
+POL.VO.325
+Poliittinen viestintä II
+10 op
+POL.VO.252
+Poliittisen ajattelun uudet klassikot
+5 op
+POL.VO.251
+Poliittisen ajattelun vanhat klassikot
+5 op
+POL.104
+Poliittiset aatteet ja ideologiat
+5 op
+POL.VO.231
+Poliittiset instituutiot ja poliittinen johtaminen
+5 op
+POL.VO.327
+Poliittiset järjestelmät
+10 op
+POL.105
+Poliittiset ongelmat muuttuvissa konteksteissa
+5 op
+SSR.COSOP.110
+Political Dynamics in Select Social Policy Fields
+5 op
+SSR.PEACE.070
+Politics of Memory and Conflict Transformation
+5 op
+HAL.SUD.110
+Politics of Sustainable Development
+5 op
+VIM.JO.630
+Politiikan journalismi
+5 op
+POL.VO.312
+Politiikan tutkimuksen ajankohtaiset kysymykset
+5 op
+POL.299
+Politiikan tutkimuksen kandidaatinseminaari ja -tutkielma
+10 op
+POL.VO.311
+Politiikan tutkimuksen keskeiset käsitteet
+5 op
+POL.001
+Politiikan tutkimuksen orientoivat opinnot
+Vähintään 1 op
+YKT.225
+Politiikka ja osallistuminen
+5 op
+YKT.SOA.303
+Politiikka, valta ja kulttuurinen konteksti
+5 op
+EE.REE.410
+Polttokennot ja vetyteknologia
+5 op
+YEB.442
+Polttotekniikka
+5 op
+MSE.210
+Polymeerifysiikka
+5 op
+KEM.310
+Polymeerikemia
+5 op
+KEM.320
+Polymeerikemian työt
+5 op
+MSE.250
+Polymeeripohjaisten materiaalien valmistusmenetelmät
+5 op
+MSE.430
+Polymeric Materials
+5 op
+KIE.KK.331
+Pop-up podcastit!
+5 op
+TEA.354
+Populaari esitys
+5–8 op
+TEA.352
+Populaarit esitysmuodot ja -kulttuurit
+2–4 op
+LANG.POR.001
+Portugali 1 (A1)
+4 op
+LANG.POR.002
+Portugali 2
+4 op
+EE.PEE.600
+Post-Graduate Course in Power Electronics
+5–8 op
+EE.EES.600
+Post-Graduate Course in Power Engineering
+3–8 op
+DPENS.560
+Postgraduate Studies in Chemistry
+2–8 op
+DPENS.561
+Postgraduate Studies in Chemistry, parallel study unit 1
+2–8 op
+DPENS.562
+Postgraduate Studies in Chemistry, parallel study unit 2
+2–8 op
+DPENS.563
+Postgraduate Studies in Chemistry, parallel study unit 3
+2–8 op
+DPENS.564
+Postgraduate Studies in Chemistry, parallel study unit 4
+2–8 op
+DPENS.565
+Postgraduate Studies in Chemistry, parallel study unit 5
+2–8 op
+DPENS.566
+Postgraduate Studies in Chemistry, parallel study unit 6
+2–8 op
+DPENS.530
+Postgraduate Studies in Physics
+1–15 op
+EE.PEE.210
+Power Electronics I
+5 op
+EE.PEE.230
+Power Electronics II
+5 op
+EE.PEE.340
+Power Electronics in Smart and Sustainable Energy Systems
+5 op
+EDU.030
+Practical Observation of Finnish School System for Incoming Exchange Students
+5 op
+DATA.600
+Practical Training in Statistical Data Analytics
+2–10 op
+KIE.ENY.362
+Pragmatiikka ja informaatiorakenne
+5 op
+LATK.400
+Praktikum: latinankieliset tekstit
+5 op
+SSR.PEACE.090
+Praxis and Theory of Mediation and Dialogues
+5 op
+COMP.CS.400
+Principles of Programming Languages
+5 op
+SDL.520
+Principles of Service Design
+5 op
+IT.410
+Pro gradu -seminaari (informaatiotutkimus)
+10 op
+HAL.JUTA.399
+Pro gradu -seminaari ja -tutkielma
+40 op
+KAT.TAL.399
+Pro gradu -seminaari ja -tutkielma (taloustiede)
+40 op
+KAT.JOHT.399
+Pro gradu -seminaari ja -tutkielma (yrityksen johtaminen)
+40 op
+KAT.LASK.399
+Pro gradu -seminaari ja -tutkielma (yrityksen laskentatoimi)
+40 op
+HAL.HATI.399
+Pro gradu -seminaari ja -tutkielma, hallintotiede
+40 op
+LOG.800
+Pro gradu -tutkielma
+30 op
+PSY.390
+Pro gradu -tutkielma
+40 op
+MATH.920
+Pro gradu -tutkielma
+20–30 op
+HIS.HIY.700
+Pro gradu -tutkielma
+40 op
+FIL.FIY.903
+Pro gradu -tutkielma
+40 op
+STY.307
+Pro gradu -tutkielma
+35 op
+IT.420
+Pro gradu -tutkielma (informaatiotutkimus)
+40 op
+KAS.KAY.900
+Pro gradu -tutkielma ja -seminaari, kasvatustieteet
+40 op
+YKT.305
+Pro gradu -tutkielma ja -seminaari, yhteiskuntatutkimus
+40 op
+COMP.920
+Pro gradu -tutkielma, tietojenkäsittelytieteet
+30 op
+POL.VO.399
+Pro gradu –seminaari ja -tutkielma
+40 op
+POL.KV.399
+Pro gradu –seminaari ja -tutkielma
+40 op
+KAN.364
+Pro gradu-seminaari
+5 op
+LOG.820
+Pro gradua tukevat menetelmäopinnot 1
+5 op
+LOG.830
+Pro gradua tukevat menetelmäopinnot 2
+5 op
+YEB.041
+Process Engineering
+5 op
+MSE.460
+Processing of Advanced Ceramics
+5 op
+BBT.HTI.501
+Processing of Biosignals
+5 op
+MSE.436
+Processing of Thermoplastics
+5 op
+BBT.MJS.146
+Product Development of Biomedical Devices
+5 op
+KONE.521
+Production Automation Exercises
+5 op
+KONE.520
+Production Automation Planning
+5 op
+SSR.020
+Professional Expertise in Social Sciences
+5 op
+YEB.250
+Professional Training in Environmental Engineering
+2–8 op
+SDL.570
+Project and Thesis Course
+5 op
+FYS.512
+Project in Photonics
+5 op
+FYS.330
+Project Work in Applied Physics
+5 op
+BBT.MJS.104
+Project Work in Biomedical Sciences and Engineering
+2–8 op
+AUT.910
+Project Work in Intelligent Heavy Machines
+5 op
+BBT.MJS.107
+Project Work in Molecular Biology or Cell Technology
+5 op
+EE.060
+Project Work, Computing and Electrical Engineering
+2 op
+ENS.311
+Project Work, Natural Sciences and Mathematics
+2 op
+MT.130
+Projekti
+10 op
+TIJO.264
+Projektiliiketoiminta
+5 op
+KAN.250
+Projektin suunnittelu ja johtaminen
+5 op
+HOI.JS.400
+Projektin suunnittelu ja johtaminen terveydenhuollossa
+10 op
+TUTA.240
+Projektinhallinta
+5 op
+MATH.MA.770
+Proof Theory in Mathematical Logic
+5 op
+FIL.FIA.150
+Proseminaari
+5 op
+KIR.250
+Proseminaari ja kandidaatintutkielma
+10 op
+YEB.445
+Prosessien numeerinen mallinnus I
+5 op
+YEB.446
+Prosessien numeerinen mallinnus II
+7 op
+BBT.MB.603
+Protein Folding and Function
+5 op
+BBT.MB.608
+Protein Technology Laboratory B
+5 op
+PSY.404
+Psychological research methods I
+5 op
+HTI.210
+Psychology in Human-Technology Interaction
+5 op
+PSY.405
+Psychology of health and mental health I
+5 op
+PSY.403
+Psychology of personality I
+5 op
+LÄÄK.502
+Psykiatrian kliininen jakso
+6 op
+TEA.777
+Psykofyysisen näyttelijäntaiteen perusteet – Mihail Tšehov tekniikka ja kameranäytteleminen lähikuvassa
+4 op
+PSY.104
+Psykologian tutkimusmenetelmät I
+5 op
+PSY.204
+Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus
+5 op
+PSY.380
+Psykologiharjoittelu
+30 op
+PSY.210
+Psykologiset arviointimenetelmät
+5 op
+LOG.211
+Puhe ja puheen häiriöt
+6 op
+VOK.301
+Puhe ja ääni tieteellisen tutkimuksen kohteena
+5 op
+LOG.611
+Puhe- ja nielemistoimintojen tutkimus ja kuntoutus 1
+5 op
+LOG.612
+Puhe- ja nielemistoimintojen tutkimus ja kuntoutus 2
+5 op
+VIM.VI.200
+Puhe- ja vuorovaikutustaitojen työpaja
+5 op
+VOK.202
+Puheen ja äänen harjoitusmenetelmät
+5 op
+VOK.201
+Puheen ja äänen kulttuurinen ja ammatillinen variaatio
+5 op
+VOK.303
+Puheen ja äänen tutkimusharjoittelu
+10 op
+LOG.102
+Puheen, kielen ja viestinnän kehitys
+10 op
+STY.352
+Puheen, tekstien ja vuorovaikutuksen tutkimus
+5 op
+LOG.520
+Puhelääketiede
+7 op
+VOK.302
+Puhetekniikan ja vokologian opetusharjoittelu
+10 op
+VOK.101
+Puhetekniikan ja äänenkäytön perusteet
+5 op
+LOG.311
+Puheterapian ammattikäytänteitä
+3 op
+LOG.222
+Puheäänen häiriöt
+5–7 op
+POL.VO.328
+Puolueet ja vaalit
+10 op
+POL.VO.241
+Puolueet, vaalit ja äänestäminen
+5 op
+RAK.RS.220
+Puu- ja teräsrakenteiden perusteet
+5 op
+RAK.RS.600
+Puurakenteet
+5 op
+RAK.RS.610
+Puurakenteiden jatkokurssi
+5 op
+POL.VO.221
+Päätöksenteko, demokratia ja valta EU:ssa
+5 op
+KAT.MARK.312
+Päätöksentekokäyttäytyminen
+10 op
+TAU.TRI.306
+Qualitative Analyses of Interview Data
+2–3 op
+PGH.203
+Qualitative health research (C1)
+5 op
+SSR.COSOP.100
+Qualitative Research Methods
+5 op
+SSR.COSOP.090
+Quantitative Research Methods
+5 op
+FYS.423
+Quantum Mechanics
+5 op
+FYS.513
+Quantum Photonics - Foundations and Applications
+5 op
+FYS.425
+Quantum Theory of Electronic Structures
+5 op
+COMM.SYS.760
+Radar and Professional Radio Communication Systems
+5 op
+BBT.HTI.594
+Radiation Safety in Medicine
+5 op
+BBT.MND.707
+Radio Frequency Identification Technology
+5 op
+COMM.SYS.520
+Radio Network Planning
+5 op
+COMM.SYS.500
+Radio Propagation in Wireless Networks
+5 op
+KAT.TAL.228
+Rahatalous
+5 op
+KAT.LASK.230
+Rahoituksen jatkokurssi
+10 op
+KAT.TAL.330
+Rahoituksen muu sovelluskurssi
+5 op
+KAT.LASK.212
+Rahoituksen perusteet
+5 op
+KAT.YRVE.324
+Rahoitus- ja pankkioikeuden syventävä opintojakso
+5 op
+KAT.YRVE.230
+Rahoitusoikeus
+5 op
+BBT.019
+Rakennebiologia
+5 op
+RAK.RS.130
+Rakennetekniikan perusteet
+5 op
+ARK.RH.430
+Rakennetun kulttuuriympäristön selvitykset
+5 op
+RAK.RS.650
+Rakennusakustiikka ja meluntorjunta
+5 op
+RAK.TA.320
+Rakennusalan sovellusten ohjelmointi
+5 op
+RAK.RS.240
+Rakennusfysiikan perusteet
+5 op
+RAK.RS.700
+Rakennusfysiikka
+7 op
+RAK.310
+Rakennushankkeen suunnittelun simulointi
+3–8 op
+ARK.RH.330
+Rakennushankkeen suunnittelun simulointi
+1–10 op
+RAK.101
+Rakennusmateriaalit
+3 op
+RAK.TA.300
+Rakennusmittaukset
+5 op
+ARK.RH.110
+Rakennusoppi I
+5 op
+ARK.RH.220
+Rakennusoppi II
+10 op
+ARK.RH.230
+Rakennusoppi III
+5 op
+ARK.RH.320
+Rakennusoppi IV
+5 op
+ARK.RH.310
+Rakennusoppi V
+5 op
+ARK.RH.410
+Rakennusperinnön hoito
+10 op
+ARK.RH.510
+Rakennusperinnön transformaatio
+10 op
+ARK.AD.110
+Rakennussuunnittelu I
+10 op
+ARK.AD.120
+Rakennussuunnittelu II
+10 op
+ARK.AD.210
+Rakennussuunnittelu III
+10 op
+ARK.AD.310
+Rakennussuunnittelu IV
+10 op
+ARK.AD.410
+Rakennussuunnittelu V
+10 op
+ARK.AD.420
+Rakennussuunnittelu VI
+10 op
+RAK.300
+Rakennustekniikan erikoistyö
+2–5 op
+RAK.200
+Rakennustekniikan kandidaatintyöseminaari
+0 op
+RAK.401
+Rakennustekniikan vaihtuva-aiheinen opintojakso: Patoturvallisuuskoulutus
+2–10 op
+RAK.RS.260
+Rakennusten akustiikan ja paloturvallisuuden perusteet
+5 op
+RAK.RS.640
+Rakennusten akustinen suunnittelu
+5 op
+RAK.RS.270
+Rakennusten elinkaaritekniikka
+5 op
+RAK.RS.710
+Rakennusten energiatehokkuus
+5 op
+RAK.RS.720
+Rakennusterveys ja sisäympäristö
+3 op
+RAK.TA.240
+Rakennustuotannon hallinta
+5 op
+RAK.TA.260
+Rakennuttaminen
+5 op
+RAK.110
+Rakentaminen osana yhteiskuntaa
+5 op
+RAK.TA.130
+Rakentamisen tuotantotekniikka
+5 op
+RAK.TA.100
+Rakentamistalouden perusteet
+5 op
+STY.409
+Rakenteellinen sosiaalityö
+5 op
+STY.410
+Rakenteellinen vammaissosiaalityö
+5 op
+RAK.RS.800
+Rakenteiden korjaustekniikka
+5 op
+RAK.TA.230
+Rakenteiden mallintaminen
+5 op
+RAK.RS.330
+Rakenteiden mekaniikan jatkokurssi
+5 op
+RAK.RS.120
+Rakenteiden mekaniikan perusteet
+5 op
+RAK.RS.670
+Rakenteiden palomitoitus
+5 op
+RAK.RS.310
+Rakenteiden plastisuusmallit
+5 op
+RAK.RS.340
+Rakenteiden stabiilius
+5 op
+LANG.RAN.001
+Ranska 1 (A1)
+4 op
+LANG.RAN.002
+Ranska 2 (A1)
+4 op
+LANG.RAN.003
+Ranska 3 (A2)
+4 op
+LANG.RAN.004
+Ranska 4 (A2)
+4 op
+LANG.RAN.005
+Ranska 5 - Opiskelijaelämää ranskaksi (B1)
+4 op
+LANG.RAN.006
+Ranska 6 - Työskentele ranskaksi (B1)
+4 op
+KIE.RA.240
+Ranskan kielen ajallinen ja alueellinen variaatio
+5 op
+KIE.RA.001
+Ranskan kielen lähtötasokoe
+0 op
+KIE.RA.140
+Ranskan maantuntemus
+5 op
+KIE.RA.264
+Ranskan yhteiskunta
+5 op
+YKT.226
+Rasismi ja antirasismi
+5 op
+POL.KV.241
+Rauha, konfliktit ja turvallisuus
+5 op
+POL.KV.333
+Rauhan- ja konfliktintutkimus
+5 op
+LÄÄK.202
+Ravinto ja ravinnon hyödyntäminen
+8 op
+VIM.MT.320
+Reading Circles
+1–2 op
+KAT.MARK.234
+Readings in Business Models and Transformations
+5 op
+KAT.JOHT.236
+Readings in entrepreneurship
+5 op
+KAT.JOHT.232
+Readings in Organisational Behaviour
+5 op
+KAT.MARK.232
+Readings in service economy and management
+5 op
+KAT.JOHT.234
+Readings in Strategy
+5 op
+COMP.CE.460
+Real-time systems
+5 op
+DATA.ML.360
+Recommender Systems
+5 op
+DATA.STAT.460
+Regression analysis
+5 op
+DPIP.BIO.420
+Regression Models
+5 op
+BBT.MJS.143
+Regulatory Requirements for Design and Manufacture of Medical Devices
+5 op
+ACC.140
+Rehabilitation and assistive augmentation
+1 op
+RAK.RS.420
+Reinforced Concrete Structures
+5 op
+COMP.CE.340
+Reliable Embedded Systems
+5 op
+YEB.143
+Remediation of Contaminated Environment
+5 op
+VJ.240
+Reportaasi
+5 op
+VIM.MT.323
+Representaatio liikkeessä
+5 op
+DPIP.EPI.660
+Reproductive epidemiology
+2 op
+COMP.SE.130
+Requirements Engineering
+5 op
+HAL.HATI.307
+Research on Public Management and Organizations
+5 op
+LANG.ENG.010
+Research Presentations
+1–5 op
+BBT.MJS.106
+Research Project in Biomedical Sciences and Engineering
+5 op
+YEB.151
+Resource Recovery
+5 op
+ARK.RH.540
+Restaurointiteoria
+5 op
+COMM.RF.700
+RF Circuit Design
+5 op
+COMM.SYS.510
+RF Equipment for Wireless Networks
+5 op
+COMM.RF.720
+RF Project
+5–10 op
+MSE.432
+Rheology
+5 op
+STY.411
+Riippuvuusongelmat ja mielenterveys
+5 op
+COMP.CS.310
+Rinnakkaisuus
+5 op
+LÄÄK.306
+Rintakipu/hengenahdistus
+11 op
+KAT.VRH.202
+Riskienhallinta
+5 op
+TUTA.270
+Riskienhallinta
+5 op
+KAT.VRH.214
+Riskienhallinta- ja vakuutuscaset
+5 op
+AUT.841
+Robot Manipulators: Modeling, Control and Programming
+5 op
+KONE.533
+Robotics Project Work
+5 op
+ROBO.100
+Robotiikan johdantokurssi
+5 op
+STY.402
+Romanit Suomessa ja Euroopassa
+5 op
+COMP.CS.360
+Rule-Based Natural Language Processing
+5 op
+LANG.RUO.001
+Ruotsia työelämään (B1)
+3 op
+KIE.POY.320
+Ruotsin kielipolitiikka
+5 op
+KIE.POA.140
+Ruotsinkielinen nykykirjallisuus Ruotsissa ja Suomessa
+5 op
+KIE.KK.600
+Ruotsinkielisen kirjallisuuden erikoistumisjakso
+5 op
+YKT.YKE.504
+Ruumiillisuuden ja sukupuolentutkimuksen alat 1
+5 op
+YKT.YKE.505
+Ruumiillisuuden ja sukupuolentutkimuksen alat 2
+5 op
+TEA.351
+Ruumis, liike ja populaari
+4 op
+YKT.SPY.311
+Ryhmäilmiöt, identiteetti ja sosiaalinen kognitio
+5 op
+YKT.227
+Ryhmät, ryhmien väliset suhteet ja ryhmien ohjaus
+5 op
+LANG.PUH.004
+Ryhmäviestijänä työelämässä
+2 op
+KIE.SUYS2.350
+S2-alan harjoittelu
+5 op
+KIE.SUYS2.340
+S2-alan projektikurssi
+5 op
+SAFER.SME.330
+Safety and risk analysis
+5 op
+SAFER.SME.310
+Safety Engineering
+5 op
+LANG.SAK.001
+Saksa 1 (A1)
+4 op
+LANG.SAK.010
+Saksa 10 - Viesti tulevaisuuden ympäristökysymyksistä saksaksi (B2)
+2 op
+LANG.SAK.002
+Saksa 2 (A1)
+4 op
+LANG.SAK.003
+Saksa 3 (A2)
+4 op
+LANG.SAK.004
+Saksa 4 (A2)
+4 op
+LANG.SAK.005
+Saksa 5 - Opiskelijaelämää saksaksi (B1)
+4 op
+LANG.SAK.006
+Saksa 6 - Työskentele saksaksi (B1)
+4 op
+LANG.SAK.007
+Saksa 7 - Keskustele ajankohtaisista aiheista saksaksi (B1)
+2 op
+LANG.SAK.008
+Saksa 8 - Viesti ja tiedota työelämässä saksaksi (B1)
+2 op
+LANG.SAK.009
+Saksa 9 - Opiskele ja työskentele saksankielisissä maissa (B2)
+2 op
+KIE.SAY.330
+Saksan kielen didaktiikka
+5 op
+KIE.SA.001
+Saksan kielen lähtötasokoe
+0 op
+KIE.KK.412
+Saksankielisten maiden kirjallisuuden ja kulttuurin erityisteema: Die Deutschen und ihre TV-Krimis
+5 op
+KIE.SAA.250
+Saksankielisten maiden kulttuuri- ja kirjallisuushistoria
+5 op
+KIE.SAA.150
+Saksankielisten maiden nykykulttuuri ja -kirjallisuus
+5 op
+KAT.KAU.002
+Sales and buyer behavior in retailing
+6 op
+KIE.POA.280
+Sanaston tuntemus
+5 op
+KIE.ENY.374
+Sanastontutkimus
+5 op
+KIE.SUY.371
+Sanastontutkimus
+5 op
+COMM.SYS.610
+Satellite Navigation Receivers
+5 op
+COMP.SEC.300
+Secure Programming
+5 op
+COMP.SEC.220
+Security Protocols: Helping Alice and Bob to Share Secrets
+5 op
+DATA.STAT.500
+Sekamallit
+5 op
+YKT.SUT.313
+Seksuaalisuus ja lähisuhteet
+5 op
+EE.ELE.450
+Semiconductor Device Physics
+5 op
+JO.310
+Seminaari
+10 op
+VI.290
+Seminaari
+10 op
+MT.310
+Seminaari
+10 op
+FIL.FIY.901
+Seminaari 1. lukukausi
+5 op
+FIL.FIY.902
+Seminaari 2. lukukausi
+5 op
+VIM.JO.510
+Seminaari ja kandidaatintutkielma, journalistiikka
+10 op
+VIM.MT.510
+Seminaari ja kandidaatintutkielma, mediatutkimus
+10 op
+VIM.VI.510
+Seminaari ja kandidaatintutkielma, viestintä
+10 op
+DPMBBE.006
+Seminaarit 1
+1–20 op
+MVK.KL.365
+Semiotics X Translation
+5 op
+KIE.RA.265
+Semiotiikka – semantiikka – pragmatiikka
+5 op
+KIE.ENY.310
+Shakespeare ennen ja nyt
+5 op
+KAT.VAST.302
+Sidosryhmäteoria ja -johtaminen
+5 op
+COMP.SGN.100
+Signaalinkäsittelyn perusteet
+5 op
+EE.010
+Signaalit ja mittaaminen
+5 op
+COMP.SGN.210
+Signal Compression
+5 op
+KAT.VRH.210
+Sijoitustoiminta
+5 op
+RAK.RS.430
+Sillanrakennuksen perusteet
+3 op
+LÄÄK.600
+Silmätautiopin kliininen jakso
+3 op
+LÄÄK.610
+Simulaatiojakso
+1 op
+MVK.TU.360
+Simultaanitulkkaus II
+5 op
+HAL.JUTA.204
+Sisäinen valvonta ja sisäinen tarkastus
+5 op
+KIE.KK.350
+Skotlantilainen kirjallisuus
+5 op
+BBT.MJS.101
+Small Samples Data Analysis
+5 op
+DPSS.2002024
+SocDoc Annual Meeting
+1 op
+ACC.080
+Social haptic communication
+1 op
+VIM.MT.328
+Social Media Content Moderation
+5 op
+LFC.320
+Social theories and social change
+5 op
+STY.412
+Social Work in Ecosocial Transition
+5 op
+SAFER.SG.310
+Societal Security: Contemporary Challenges
+5 op
+COMP.SE.610
+Software Engineering Project 1
+5 op
+COMP.SE.620
+Software Engineering Project 2
+5 op
+COMP.SE.121
+Software Product and Process Management
+5 op
+COMM.SYS.650
+Software-Defined Radio Platforms
+5 op
+EE.REE.310
+Solar Power Systems
+5 op
+KEM.370
+Solar-Driven Chemistry
+3 op
+FYS.310
+Solid State Physics
+5 op
+BBT.006
+Solut
+10 op
+LÄÄK.102
+Solut
+8 op
+BBT.012
+Soluviljely
+5 op
+KAT.YRVE.312
+Sopimusoikeuden syventävä opintojakso I
+5 op
+KAT.YRVE.314
+Sopimusoikeuden syventävä opintojakso II
+5 op
+KAT.YRVE.206
+Sopimusoikeus
+5 op
+STY.202
+Sosiaali- ja terveysoikeus
+5 op
+HAL.JOIK.222
+Sosiaali- ja terveysoikeus
+5 op
+STY.104
+Sosiaali- ja terveyspalvelujen ja kuntoutuksen toimintaympäristö
+5 op
+MOJOPP6
+Sosiaali- ja terveyspolitiikka
+2 op
+SOTE.011
+Sosiaali-, terveys- ja työpolitiikka
+5 op
+DPSS.SOA.810
+Sosiaaliantropologian jatkokoulutusseminaari
+5 op
+YKT.SOA.302
+Sosiaaliantropologian klassikot
+5 op
+YKT.211
+Sosiaaliantropologinen ajattelu
+5 op
+STY.204
+Sosiaalihuollon hallinto ja johtaminen
+5 op
+YKT.200
+Sosiaalinen järjestys ja yhteiskuntatieteellinen mielikuvitus
+5 op
+YKT.212
+Sosiaalipoliittinen ajattelu
+5 op
+DPSS.SOP.810
+Sosiaalipolitiikan jatkokoulutusseminaari
+5 op
+YKT.SPO.302
+Sosiaalipolitiikan klassikot
+5 op
+YKT.SPO.305
+Sosiaalipolitiikan nykykeskustelut ja käytännöt
+5 op
+YKT.SPO.301
+Sosiaalipolitiikan teoriat ja käsitteet
+5 op
+DPSS.SPS.810
+Sosiaalipsykologian jatkokoulutusseminaari A.
+5 op
+DPSS.SPS.820
+Sosiaalipsykologian jatkokoulutusseminaari B.
+5 op
+YKT.SPY.302
+Sosiaalipsykologian klassikot
+5 op
+YKT.213
+Sosiaalipsykologinen ajattelu
+5 op
+YKT.SPY.301
+Sosiaalipsykologinen ajattelu II
+5 op
+YKT.104
+Sosiaalisen maailman käsitteellistäminen
+5 op
+STY.203
+Sosiaaliset oikeudet sosiaalihuollossa
+5 op
+KAT.VRH.204
+Sosiaalisten riskien hallinta
+5 op
+STY.413
+Sosiaalityö ja intersektionaalisuus
+5 op
+STY.301
+Sosiaalityö ja yhteiskuntateoria
+5 op
+STY.105
+Sosiaalityö maapallolla – Paikallisuus, ylirajaisuus ja yhteisöllisyys sosiaalityössä
+5 op
+DPSS.STY.810
+Sosiaalityön jatkokoulutusseminaari
+5 op
+STY.101
+Sosiaalityön perusteet
+5 op
+STY.354
+Sosiaalityön tutkimuksen menetelmälliset lähtökohdat
+5 op
+YLLE1
+Sosiaalivakuutus
+0– op
+EDU.MER.030
+Sosioemotionaalisen kehityksen tukeminen
+5 op
+KIE.VEY.351
+Sosiolingvistiikka
+5 op
+KIE.RA.262
+Sosiolingvistiikka ja kielisosiologia
+5 op
+KIE.KM.361
+Sosiolingvistiikka tutkimusalana
+5 op
+KIE.ENY.392
+Sosiolingvistiikka: kieli, identiteetit ja vuorovaikutus
+5 op
+DPSS.SOS.810
+Sosiologian jatkokoulutusseminaari
+5 op
+YKT.SOO.301
+Sosiologian klassikot
+5 op
+YKT.SOO.304
+Sosiologian nykykeskusteluja
+5 op
+YKT.214
+Sosiologinen ajattelu
+5 op
+YKT.SOO.305
+Sosiologisen tutkimuksen kysymyksiä: tutkijan näkökulma
+5 op
+YKT.SOO.303
+Sosiologisia aikalaiskeskusteluja
+5 op
+YKT.SOO.302
+Sosiologisia ajattelijoita ja tutkimusohjelmia
+5 op
+DPHS.STP.810
+SOTEPO - (sosiaali- ja terveyspolitiikka, terveydenhuollon tutkimuksen, terveydenhuollon johtaminen)
+3 op
+MT.210
+Sound: between material, medium and metaphor
+5 op
+TUTA.354
+Sourcing and Supply Management
+5 op
+MATH.830
+Sovelletun matematiikan diplomityöseminaari
+0 op
+MATH.610
+Sovelletun matematiikan kandidaatintyöseminaari
+0 op
+YEB.131
+Soveltava hydrologia
+5 op
+RUST.019
+Soviet and Russian Leaders on Ukraine, Empire, and Nation: From Lenin to Putin
+5 op
+SSR.PPA.040
+Spatial-Econometric Analysis of Interdependence
+5 op
+COMM.SYS.850
+Special Assignment in Communications Engineering 1
+3–8 op
+AUT.850
+Special Assignment in Factory Automation
+5–10 op
+AUT.851
+Special Assignment in Industrial Informatics
+5–10 op
+GS.180
+Special Issues in Game Studies: Essay on Game Cultures
+5 op
+YEB.745
+Special Project in Bioengineering
+2–8 op
+EE.ELE.430
+Special Topics in Applied Electronics
+1–15 op
+BBT.MND.708
+Special Topics in RFID Applications
+2–8 op
+KEM.460
+Spectroscopy and Quantum Chemistry
+5 op
+ACC.170
+Speech and audio to text
+1 op
+COMP.SGN.340
+Speech Processing
+5 op
+ACC.110
+Speech to text (subtitling)
+1 op
+ACC.050
+Spoken interfaces
+1 op
+HTI.560
+Spoken, Conversational and Auditory Interaction
+Vähintään 5 op
+RUST.018
+Stalinism and Russian Intellectuals
+5 op
+BBT.MJS.144
+Standards, Interoperability and Regulations in Health Informatics
+5 op
+RAK.RS.100
+Statiikan ja dynamiikan perusteet
+5 op
+SSR.PPA.030
+Statistical Analysis for social science
+5 op
+DATA.STAT.440
+Statistical inference 1
+5 op
+DATA.STAT.810
+Statistical Inference 2
+5 op
+DATA.STAT.840
+Statistical Methods for Text Data Analysis
+5 op
+DATA.STAT.740
+Statistical Modeling 1
+5 op
+FYS.424
+Statistical Physics 2
+5 op
+FYS.222
+Statistinen fysiikka
+5 op
+TIJO.304
+Strategic Knowledge Management
+5 op
+KAT.JOHT.302
+Strategic leadership
+5 op
+KAT.LASK.314
+Strategic Management Accounting and Control
+10 op
+TUTA.234
+Strategic Management of Technology and Innovation
+5 op
+KAT.VRH.312
+Strategic Risk Management
+5 op
+KAT.JOHT.304
+Strateginen johtaminen
+5 op
+HAL.KAJO.212
+Strateginen johtaminen julkisyhteisöissä
+5 op
+TIJO.622
+Strateginen liikkeenjohto
+5 op
+TUTA.232
+Strateginen teknologia- ja innovaatiojohtaminen
+5 op
+KAT.JOHT.316
+Strateginen viestintä
+5 op
+KAT.MARK.302
+Strategisen markkinoinnin kyvykkyydet
+5 op
+MSE.120
+Structure and Properties of Engineering Materials
+5 op
+EDU.010
+Student Exchange
+3 op
+SSR.GEN.080
+Studies in Gender Research
+5 op
+KAS.TELM.030
+Study Skills and Personal Study Planning
+2 op
+KIE.POA.240
+Sukukielet I
+5 op
+KIE.POY.350
+Sukukielet II
+5 op
+KIE.POY.380
+Sukukielet III
+5 op
+YKT.YKE.502
+Sukupuolen ja ruumiillisuuden globaalit kysymykset
+5 op
+YKT.YKE.500
+Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut
+5 op
+YKT.YKE.501
+Sukupuolen ja seksuaalisuuden moninaisuus
+5 op
