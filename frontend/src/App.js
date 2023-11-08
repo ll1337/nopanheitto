@@ -2,12 +2,16 @@ import './App.css';
 import { StrictMode } from 'react';
 import { motion } from "framer-motion";
 import {useState} from 'react';
+import DiceAnimation from './DiceAnimation';
+import { Canvas } from 'react-three-fiber';
 
 
 function App() {
 
   const [diePosition, setDiePosition] = useState(0);
   const [DisplayResults, setDisplayResults] = useState(true);
+
+
 
   const dieOn = () => {
     setDiePosition(diePosition + 270);
@@ -27,17 +31,11 @@ function App() {
           
         </header>
 
+        
         <div className='flex'>
-
-          <motion.div
-            className='motiondiv'
-            onTap={dieOn}
-            animate={{
-              rotate: [0, 0, diePosition, diePosition, 0]
-            }}
-          >
-            <div className="centerDiv" >{DisplayResults? "heitä noppaa!!" : "ongelmalapset 2"}</div>
-          </motion.div>
+        <Canvas>
+          <DiceAnimation />
+        </Canvas>
 
         </div>
         
