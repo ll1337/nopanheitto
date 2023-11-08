@@ -1,16 +1,9 @@
 body {
   margin: 10px;
-  /* font-family: 'Lucida', monospace; */
-  font-family: 'JelleeBold';
+  font-family: 'Rammetto One', sans-serif;
   font-weight: normal;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #d8ccff
 }
-
-
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */

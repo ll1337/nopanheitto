@@ -29,16 +29,6 @@ function App() {
 
         <div className='flex'>
 
-        {/* <motion.div
-            className='motiondivtwo'
-            onTap={dieOn}
-            animate={{
-              rotate: [0, 0, diePosition, diePosition, 0]
-            }}
-          >
-            <div hidden={DisplayResults} className="centerDiv">periodi</div>
-          </motion.div> */}
-
           <motion.div
             className='motiondiv'
             onTap={dieOn}

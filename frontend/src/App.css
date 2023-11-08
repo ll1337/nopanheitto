@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   padding: 5%;
-  font-size:2rem;
+  font-size:3rem;
   color: rgb(51, 60, 139);
   font-weight: bolder;
   letter-spacing: 3px;
@@ -13,63 +13,39 @@
 .motiondiv {
   position: fixed;
   width: 30%;
-  /* height: 300px; */
   border-radius: 10%;
   background: white;
 }
-
-
-/* 
-.motiondivtwo {
-  position: fixed;
-  width: 30%;
-  height: 250px;
-  border-radius: 10%;
-  background: white;
-} */
-
-
 
 @media only screen and (max-width: 1000px) {
   .motiondiv{
    width: 40%;
   }
-  /* .motiondivtwo{
-   width: 40%;
-  } */
  }
-
 
 @media only screen and (max-width: 800px) {
   .motiondiv{
    width: 50%;
   }
-  /* .motiondivtwo{
-   width: 50%;
-  } */
+  .App-header {
+    font-size:2rem;
+  }
  }
 
  @media only screen and (max-width: 400px) {
   .motiondiv{
    width: 60%;
   }
-  /* .motiondivtwo{
-   width: 60%;
-  } */
+  .App-header {
+    font-size:2rem;
+  }
  }
-
 
 .motiondiv:after {
   content: "";
   display: block;
   padding-bottom: 100%;
 }
-
-/* .motiondivtwo:after {
-  content: "";
-  display: block;
-  padding-bottom: 100%;
-} */
 
 .centerDiv {
   position: absolute;
@@ -83,4 +59,3 @@
   justify-content: center;
   white-space: nowrap;
 }
-
