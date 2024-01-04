@@ -14,12 +14,7 @@
   display: inline;
 }
 
-.motiondiv {
-  position: fixed;
-  width: 30%;
-  border-radius: 10%;
-  background: white;
-}
+
 
 @media only screen and (max-width: 1000px) {
   .motiondiv{
@@ -62,4 +57,5 @@
   display: flex;
   justify-content: center;
   white-space: nowrap;
+  height: 500px;
 }
