@@ -1,7 +1,7 @@
 .App-header {
   display: flex;
   justify-content: center;
-  padding: 5%;
+  padding: 5% 5% 0% 5%;
   font-size:3rem;
   color: rgb(51, 60, 139);
   font-weight: bolder;
@@ -46,16 +46,33 @@
   padding-bottom: 100%;
 }
 
-.centerDiv {
+/* .centerDiv {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
+} */
 
 .flex {
+  position: relative;
   display: flex;
   justify-content: center;
-  white-space: nowrap;
-  height: 500px;
+  height: 400px;
+  z-index: auto;
+  margin-top: 2rem;
+}
+
+.shadow {
+  position: absolute; /* Update this line */
+  left: 50%; /* Adjust the left property as needed */
+  transform: translateX(-50%); /* Center the shadow horizontally */
+  height: 20rem;
+  width: 20rem;
+  z-index: auto;
+  background-color: #b2a5fc;
+  border-radius: 100%;
+  -webkit-box-shadow: 0 0 32px 32px #b2a5fc;
+  -moz-box-shadow: 0 0 32px 32px #b2a5fc;
+  box-shadow: 0 0 32px 32px #b2a5fc;
+  margin-top: 5rem;
 }

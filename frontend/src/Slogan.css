@@ -1,0 +1,8 @@
+.subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(51, 60, 139);
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-size:1rem;
+}
