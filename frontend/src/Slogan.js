@@ -1,13 +1,11 @@
-import './Slogan.css';
+import "./Slogan.css";
 
-function Slogan () {
-    const sloganData = require('./slogans/slogans.json');
-    const sloganCode = Math.floor(Math.random() * sloganData.length);
-    const sloganInfo = sloganData[sloganCode];
+function Slogan() {
+  const sloganData = require("./slogans/slogans.json");
+  const sloganCode = Math.floor(Math.random() * sloganData.length);
+  const sloganInfo = sloganData[sloganCode];
 
-    return(
-        <p className='subtitle' >{sloganInfo}</p>
-    );
+  return <p className="subtitle">{sloganInfo}</p>;
 }
 
-export default Slogan
+export default Slogan;

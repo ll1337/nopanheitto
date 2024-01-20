@@ -1,29 +1,23 @@
-import './RandomCourse.css';
-import React, { useState, useEffect } from 'react';
-
+import "./RandomCourse.css";
+import React, { useState } from "react";
 
 function RandomCourse({ onClick }) {
-  const [course, setCourse] = useState("Heitä noppaa!")
+  const [course, setCourse] = useState("Heitä noppaa!");
   const [buttonVisible, setButtonVisible] = useState(true);
 
   const handleButtonClick = () => {
-    // Call the onClick prop to trigger the spinning effect
     onClick();
     setButtonVisible(false);
-    // You can update the course state or perform other actions as needed
-    setCourse("Ongelmanuoret II");
+    setCourse("Vektorit ja matriisit? :) <3 ");
     setTimeout(() => {
-        setButtonVisible(true);
-      }, 2140);
+      setButtonVisible(true);
+    }, 2140);
   };
-    return(
-        <div className='result'>
-            {buttonVisible && (
-                <button onClick={handleButtonClick}>{course}</button>
-            )}
-        </div>
-      
-    );
+  return (
+    <div onClick={handleButtonClick} className="result">
+      {buttonVisible && <div className="course">{course}</div>}
+    </div>
+  );
 }
 
-export default RandomCourse
+export default RandomCourse;

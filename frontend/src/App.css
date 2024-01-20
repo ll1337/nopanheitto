@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   padding: 5% 5% 0% 5%;
-  font-size:3rem;
+  font-size: 3rem;
   color: rgb(51, 60, 139);
   font-weight: bolder;
   letter-spacing: 3px;
@@ -14,31 +14,29 @@
   display: inline;
 }
 
-
-
 @media only screen and (max-width: 1000px) {
-  .motiondiv{
-   width: 40%;
+  .motiondiv {
+    width: 40%;
   }
- }
+}
 
 @media only screen and (max-width: 800px) {
-  .motiondiv{
-   width: 50%;
+  .motiondiv {
+    width: 50%;
   }
   .App-header {
-    font-size:2rem;
+    font-size: 2rem;
   }
- }
+}
 
- @media only screen and (max-width: 400px) {
-  .motiondiv{
-   width: 60%;
+@media only screen and (max-width: 400px) {
+  .motiondiv {
+    width: 60%;
   }
   .App-header {
-    font-size:2rem;
+    font-size: 2rem;
   }
- }
+}
 
 .motiondiv:after {
   content: "";

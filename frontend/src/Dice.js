@@ -1,17 +1,17 @@
-import React, { useRef, useState, useEffect } from 'react';
-import { useFrame } from 'react-three-fiber';
+import React, { useRef, useState, useEffect } from "react";
+import { useFrame } from "react-three-fiber";
 import { useGLTF, OrthographicCamera } from "@react-three/drei";
-import { MeshStandardMaterial } from 'three';
+import { MeshStandardMaterial } from "three";
 
 export function Dice({ isSpinning, setSpinning, ...props }) {
   const group = useRef();
   const { nodes, materials } = useGLTF("/dice.gltf");
 
   // Create material for the white base
-  const whiteMaterial = new MeshStandardMaterial({ emissive: 'white' });
+  const whiteMaterial = new MeshStandardMaterial({ emissive: "white" });
 
-  nodes.Cube_2.material = whiteMaterial; 
-  nodes.Cube.material = whiteMaterial; 
+  nodes.Cube_2.material = whiteMaterial;
+  nodes.Cube.material = whiteMaterial;
 
   const handleMaterial = (material) => {
     material.color.set(0x000000); // Set color to black
@@ -28,15 +28,14 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
       }
     }
   };
-  
+
   setEllipsesBlack(); // Call the function to set ellipses to black
 
   useFrame((state, delta) => {
     if (isSpinning) {
       group.current.rotation.z += 0.1;
       group.current.rotation.y += 0.1;
-    }
-    else{
+    } else {
       group.current.rotation.set(0, 0, 0);
     }
   });
@@ -44,17 +43,16 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
   const handleDiceClick = () => {
     setSpinning(true);
     // group.current.scale.set(3, 3, 3);
-
-  }
+  };
 
   return (
-    <group {...props} dispose={null} ref={group} className='dice'>
-      <group scale={0.04} className='dice'>
+    <group {...props} dispose={null} ref={group} className="dice">
+      <group scale={0.04} className="dice">
         <directionalLight
           castShadow
-          position={[900, 900, 900]} 
-          intensity={5} 
-          shadow-mapSize-width={1024} 
+          position={[900, 900, 900]}
+          intensity={5}
+          shadow-mapSize-width={1024}
           shadow-mapSize-height={1024}
         />
 
@@ -239,8 +237,8 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
           position={[-22.577, 7.367, -1009.79]}
           rotation={[-Math.PI, 0, Math.PI]}
         />
-      </group >
-    </group >
+      </group>
+    </group>
   );
 }
 
