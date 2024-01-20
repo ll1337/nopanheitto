@@ -1,56 +1,40 @@
-import './App.css';
-import { StrictMode } from 'react';
-import { motion } from "framer-motion";
-import {useState} from 'react';
-
+import "./App.css";
+import { StrictMode } from "react";
+import Dice from "./Dice";
+import Slogan from "./Slogan";
+import RandomCourse from "./RandomCourse";
+import { Canvas } from "react-three-fiber";
+import { Suspense } from "react";
+import React, { useState } from "react";
 
 function App() {
+  const [isSpinning, setSpinning] = useState(false);
 
-  const [diePosition, setDiePosition] = useState(0);
-  const [DisplayResults, setDisplayResults] = useState(true);
+  const handleButtonClick = () => {
+    setSpinning(true);
 
-  const dieOn = () => {
-    setDiePosition(diePosition + 270);
-    setDiePosition(diePosition - 270);
-    console.log(DisplayResults);
+    // Stop spinning after about 2 seconds
     setTimeout(() => {
-      setDisplayResults(false);
-    }, 900);
-  }
+      setSpinning(false);
+    }, 2140);
+  };
 
   return (
     <StrictMode>
       <div className="App">
-        <header className="App-header">
+        <header className="App-header">💫 Nopanheitto ✨</header>
 
-            💫 Nopanheitto ✨
-          
-        </header>
+        <Slogan></Slogan>
 
-        <div className='flex'>
-
-        {/* <motion.div
-            className='motiondivtwo'
-            onTap={dieOn}
-            animate={{
-              rotate: [0, 0, diePosition, diePosition, 0]
-            }}
-          >
-            <div hidden={DisplayResults} className="centerDiv">periodi</div>
-          </motion.div> */}
-
-          <motion.div
-            className='motiondiv'
-            onTap={dieOn}
-            animate={{
-              rotate: [0, 0, diePosition, diePosition, 0]
-            }}
-          >
-            <div className="centerDiv" >{DisplayResults? "heitä noppaa!!" : "ongelmalapset 2"}</div>
-          </motion.div>
-
+        <div className="flex">
+          <div className="shadow"></div>
+          <Canvas shadows>
+            <Suspense>
+              <Dice isSpinning={isSpinning} setSpinning={setSpinning} />
+            </Suspense>
+          </Canvas>
+          <RandomCourse onClick={handleButtonClick} />
         </div>
-        
       </div>
     </StrictMode>
   );
