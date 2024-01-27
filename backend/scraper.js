@@ -1,6 +1,14 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
+// tähä consti js objekti missä:
+// kurssikoodi: {
+//  kurssiNimi: 'Raha talous raha II'
+//  kurssiL(inn)kki: '/opintojaksot/kafsjlaghi3b
+//}
+// si vaa pushataan kaikki tolla formaatille uudella loadilla.
+// tuolta noista xSelector vakioista löytyy about kaikki luokat mitä tarvii
+
 (async () => {
     const browser = await puppeteer.launch({headless: "new"});
     const page = await browser.newPage();
@@ -9,31 +17,39 @@ const fs = require('fs');
 
     await page.goto('https://www.tuni.fi/opiskelijanopas/opintotiedot/opintojaksot/?year=2023&studyLevel=basic-studies&size=50');
 
+    // lataa sivulle lisää tuloksia
     const moreSelector ='.sc-bdVaJa.sc-EHOje.sc-13iuobc-0.bgjxSN';
+
+    // kurssin nimi, sama <a> sisältää myös linkin kurssiin hrefis
     const courseSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
+
+    // kurssin koodi, textContentilla saa
     const codeSelector = '.sc-bdVaJa.sc-8sw1nw-0.eLXybm'
-    // Define the target class name
-    const targetClassName = 'sc-bdVaJa i5k75b-0 fKrXNRsc-bdVaJa';
 
-    // Use page.evaluate to access the document object and log the number of children
-    const result = await page.evaluate((targetClassName) => {
-        const targetElement = document.querySelector(`.${targetClassName}`);
-        const childCount = targetElement ? targetElement.children.length : 0;
-
-        console.log(`Element with class ${targetClassName} has ${childCount} children.`);
-
-        return childCount;
-    }, targetClassName);
+    // "oLeT pÄäSsYt LiStAn LoPpUun"
+    const eofSelector = '.sc-bdVaJa.sc-13iuobc-1.jnhQcf'
 
     const defaultTimeout = 10000;
 
     let courses;
+    
+    while (true) {
+        await page.waitForSelector(courseSelector);
+        const elements = await page.$$eval(courseSelector, (elements) => {
+            return elements.map((element) => element.textContent);
+        });
+        // getAttribute('href');
 
-    for (let i = 0; i < 30; i++) {
+        const eof = await page.$(eofSelector);
+
+        if (eof) {
+            console.log('loppuun päästiin gg');
+            courses = elements;
+            break;
+        }
+
         //new Promise(r => setTimeout(r, defaultTimeout));
         await page.waitForTimeout(defaultTimeout);
-
-        //let desiredChildCount = 
 
         //await page.waitForFunction(
         //    (targetClassName, expectedChildCount) => {
@@ -48,19 +64,10 @@ const fs = require('fs');
         //    3 // Replace 3 with the desired number of children
         //);
         //await page.waitForSelector(moreSelector, {visible:true, timeout:100000});
+
         const moreButton = await page.$(moreSelector);
         if (moreButton) {
             await page.click(moreSelector);
-        }
-        console.log(i);
-        await page.waitForSelector(courseSelector);
-
-        const elements = await page.$$eval(courseSelector, (elements) => {
-            return elements.map((element) => element.textContent);
-        });
-
-        if (i==9) {
-            courses = elements;
         }
     }
 
