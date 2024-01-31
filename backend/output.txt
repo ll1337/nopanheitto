@@ -1,309 +1,310 @@
-Aasialaiset esitysperinteet
-Active and entrepreneurial learning
-AKUUTTI- JA ENSIHOIDON TOIMENPITEET; CADAVER-OPETUS
-Analyysin peruskurssi
-Anatomian apuohjaajakoulutus 2
-Argumentaatio ja tieteenfilosofia
-Arkkitehtuurin historia I
-Arkkitehtuurin historia II
-Arkkitehtuurin historia III
-Asiantuntijatyön valmiudet: Ajankohtaiset ilmiöt hallintotieteissä
-Automaatio
-Basics of Industrial Management
-Biotekniikan perusteet
-Career Planning
-Chemistry for Engineers 1
-Chemistry for Engineers 2
-Cognitive neuroscience I
-Design from the future - Critical, speculative and fictional design
-Deskriptiivisen ja kontrastiivisen fonetiikan perusteet
-Differentiaali- ja integraalilaskenta
-Diskreetti matematiikka
-Dynamiikka
-Elektroniikan perusteet
-Elämänkulku, paikka ja sosiaalityö
-Empiirinen yhteiskuntatutkimus
-Energiamurroksen johdantokurssi
-Energiatekniikan perusteet
-Englannin valinnaisten opintojen lähtötasokoe
-Esiintyvän ruumiin harjoittaminen
-Esimoderni Eurooppa
-Espanjan historia ja kirjallisuus
-Espanjan kielen valinnaisten opintojen lähtötasokoe
-Etiikka ja yhteiskuntafilosofia I
-Filosofia ja koulutus
-Finnish Society and Culture
-Fonetiikan ja kielitieteen perusteet
-Fonetiikan teoriaa
-Fonetiikan tutkimusmenetelmät
-Fonetiikka, ääntäminen ja suullinen esitys
-Fourier'n menetelmät
-Fysikaalinen kemia 1
-Genetiikka
-Genrestä kontekstiin: johdatusta kirjallisuus- ja kulttuurianalyysiin 2
-Geotekniikan perusteet
-Globaali maailma
-Hands-on Genetics
-Historia, kulttuuri ja kirjallisuus
-Historian esitys ja asiantuntijuus
-Hoitotieteen perusopinnot
-Identiteetti ja toiseus
-Ihminen ratkaisee
-Ihmisen ja teknologian vuorovaikutus 1: Perusteet
-Informaatio- ja mediajärjestelmät
-Innovation project
-Insinöörikemia
-Introduction to Academic Studies
-Introduction to Biomedical Engineering
-Introduction to Biomedical Sciences and Engineering
-Introduction to Business Law and Tax Law
-Introduction to Finnish History
-Introduction to Graduate Studies for Environmental Engineering and Photonics Technologies
-Introduction to Graduate Studies, Automation and Materials Engineering
-Introduction to Graduate Studies, Biomedical Sciences and Engineering
-Introduction to North American Studies
-Introduction to Risk Management and Insurance
-Introduction to Satellite Positioning
-Introduction to Smart Grids and Renewable Energy
-Introduction to Transport Systems
-Introduction to Youth and Social Circus Pedagogy (Tampere Summer School 2021)
-Johdanto hahmontunnistukseen ja koneoppimiseen
-Johdanto lääketieteen opintoihin
-Johdanto museologiaan
-Johdanto riskienhallintaan ja vakuuttamiseen
-Johdanto tekniikan opintoihin
-Johdatus filosofiaan ja sen historiaan
-Johdatus hallintotieteeseen
-Johdatus historiantutkimukseen
-Johdatus insinöörityöhön
-Johdatus kirjallisuuden poetiikkaan
-Johdatus kriittiseen ajatteluun
-Johdatus kunta- ja aluejohtamiseen
-Johdatus logopediaan
-Johdatus länsimaiseen kirjallisuushistoriaan
-Johdatus matemaattiseen päättelyyn ja lukuteoriaan
-Johdatus ohjattuun asiakastyöskentelyyn
-Johdatus ohjelmistotuotantoon
-Johdatus oikeusjärjestykseen
-Johdatus sulautettuihin järjestelmiin
-Johdatus Suomen kirjallisuushistoriaan
-Johdatus taloushallintoon
-Johdatus todennäköisyyslaskentaan ja tilastolliseen päättelyyn
-Johdatus yhteiskuntatutkimukseen
-Johdatus yrittäjyyteen
-Johdatus yritysjuridiikkaan
-Johdatus yritysvastuuseen
-Johtamisen ja organisaatioiden perusteet
-Journalismi ja julkisuus
-Julkisen talousjohtamisen perusteet
-Kansainvälisen politiikan johdantokurssi
-Kansanterveystieteen perusteet
-Kasvatuksen ja koulutuksen filosofiset ja historialliset lähtökohdat
-Kasvatus ja koulutus yhteiskunnassa
-Kasvatustieteellinen tutkimus
-Kehitys ja oppiminen elämänkulussa
-Kehityspsykologia I
-Kemian perusteet
-Kestävän kehityksen perusteet
-Kielen analyysi 1
-Kielen analyysi 2
-Kielen variaatio
-Kielen- ja tekstinhuolto
-Kieli käyttöön
-Kieli, merkitys ja sanasto 1
-Kielioppi
-Kielioppi 1
-Kielioppi I
-Kielioppi I
-Kirjallinen esitys ja käännös suomi – espanja
-Kirjallinen viestintä 1
-Kirjallinen viestintä I
-Kirjallinen viestintä ja tekstintuntemus
-Kirjallisuus ja lääketiede
-Kirjallisuus, kulttuuri ja yhteiskunta
-Kirjallisuushistoria
-Kirurgian ja sisätautien integroitu lopputentti
-Kognitiivinen neurotiede I
-Kokoelmat ja kulttuuriympäristö
-Konetekniikan johdantokurssi
-Kuva-analyysi
-Kuvanveisto ja installaatio
-Käsityö ja kestävä tulevaisuus
-Käsityöilmaisu
-Käsityömuotoilu
-Käsityön taitopedagogiikka
-Käytännön systeemiajattelu
-Käytäntö I: Arvot, etiikka ja vapaaehtoistyö
-Laaja fysiikka 1
-Laaja fysiikka 2
-Laaja fysiikka 3
-Laaja fysiikka 4
-Laaja kemia 1
-Laaja kemia 2
-Laboroinnin perusteet
-Laskentatoimen perusteet
-Lastentautien, synnytys- ja naistentautien ja psykiatrian integroitu loppukuulustelu
-Latinalaisen Amerikan historia ja kirjallisuus
-Lauserakenne
-Life-span developmental psychology I
-Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - yrityssimulaatio
-Liiketoimintaympäristön taloustiede
-Literature Study in Business and Technology
-Logiikka
-Luentateatteri
-Lujuusoppi
-Luova ongelmanratkaisu ja järjestelmäsuunnittelu
-Lämpötekniikka
-Lääketieteellinen tieto ja tutkimus
-Mallinnus ja dokumentointi
-Markkinoinnin ja myynnin perusteet
-Markkinoinnin perusteet
-Materiaaliopin perusteet 1
-Materiaaliopin perusteet 2
-Media, arki ja yhteiskunta
-Merkitys
-Mielenterveys ilmiönä
-Miten hyödynnän moniammatillista yhteistyötä TULES-vaivojen hoidossa?
-Mittaus A
-Mittaus M
-Mittaustekniikan ja tietomallintamisen perusteet
-Moderni yhteiskunta
-Molekyylibiologian työt
-Museologian harjoittelu
-Museot ja yhteiskunta
-Natiivikuvia päivystävälle lääkärille
-Negotiation in Sales and Sourcing
-Nykynäyttelemisen teoriat
-Nykyteatterin esitysmuodot
-Näkökulmia yhteiskuntaan
-Näyttelijän tiedot ja taidot taiteilija-ammatissa ja yhteiskunnassa
-Näyttelyt ja museopedagogiikka
-Ohjaus yliopistossa
-Ohjelmointi 1: Johdatus ohjelmointiin
-Ohjelmointi 2: Rakenteet
-Oman äänen analyysi ja harjoittaminen
-Oman äänen ja puheen harjoitukset ja analyysi
-Operaatiotutkimus
-Opetus ja ohjaus
-Opetussuunnitelma ja koulutuksen yhteisöllinen kehittäminen
-Opinnot ja työelämä 1
-Opinnot ja työelämä 2
-Opintojen suunnittelu ja ohjaus 1
-Opintojen suunnittelu ja ohjaus 2
-Opiskelijan hyvinvointi- Silmu
-Orgaaninen kemia 1
-Organisaatiot ja ihmisten johtaminen
-Osuustoiminnallisuus eri yritysmuodoissa I
-Perinnöllisyyslääketiede
-Persoonallisuuspsykologia I
-Peruskurssi I
-Peruskurssi II
-Piiriteoria
-Piirustus ja maalaus
-Pohjarakentamisen perusteet
-Pohjoismaisten kielten lähtötasokoe
-Poliittiset aatteet ja ideologiat
-Poliittiset ongelmat muuttuvissa konteksteissa
-Politics of Sustainable Development
-Project Work, Computing and Electrical Engineering
-Project Work, Natural Sciences and Mathematics
-Projektinhallinta
-Psychological research methods I
-Psychology of health and mental health I
-Psychology of personality I
-Psykologian tutkimusmenetelmät I
-Puheen, kielen ja viestinnän kehitys
-Puhetekniikan ja äänenkäytön perusteet
-Rakennetekniikan perusteet
-Rakennusmateriaalit
-Rakennusoppi I
-Rakennusoppi II
-Rakennusoppi III
-Rakennusoppi IV
-Rakennusoppi V
-Rakennussuunnittelu I
-Rakennussuunnittelu II
-Rakennussuunnittelu III
-Rakennussuunnittelu IV
-Rakentaminen osana yhteiskuntaa
-Rakentamisen tuotantotekniikka
-Rakentamistalouden perusteet
-Rakenteiden mekaniikan perusteet
-Ranskan kielen lähtötasokoe
-Ranskan maantuntemus
-Reflektiokortit - työväline ammatillisuuden pohdintaan
-Robotiikan johdantokurssi
-Ruotsinkielinen nykykirjallisuus Ruotsissa ja Suomessa
-Saksankielisten maiden nykykulttuuri ja -kirjallisuus
-Seksuaalisuus ja sukupuolisuus
-Signaalinkäsittelyn perusteet
-Signaalit ja mittaaminen
-Solut
-Sosiaali- ja terveyspalvelujen ja kuntoutuksen toimintaympäristö
-Sosiaalisen maailman käsitteellistäminen
-Sosiaalityö maapallolla – Paikallisuus, ylirajaisuus ja yhteisöllisyys sosiaalityössä
-Sosiaalityön perusteet
-Statiikan ja dynamiikan perusteet
-Supply Chain Management
-Suullinen viestintä
-Suullinen viestintä
-Suullinen viestintä I
-Taidegrafiikka
-Taidehistoria
-Taloustieteen perusteet
-TamCAM tutkimuskeskuksen syventävien opintojen seminaari
-Teatterin historia ja filosofia
-Teknis-taloudellinen toimintaympäristö
-Teknologiakasvatus
-Teksteistä kulttuuriin: johdatusta kirjallisuus- ja kulttuurianalyysiin 1
-Tekstianalyysi
-Teollisuuden prosessit
-Teollisuustalouden perusteet
-Terveyden ja mielenterveyden psykologia I
-Tiede, tutkimus ja kirjoittaminen
-Tieteellinen kirjoittaminen
-Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot
-Tieto-oppi ja metafysiikka
-Tietojohtamisen perusteet
-Tietokantojen perusteet
-Tietoliikennetekniikan perusteet
-Tilastotieteen johdantokurssi
-Tutkimusmetodologia
-Tutkimustaidot
-Usean muuttujan funktiot
-Uskonnonfilosofia
-Uskonnot ja ateismi maailmassa
-Valokuvaus ja kaupunkitaide
-Valtio-opin johdantokurssi
-Vektorianalyysi
-Vektorit ja matriisit
-Venäjän historia, kirjallisuus ja kulttuuri
-Venäjän kielen kirjallinen viestintä
-Venäjän kielen lähtötasokoe
-Venäjän kielen suullinen viestintä
-Venäjän peruskielioppi I
-Venäjän peruskielioppi II
-Viron jatkokurssi (A2)
-Viron kielen suullinen ja kirjallinen taito (B1)
-Viron peruskurssi (A1)
-Vuorovaikutuksen teoriat
-Väestön terveys
-Yhdyskuntasuunnittelu I
-Yhdyskuntasuunnittelu II
-Yhdyskuntasuunnittelu III
-Yhdyskuntasuunnittelun teoria I
-Yhdyskuntatekniikan perusteet
-Yhteisö, terveys ja sairaus
-Yhteisöllinen kehittämistehtävä
-Yksilö ja yhteisö
-Yliopistofysiikka 1
-Yliopistofysiikka 2
-Yliopistofysiikka 3
-Yliopistofysiikka 4
-Yliopistopedagogiikan perusteet
-Ympäristöjohtaminen ja ympäristöriskien analysointi
-Ympäristöpolitiikan ja aluetieteen perusteet
-Ympäristötekniikan perusteet
-Yrityksen johtamisen perusteet
-Yrityksen talous
-Äänne- ja muotorakenne
+Opinto­jakson yksilöivä koodiKoodiKlikkaa järjestääksesi opinto­jaksot koodin mukaan, aakkosjärjestyksessäOpinto­jakson nimiNimiKlikkaa järjestääksesi opinto­jaksot nimen mukaan, aakkosjärjestyksessäOpinto­jakson suorituksesta saatavat opintopisteetLaajuusKlikkaa järjestääksesi opinto­jaksot laajuuden mukaan, suppein ensinOpinto­jakson suunnitellut opetusperioditPeriodiKlikkaa järjestääksesi opinto­jaksot opetusperiodien mukaan, ensimmäinen aktiivinen periodi ensin
+TEA.124Aasialaiset esitysperinteet2 opIIIIIIIVK
+KAS.PEY.060Active and entrepreneurial learning5 opIIIIIIIVK
+LÄÄK.723AKUUTTI- JA ENSIHOIDON TOIMENPITEET; CADAVER-OPETUS1 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MATH.APP.111Analyysin peruskurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+LÄÄK.722Anatomian apuohjaajakoulutus 22 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FIL.FIA.003Argumentaatio ja tieteenfilosofia5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+ARK.RH.101Arkkitehtuurin historia I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.RH.201Arkkitehtuurin historia II10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.RH.301Arkkitehtuurin historia III5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+HAL.101Asiantuntijatyön valmiudet: Ajankohtaiset ilmiöt hallintotieteissä5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+AUT.110Automaatio5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+TUTA.015Basics of Industrial Management5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+YEB.022Biotekniikan perusteet5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.320Career Planning1 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+KEM.150Chemistry for Engineers 15 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KEM.160Chemistry for Engineers 25 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+PSY.402Cognitive neuroscience I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+HTI.042Design from the future - Critical, speculative and fictional design5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.FONE.130Deskriptiivisen ja kontrastiivisen fonetiikan perusteet5 opIIIIIIIVK
+MATH.APP.160Differentiaali- ja integraalilaskenta5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+MATH.MA.210Diskreetti matematiikka5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KONE.130Dynamiikka5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EE.020Elektroniikan perusteet5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+STY.102Elämänkulku, paikka ja sosiaalityö5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+YKT.103Empiirinen yhteiskuntatutkimus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+EE.040Energiamurroksen johdantokurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+YEB.021Energiatekniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.EN.001Englannin valinnaisten opintojen lähtötasokoe0 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+TEA.100Esiintyvän ruumiin harjoittaminen20 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HIS.HIA.020Esimoderni Eurooppa5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.ES.140Espanjan historia ja kirjallisuus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.ES.001Espanjan kielen valinnaisten opintojen lähtötasokoe0 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+FIL.FIA.004Etiikka ja yhteiskuntafilosofia I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+FIL.ET.500Filosofia ja koulutus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+SOC.100Finnish Society and Culture3–5 opIIIIIIIVK
+KIE.FONE.110Fonetiikan ja kielitieteen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.FONE.120Fonetiikan teoriaa5 opIIIIIIIVK
+KIE.FONE.140Fonetiikan tutkimusmenetelmät5 opIIIIIIIVK
+KIE.ES.110Fonetiikka, ääntäminen ja suullinen esitys5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+MATH.APP.240Fourier'n menetelmät5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KEM.240Fysikaalinen kemia 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+BBT.007Genetiikka3 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+KIE.ENA.140Genrestä kontekstiin: johdatusta kirjallisuus- ja kulttuurianalyysiin 25 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+RAK.IN.100Geotekniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+HIS.HIA.040Globaali maailma5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+BBT.014Hands-on Genetics2 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.TS.120Historia, kulttuuri ja kirjallisuus5–10 opIIIIIIIVK
+HIS.HIA.050Historian esitys ja asiantuntijuus5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+HOI-P01Hoitotieteen perusopinnot25 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FIL.ET.400Identiteetti ja toiseus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KEKE.100Ihminen ratkaisee5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HTI.100Ihmisen ja teknologian vuorovaikutus 1: Perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+VIM.130Informaatio- ja mediajärjestelmät5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+COMP.SE.600Innovation project1–10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KEM.120Insinöörikemia5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.310Introduction to Academic Studies2 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+BBT.072Introduction to Biomedical Engineering5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+BBT.INT.806Introduction to Biomedical Sciences and Engineering1 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+KAT.YRVE.270Introduction to Business Law and Tax Law5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HIS.M.001Introduction to Finnish History5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+ENS.410Introduction to Graduate Studies for Environmental Engineering and Photonics Technologies2 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+ENS.610Introduction to Graduate Studies, Automation and Materials Engineering1 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+BBT.INT.804Introduction to Graduate Studies, Biomedical Sciences and Engineering2 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+NAM.010Introduction to North American Studies5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAT.VRH.102Introduction to Risk Management and Insurance5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+COMM.SYS.600Introduction to Satellite Positioning5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EE.EES.310Introduction to Smart Grids and Renewable Energy5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+RAK.LI.210Introduction to Transport Systems5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EDU.501Introduction to Youth and Social Circus Pedagogy (Tampere Summer School 2021)5 opIIIIIIIVK
+DATA.ML.100Johdanto hahmontunnistukseen ja koneoppimiseen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+LÄÄK.100Johdanto lääketieteen opintoihin4 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+MUS.010Johdanto museologiaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+KAT.VRH.101Johdanto riskienhallintaan ja vakuuttamiseen5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+ITC.CEE.010Johdanto tekniikan opintoihin5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+FIL.FIA.001Johdatus filosofiaan ja sen historiaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+HAL.HATI.101Johdatus hallintotieteeseen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HIS.HIA.010Johdatus historiantutkimukseen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ITC.CEE.011Johdatus insinöörityöhön5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIR.110Johdatus kirjallisuuden poetiikkaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+TEA.121Johdatus kriittiseen ajatteluun2 opIIIIIIIVK
+HAL.KAJO.101Johdatus kunta- ja aluejohtamiseen5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LOG.101Johdatus logopediaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIR.140Johdatus länsimaiseen kirjallisuushistoriaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+MATH.MA.250Johdatus matemaattiseen päättelyyn ja lukuteoriaan5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LOG.104Johdatus ohjattuun asiakastyöskentelyyn5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+COMP.SE.100Johdatus ohjelmistotuotantoon5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAT.YRVE.101Johdatus oikeusjärjestykseen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+COMP.CE.100Johdatus sulautettuihin järjestelmiin5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIR.130Johdatus Suomen kirjallisuushistoriaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+MAB.LITO.001Johdatus taloushallintoon5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+MATH.APP.210Johdatus todennäköisyyslaskentaan ja tilastolliseen päättelyyn5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+YKT.101Johdatus yhteiskuntatutkimukseen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MAB.LITO.004Johdatus yrittäjyyteen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+MAB.LITO.006Johdatus yritysjuridiikkaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+MAB.LITO.007Johdatus yritysvastuuseen5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MAB.LITO.003Johtamisen ja organisaatioiden perusteet5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+VIM.140Journalismi ja julkisuus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HAL.JUTA.101Julkisen talousjohtamisen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+POL.101Kansainvälisen politiikan johdantokurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KAN.100Kansanterveystieteen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAS.KAA.010Kasvatuksen ja koulutuksen filosofiset ja historialliset lähtökohdat5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KAS.KAA.020Kasvatus ja koulutus yhteiskunnassa5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KAS.KAA.050Kasvatustieteellinen tutkimus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KAS.KAA.030Kehitys ja oppiminen elämänkulussa5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+PSY.101Kehityspsykologia I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KEM.100Kemian perusteet3 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+YEB.010Kestävän kehityksen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.ENA.110Kielen analyysi 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.ENA.120Kielen analyysi 25 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.SUA.150Kielen variaatio5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.SUA.130Kielen- ja tekstinhuolto5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.POA.150Kieli käyttöön5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.SAA.140Kieli, merkitys ja sanasto 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.RA.110Kielioppi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.SAA.110Kielioppi 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.ES.130Kielioppi I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.POA.110Kielioppi I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.ES.120Kirjallinen esitys ja käännös suomi – espanja5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.SAA.130Kirjallinen viestintä 15 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.POA.120Kirjallinen viestintä I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.RA.130Kirjallinen viestintä ja tekstintuntemus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+LÄÄK.711Kirjallisuus ja lääketiede2 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIR.120Kirjallisuus, kulttuuri ja yhteiskunta5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.RA.150Kirjallisuushistoria5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LÄÄK.508Kirurgian ja sisätautien integroitu lopputentti4 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+PSY.102Kognitiivinen neurotiede I5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+MUS.020Kokoelmat ja kulttuuriympäristö5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KONE.115Konetekniikan johdantokurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EDU.MKU.010Kuva-analyysi5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EDU.MKU.040Kuvanveisto ja installaatio5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EDU.MKS.010Käsityö ja kestävä tulevaisuus5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EDU.MKS.040Käsityöilmaisu5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EDU.MKS.030Käsityömuotoilu5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EDU.MKS.020Käsityön taitopedagogiikka5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+AUT.100Käytännön systeemiajattelu5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+STY.103Käytäntö I: Arvot, etiikka ja vapaaehtoistyö5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+FYS.111Laaja fysiikka 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+FYS.112Laaja fysiikka 25 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FYS.113Laaja fysiikka 35 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FYS.114Laaja fysiikka 45 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KEM.130Laaja kemia 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KEM.140Laaja kemia 25 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+BBT.002Laboroinnin perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+KAT.LASK.101Laskentatoimen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LÄÄK.510Lastentautien, synnytys- ja naistentautien ja psykiatrian integroitu loppukuulustelu4 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.ES.150Latinalaisen Amerikan historia ja kirjallisuus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.SUA.120Lauserakenne5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+PSY.401Life-span developmental psychology I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+MAB.LITO.008Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - yrityssimulaatio5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MAB.LITO.005Liiketoimintaympäristön taloustiede5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TUTA.308Literature Study in Business and Technology5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+FIL.FIA.002Logiikka5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+VOK.103Luentateatteri5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+RAK.RS.110Lujuusoppi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.510Luova ongelmanratkaisu ja järjestelmäsuunnittelu5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+YEB.420Lämpötekniikka5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LÄÄK.200Lääketieteellinen tieto ja tutkimus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+KONE.110Mallinnus ja dokumentointi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+MAB.LITO.002Markkinoinnin ja myynnin perusteet5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAT.MARK.101Markkinoinnin perusteet5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MSE.100Materiaaliopin perusteet 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MSE.110Materiaaliopin perusteet 25 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+VIM.110Media, arki ja yhteiskunta5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+KIE.SUA.140Merkitys5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KAN.110Mielenterveys ilmiönä5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+YLLÄE221Miten hyödynnän moniammatillista yhteistyötä TULES-vaivojen hoidossa?0– opIIIIIIIVK
+AUT.120Mittaus A5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MSE.230Mittaus M5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+RAK.TA.110Mittaustekniikan ja tietomallintamisen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HIS.HIA.030Moderni yhteiskunta5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+BBT.011Molekyylibiologian työt5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+MUS.050Museologian harjoittelu5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MUS.040Museot ja yhteiskunta5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LÄÄK.717Natiivikuvia päivystävälle lääkärille4 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+TUTA.306Negotiation in Sales and Sourcing5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TEA.126Nykynäyttelemisen teoriat2 opIIIIIIIVK
+TEA.125Nykyteatterin esitysmuodot1 opIIIIIIIVK
+YKT.102Näkökulmia yhteiskuntaan5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+TEA.110Näyttelijän tiedot ja taidot taiteilija-ammatissa ja yhteiskunnassaVähintään 10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MUS.030Näyttelyt ja museopedagogiikka5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAS.PEY.030Ohjaus yliopistossa5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+COMP.CS.100Ohjelmointi 1: Johdatus ohjelmointiin5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+COMP.CS.110Ohjelmointi 2: Rakenteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+VOK.102Oman äänen analyysi ja harjoittaminen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+LOG.103Oman äänen ja puheen harjoitukset ja analyysi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+MATH.APP.260Operaatiotutkimus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KAS.KAA.040Opetus ja ohjaus5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAS.PEY.020Opetussuunnitelma ja koulutuksen yhteisöllinen kehittäminen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.110Opinnot ja työelämä 13 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.120Opinnot ja työelämä 22 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ENS.210Opintojen suunnittelu ja ohjaus 13 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.220Opintojen suunnittelu ja ohjaus 22 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LÄÄK.725Opiskelijan hyvinvointi- Silmu1 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KEM.220Orgaaninen kemia 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+TIJO.218Organisaatiot ja ihmisten johtaminen5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MAB.COOP.103Osuustoiminnallisuus eri yritysmuodoissa I5 opIIIIIIIVK
+LÄÄK.720Perinnöllisyyslääketiede3 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+PSY.103Persoonallisuuspsykologia I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+KIE.TS.100Peruskurssi I5–10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.TS.110Peruskurssi II5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EE.030Piiriteoria5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EDU.MKU.020Piirustus ja maalaus5 opIIIIIIIVK
+RAK.IN.120Pohjarakentamisen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.POA.001Pohjoismaisten kielten lähtötasokoe0 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+POL.104Poliittiset aatteet ja ideologiat5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+POL.105Poliittiset ongelmat muuttuvissa konteksteissa5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+HAL.SUD.110Politics of Sustainable Development5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EE.060Project Work, Computing and Electrical Engineering2 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ENS.311Project Work, Natural Sciences and Mathematics2 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TUTA.240Projektinhallinta5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+PSY.404Psychological research methods I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+PSY.405Psychology of health and mental health I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+PSY.403Psychology of personality I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+PSY.104Psykologian tutkimusmenetelmät I5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LOG.102Puheen, kielen ja viestinnän kehitys10 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+VOK.101Puhetekniikan ja äänenkäytön perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+RAK.RS.130Rakennetekniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+RAK.101Rakennusmateriaalit3 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.RH.110Rakennusoppi I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.RH.220Rakennusoppi II10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+ARK.RH.230Rakennusoppi III5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ARK.RH.320Rakennusoppi IV5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ARK.RH.310Rakennusoppi V5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.AD.110Rakennussuunnittelu I10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.AD.120Rakennussuunnittelu II10 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ARK.AD.210Rakennussuunnittelu III10 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ARK.AD.310Rakennussuunnittelu IV10 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+RAK.110Rakentaminen osana yhteiskuntaa5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+RAK.TA.130Rakentamisen tuotantotekniikka5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+RAK.TA.100Rakentamistalouden perusteet5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+RAK.RS.120Rakenteiden mekaniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.RA.001Ranskan kielen lähtötasokoe0 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.RA.140Ranskan maantuntemus5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+YLLÄE222Reflektiokortit - työväline ammatillisuuden pohdintaan0 opIIIIIIIVK
+ROBO.100Robotiikan johdantokurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.POA.140Ruotsinkielinen nykykirjallisuus Ruotsissa ja Suomessa5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.SAA.150Saksankielisten maiden nykykulttuuri ja -kirjallisuus5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+LÄÄK.724Seksuaalisuus ja sukupuolisuus2 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+COMP.SGN.100Signaalinkäsittelyn perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EE.010Signaalit ja mittaaminen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+BBT.006Solut10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+STY.104Sosiaali- ja terveyspalvelujen ja kuntoutuksen toimintaympäristö5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+YKT.104Sosiaalisen maailman käsitteellistäminen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+STY.105Sosiaalityö maapallolla – Paikallisuus, ylirajaisuus ja yhteisöllisyys sosiaalityössä5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+STY.101Sosiaalityön perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+RAK.RS.100Statiikan ja dynamiikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TUTA.254Supply Chain Management5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+KIE.SAA.120Suullinen viestintä5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.RA.120Suullinen viestintä5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.POA.130Suullinen viestintä I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+EDU.MKU.050Taidegrafiikka5 opIIIIIIIVK
+TEA.123Taidehistoria2 opIIIIIIIVK
+KAT.TAL.101Taloustieteen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+LÄÄK.719TamCAM tutkimuskeskuksen syventävien opintojen seminaari5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+TEA.122Teatterin historia ja filosofia3 opIIIIIIIVK
+TEKTAL.010Teknis-taloudellinen toimintaympäristö5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+EDU.MKS.050Teknologiakasvatus5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.ENA.130Teksteistä kulttuuriin: johdatusta kirjallisuus- ja kulttuurianalyysiin 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIR.150Tekstianalyysi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+YEB.023Teollisuuden prosessit5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TUTA.010Teollisuustalouden perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+PSY.105Terveyden ja mielenterveyden psykologia I5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+YKT.105Tiede, tutkimus ja kirjoittaminen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.ENA.150Tieteellinen kirjoittaminen5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+POL.103Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+FIL.FIA.005Tieto-oppi ja metafysiikka5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+TIJO.010Tietojohtamisen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+DATA.DB.100Tietokantojen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+COMM.100Tietoliikennetekniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+DATA.STAT.110Tilastotieteen johdantokurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TEKTAL.300Tutkimusmetodologia5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+VIM.150Tutkimustaidot5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+MATH.APP.220Usean muuttujan funktiot5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FIL.ET.200Uskonnonfilosofia5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+FIL.ET.100Uskonnot ja ateismi maailmassa5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+EDU.MKU.030Valokuvaus ja kaupunkitaide5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+POL.102Valtio-opin johdantokurssi5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+MATH.APP.230Vektorianalyysi5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+MATH.MA.140Vektorit ja matriisit5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.VEA.150Venäjän historia, kirjallisuus ja kulttuuri5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.VEA.140Venäjän kielen kirjallinen viestintä5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.VEA.001Venäjän kielen lähtötasokoe0 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIIVK
+KIE.VEA.130Venäjän kielen suullinen viestintä5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.VEA.110Venäjän peruskielioppi I5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.VEA.120Venäjän peruskielioppi II5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+KIE.VIRO.120Viron jatkokurssi (A2)5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KIE.VIRO.130Viron kielen suullinen ja kirjallinen taito (B1)5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.VIRO.110Viron peruskurssi (A1)5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+VIM.120Vuorovaikutuksen teoriat5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAN.120Väestön terveys5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ARK.YS.110Yhdyskuntasuunnittelu I5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+ARK.YS.210Yhdyskuntasuunnittelu II5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+ARK.YS.310Yhdyskuntasuunnittelu III10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+ARK.YS.220Yhdyskuntasuunnittelun teoria I5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVK
+RAK.IN.130Yhdyskuntatekniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
+KAN.130Yhteisö, terveys ja sairaus5 opIIIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAS.PEY.040Yhteisöllinen kehittämistehtävä5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FIL.ET.300Yksilö ja yhteisö5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)KAktiivinen periodissa 5 (1.6.2024–31.7.2024)Aktiivinen periodissa 5 (1.6.2024–31.7.2024)
+FYS.101Yliopistofysiikka 15 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FYS.102Yliopistofysiikka 25 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FYS.103Yliopistofysiikka 35 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+FYS.104Yliopistofysiikka 45 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAS.PEY.010Yliopistopedagogiikan perusteet10 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TUTA.406Ympäristöjohtaminen ja ympäristöriskien analysointi5 opIIIIIIIVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+HAL.YPAT.101Ympäristöpolitiikan ja aluetieteen perusteet5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+YEB.011Ympäristötekniikan perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIIIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KAT.JOHT.101Yrityksen johtamisen perusteet5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+TUTA.210Yrityksen talous5 opIIIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIAktiivinen periodissa 3 (1.1.2024–3.3.2024)Aktiivinen periodissa 3 (1.1.2024–3.3.2024)IVAktiivinen periodissa 4 (4.3.2024–31.5.2024)Aktiivinen periodissa 4 (4.3.2024–31.5.2024)K
+KIE.SUA.110Äänne- ja muotorakenne5 opIAktiivinen periodissa 1 (1.8.2023–22.10.2023)Aktiivinen periodissa 1 (1.8.2023–22.10.2023)IIAktiivinen periodissa 2 (23.10.2023–31.12.2023)Aktiivinen periodissa 2 (23.10.2023–31.12.2023)IIIIVK
