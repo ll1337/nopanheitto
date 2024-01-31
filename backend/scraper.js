@@ -35,21 +35,23 @@ const fs = require('fs');
     
     while (true) {
         await page.waitForSelector(courseSelector);
-        const elements = await page.$$eval(courseSelector, (elements) => {
-            return elements.map((element) => element.textContent);
-        });
+        //console.log(Array.from(document.querySelectorAll(codeSelector)))
+        console.log('looppi');
         // getAttribute('href');
 
         const eof = await page.$(eofSelector);
 
         if (eof) {
             console.log('loppuun päästiin gg');
+            const elements = await page.$$eval(courseSelector, (elements) => {
+                return elements.map((element) => element.textContent);
+            });
             courses = elements;
             break;
         }
 
         //new Promise(r => setTimeout(r, defaultTimeout));
-        await page.waitForTimeout(defaultTimeout);
+        //await page.waitForTimeout(defaultTimeout);
 
         //await page.waitForFunction(
         //    (targetClassName, expectedChildCount) => {
@@ -63,7 +65,7 @@ const fs = require('fs');
             //targetClassName,
         //    3 // Replace 3 with the desired number of children
         //);
-        //await page.waitForSelector(moreSelector, {visible:true, timeout:100000});
+        await page.waitForSelector(moreSelector, {visible:true, timeout:5000});
 
         const moreButton = await page.$(moreSelector);
         if (moreButton) {
