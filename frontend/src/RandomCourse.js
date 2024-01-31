@@ -11,7 +11,7 @@ function RandomCourse({ onClick }) {
     setCourse("Vektorit ja matriisit? :) <3 ");
     setTimeout(() => {
       setButtonVisible(true);
-    }, 2140);
+    }, 2180);
   };
   return (
     <div onClick={handleButtonClick} className="result">

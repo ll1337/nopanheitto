@@ -1,11 +1,16 @@
-import React, { useRef, useState, useEffect } from "react";
-import { useFrame } from "react-three-fiber";
+import React, { useRef, useState } from "react";
+import { useFrame, useThree } from "react-three-fiber";
 import { useGLTF, OrthographicCamera } from "@react-three/drei";
 import { MeshStandardMaterial } from "three";
 
 export function Dice({ isSpinning, setSpinning, ...props }) {
   const group = useRef();
-  const { nodes, materials } = useGLTF("/dice.gltf");
+  const { nodes } = useGLTF("/dice.gltf");
+  const [dotShowing, setDotShowing] = useState(false);
+  const { size } = useThree();
+  const scaleFactor =
+    size.width < size.height ? size.width / 10000 : size.height / 10000;
+  console.log(scaleFactor);
 
   // Create material for the white base
   const whiteMaterial = new MeshStandardMaterial({ emissive: "white" });
@@ -35,19 +40,21 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
     if (isSpinning) {
       group.current.rotation.z += 0.1;
       group.current.rotation.y += 0.1;
+      setDotShowing(true);
     } else {
       group.current.rotation.set(0, 0, 0);
+      setDotShowing(false);
     }
   });
 
-  const handleDiceClick = () => {
-    setSpinning(true);
-    // group.current.scale.set(3, 3, 3);
-  };
+  // const handleDiceClick = () => {
+  //   setSpinning(true);
+  //   // group.current.scale.set(3, 3, 3);
+  // };
 
   return (
     <group {...props} dispose={null} ref={group} className="dice">
-      <group scale={0.04} className="dice">
+      <group scale={scaleFactor} className="dice">
         <directionalLight
           castShadow
           position={[900, 900, 900]}
@@ -55,7 +62,76 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
           shadow-mapSize-width={1024}
           shadow-mapSize-height={1024}
         />
+        {dotShowing && (
+          <mesh
+            castShadow
+            receiveShadow
+            geometry={nodes.Ellipse_24.geometry}
+            material={nodes.Ellipse_24.material}
+            position={[0.417, 0.807, 51]}
+          />
+        )}
 
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, -149.45, 151.234]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, -146.981, -152.657]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, 149.283, -149.394]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, 150.182, 151.308]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[-150.347, 0, 0]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[148.802, 0, 0]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, 0, -150.737]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, -147.511, 0]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0.375, 1.29, 151.895]}
+        />
+        <pointLight
+          intensity={1}
+          decay={2}
+          distance={2000}
+          position={[0, 150.977, 0.007]}
+        />
         <mesh
           castShadow
           receiveShadow
@@ -68,7 +144,7 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
           castShadow
           receiveShadow
           geometry={nodes.Ellipse_22.geometry}
-          material={handleMaterial(nodes.Ellipse_22.material)}
+          material={nodes.Ellipse_22.material}
           position={[-51, 13, 15]}
           rotation={[0, -Math.PI / 2, 0]}
         />
@@ -234,8 +310,7 @@ export function Dice({ isSpinning, setSpinning, ...props }) {
           makeDefault={false}
           far={100000}
           near={0}
-          position={[-22.577, 7.367, -1009.79]}
-          rotation={[-Math.PI, 0, Math.PI]}
+          position={[-48.577, 8.367, 990.21]}
         />
       </group>
     </group>

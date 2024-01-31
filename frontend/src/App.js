@@ -16,7 +16,7 @@ function App() {
     // Stop spinning after about 2 seconds
     setTimeout(() => {
       setSpinning(false);
-    }, 2140);
+    }, 2100);
   };
 
   return (
