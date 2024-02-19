@@ -24,8 +24,6 @@ const puppeteer = require('puppeteer');
     //const courseSelector = ".sc-bdVaJa sc-135i1ze-0.curriculum-search-result.iHLkz"
     //const courseSelectorDark = ".sc-bdVaJa.sc-135i1ze-0.curriculum-search-result.giFiGk"
 
-    // kurssin nimi, sama <a> sisältää myös linkin kurssiin hrefis
-    const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
 
     // kurssin koodi, textContentilla saa
     //const codeSelector = '.sc-bdVaJa.sc-8sw1nw-0.eLXybm';
@@ -49,7 +47,11 @@ const puppeteer = require('puppeteer');
             console.log('loppuun päästiin gg');
             //const elements = await page.$$eval(courseNameSelector, (elements) => {
                 //return elements.map((element) => element.textContent);
-            //});
+            //});  
+
+
+
+
             let logAss;
             let logAss2;
             let logAss3;
@@ -60,6 +62,8 @@ const puppeteer = require('puppeteer');
                 //let textContentsArray = [];
 
                 const courses = {};
+                // kurssin nimi, sama <a> sisältää myös linkin kurssiin hrefis
+                const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
 
                 courseUnitDivs.forEach(function(element) {
                     //textContentsArray.push(element.textContent);
@@ -70,21 +74,12 @@ const puppeteer = require('puppeteer');
                     // Get the text content of the first child
                     let courseCode = firstChild.textContent;
 
-                    //let courseNameDiv = element.getElementsByTagName('a');
-                    let courseNameDiv = element.querySelector(courseNameSelector);
+                    let secondChild = element.children[1];
 
-
-
-                    logAss = courseNameDiv;
-                    logAss2 = courseNameDiv.textContent;
-                    //logAss3 = courseNameDiv.getProperty('href');
-                    //let courseHref = courseNameDiv.getAttribute
-                    //let courseNameStr = courseNameDiv ? courseNameDiv.textContent : 'uknown course???';
-                    
                     let courseObject = {
-                            courseName: courseNameDiv.textContent,
-                            //courseCredits:
+                            courseName: secondChild.textContent,
                             //courseLink:
+                            //courseCredits:
                             //course
                     };
 
