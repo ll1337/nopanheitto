@@ -45,9 +45,9 @@ const fs = require('fs');
                 let courseUnitDivs = document.querySelectorAll('div[type="course-units"]');
                 //let textContentsArray = [];
 
-                const courses = {};
+                const courses = [];
                 // kurssin nimi, sama <a> sisältää myös linkin kurssiin hrefis
-                const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
+                //const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
 
                 let skipFirst = true;
 
@@ -69,12 +69,16 @@ const fs = require('fs');
                             //course
                         };
 
-                        courses[courseCode] = courseObject;
+                        courses.push({ [courseCode]: courseObject });
+                        
                     }
                     else skipFirst = false;
                 });
+                //const courseArray = [courses];
+                //return courseArray;
                 return courses;
             });
+
 
             const jsonData = JSON.stringify(result, null, 4);
 
