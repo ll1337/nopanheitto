@@ -1,5 +1,4 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
 
 // tähä consti js objekti missä:
 // kurssikoodi: {
@@ -26,7 +25,7 @@ const fs = require('fs');
     //const courseSelectorDark = ".sc-bdVaJa.sc-135i1ze-0.curriculum-search-result.giFiGk"
 
     // kurssin nimi, sama <a> sisältää myös linkin kurssiin hrefis
-    //const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
+    const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
 
     // kurssin koodi, textContentilla saa
     //const codeSelector = '.sc-bdVaJa.sc-8sw1nw-0.eLXybm';
@@ -37,7 +36,7 @@ const fs = require('fs');
 
     const defaultTimeout = 10000;
 
-    let courses;
+
     
     while (true) {
         console.log('looppi');
@@ -51,16 +50,53 @@ const fs = require('fs');
             //const elements = await page.$$eval(courseNameSelector, (elements) => {
                 //return elements.map((element) => element.textContent);
             //});
+            let logAss;
+            let logAss2;
+            let logAss3;
+
+
             const result = await page.evaluate(() => {
                 let courseUnitDivs = document.querySelectorAll('div[type="course-units"]');
-                let textContentsArray = [];
+                //let textContentsArray = [];
+
+                const courses = {};
 
                 courseUnitDivs.forEach(function(element) {
-                    textContentsArray.push(element.textContent);
+                    //textContentsArray.push(element.textContent);
+                    
+                    // Get the first child element
+                    let firstChild = element.firstElementChild;
+
+                    // Get the text content of the first child
+                    let courseCode = firstChild.textContent;
+
+                    //let courseNameDiv = element.getElementsByTagName('a');
+                    let courseNameDiv = element.querySelector(courseNameSelector);
+
+
+
+                    logAss = courseNameDiv;
+                    logAss2 = courseNameDiv.textContent;
+                    //logAss3 = courseNameDiv.getProperty('href');
+                    //let courseHref = courseNameDiv.getAttribute
+                    //let courseNameStr = courseNameDiv ? courseNameDiv.textContent : 'uknown course???';
+                    
+                    let courseObject = {
+                            courseName: courseNameDiv.textContent,
+                            //courseCredits:
+                            //courseLink:
+                            //course
+                    };
+
+                    courses[courseCode] = courseObject;
                 });
-                return textContentsArray;
+                return courses;
             });
-            courses = result;
+            delete result["Opinto­jakson yksilöivä koodiKoodiKlikkaa järjestääksesi opinto­jaksot koodin mukaan, aakkosjärjestyksessä"];
+            console.log(logAss);
+            console.log(logAss2);
+            console.log(logAss3);
+            console.log(result);
             break;
         }
 
@@ -72,20 +108,20 @@ const fs = require('fs');
         }
     }
 
-    // Convert the array to a string (you can customize this based on your array structure)
+/*     // Convert the array to a string (you can customize this based on your array structure)
     const arrayString = courses.join('\n'); // This example uses a newline character as a separator
 
     // Specify the file path
-    const filePath = 'output.txt';
+    const filePath = 'output.txt'; */
 
-    // Write the array content to the file
+/*     // Write the array content to the file
     fs.writeFile(filePath, arrayString, (err) => {
     if (err) {
         console.error('Error writing to file:', err);
     } else {
         console.log(`Array content has been written to ${filePath}`);
     }
-    });
+    }); */
 
     await browser.close();
 })();
