@@ -1,12 +1,5 @@
 const puppeteer = require('puppeteer');
-
-// tähä consti js objekti missä:
-// kurssikoodi: {
-//  kurssiNimi: 'Raha talous raha II'
-//  kurssiL(inn)kki: '/opintojaksot/kafsjlaghi3b
-//}
-// si vaa pushataan kaikki tolla formaatille uudella loadilla.
-// tuolta noista xSelector vakioista löytyy about kaikki luokat mitä tarvii
+const fs = require('fs');
 
 (async () => {
     const browser = await puppeteer.launch({headless: "new"});
@@ -37,9 +30,6 @@ const puppeteer = require('puppeteer');
 
     
     while (true) {
-        console.log('looppi');
-        // getAttribute('href');
-
 
         const eof = await page.$(eofSelector);
 
@@ -51,12 +41,6 @@ const puppeteer = require('puppeteer');
 
 
 
-
-            let logAss;
-            let logAss2;
-            let logAss3;
-
-
             const result = await page.evaluate(() => {
                 let courseUnitDivs = document.querySelectorAll('div[type="course-units"]');
                 //let textContentsArray = [];
@@ -65,33 +49,47 @@ const puppeteer = require('puppeteer');
                 // kurssin nimi, sama <a> sisältää myös linkin kurssiin hrefis
                 const courseNameSelector = '.sc-bdVaJa.sc-1t7n2sp-2.laxuH';
 
+                let skipFirst = true;
+
                 courseUnitDivs.forEach(function(element) {
-                    //textContentsArray.push(element.textContent);
+                    if (!skipFirst) {
                     
-                    // Get the first child element
-                    let firstChild = element.firstElementChild;
+                        // Get the first child element
+                        let firstChild = element.firstElementChild;
 
-                    // Get the text content of the first child
-                    let courseCode = firstChild.textContent;
+                        // Get the text content of the first child
+                        let courseCode = firstChild.textContent;
 
-                    let secondChild = element.children[1];
+                        let secondChild = element.children[1];
 
-                    let courseObject = {
+                        let courseObject = {
                             courseName: secondChild.textContent,
-                            //courseLink:
-                            //courseCredits:
+                            courseLink: secondChild.children[0].children[0].children[0].getAttribute("href"),
+                            courseCredits: element.children[2].textContent
                             //course
-                    };
+                        };
 
-                    courses[courseCode] = courseObject;
+                        courses[courseCode] = courseObject;
+                    }
+                    else skipFirst = false;
                 });
                 return courses;
             });
-            delete result["Opinto­jakson yksilöivä koodiKoodiKlikkaa järjestääksesi opinto­jaksot koodin mukaan, aakkosjärjestyksessä"];
-            console.log(logAss);
-            console.log(logAss2);
-            console.log(logAss3);
-            console.log(result);
+
+            const jsonData = JSON.stringify(result, null, 4);
+
+            const filePath = 'courses/output.json'
+
+            
+            // Write the JSON string to a file
+            fs.writeFile(filePath, jsonData, 'utf8', (err) => {
+            if (err) {
+                console.error('Error writing file:', err);
+                return;
+            }
+                console.log('Data has been saved to', filePath);
+            });
+
             break;
         }
 
